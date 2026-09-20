@@ -1,0 +1,99 @@
+[290]: p E T= = ×α ∆ 2.2 10 4 atm,□where α is□the□thermal□expansion□coefficient.
+[291]: (a) p r r m≈ =σ ∆ / 20 atm; (b) p r r m≈ =2 40σ ∆ / atm. Here σ m is the glass strength.
+[292]: n l m= = ×2 10 2σ /ρ/ π 0.8 cps, where σ m is the tensile strength, and ρ is the density□of□copper.
+[293]: n R m= = σ /ρ π /2 23 rps, where σ m is the tensile strength, andρ is the density of□lead.
+[294]: x l mg d E≈ = /2 23 π 2.5cm
+[295]: ε = 1 2 0/ / .F ES
+[296]: T m l r l= −1 2 1 2 2 2/ ( / ),ω ∆ l l E= 1 3 3 3/ / ,ρω where ρ is□the□density□of□copper.
+[297]: ∆V Fl E= − =( ) / ,1 2 µ 1.6 mm3 where µ is□Poisson’s□ratio□for□copper.
+[298]: (a) ∆l gl E= 1 2 2/ / ;ρ (b) ∆ ∆V V l l/ ( ) / ,= −1 2 µ where ρ is the density, and µ is Poisson’s□ratio□for□copper.
+[299]: (a) ∆V V p E/ ( ) / ;= − −3 1 2 µ (b) β µ= −3 1 2( )/ . E
+[300]: R Eh gl= =1 6 2 2/ /ρ 0.12 km, where ρ is□the□density□of□steel.
+[301]: (a) Here N is independent of x and equal to N 0. Integrating twice the initial equation with regard to the boundry conditions dy dx/ ( ) 0 0= and y( ) ,0 0≠ we obtain y N EI x= ( / ) .0 22 This is the equation of a parabola. The bending deflection□is λ = N l EI0 2 2 / , where I a= 4 /12. (b) In this case N x F l x( ) ( )= − and y F EI l x x= −( / )( / ) ;2 3 2 λ = Fl FI3 3 / , where I is□of□the□same□magnitude□as□in□(a). 282 | Answers θ C F Fig.□11 Telegram @unacademyplusdiscounts
+[302]: λ = Fl EI3 48 / .
+[303]: (a) λ ρ= 3 2 4 2/ / ; gl Eh (b) λ ρ= 5 2 4 2/ / . gl Eh Here ρ is□the□density□of□steel.
+[304]: λ βρ= 9 5 5 2/ / , l Eh where ρ is□the□density□of□steel.
+[305]: (a) φ = ⋅( / ) ;l r rG N2 3π ∆ (b) φ = ⋅( / ) .2 4l r G Nπ
+[306]: N d d G l= − φ = ⋅π( ) /2 4 1 4 32 0.5 kN m.
+[307]: P r G= φ =1 2 17 4/ π ω kW.
+[308]: N m r r r r= − −1 2 2 4 4 2 2 1 2/ ( )/( ).β
+[309]: U mE= ε =1 2 2/ / ρ 0.04 kJ, where ρ is□the□density□of□steel.
+[310]: (a) U r l g E= 1 6 2 3 2 2/ / ;π ρ (b) U r lE l l= 2 3 2 2/ ( / ) .π ∆ Hereρ is the density of steel.
+[311]: A h E l≈ =1 6 2 3/ / π δ 0.08 kJ.
+[312]: U r G l= φ =1 4 7 4 2/ / π J.
+[313]: u G r l= φ1 2 2 2 2/ / .
+[314]: u gh= =1 2 2 3/ ( ) ,β ρ 23.5 kJ /m where β is□the□compressibility.
+[315]: p p1 2> ; v v1 2< . The density of streamlines grows on transition from point 1 to point□2.
+[316]: Q S S g h S S= − 1 2 2 2 1 22 ∆ /( ).
+[317]: Q S g h= 2 0∆ ρ /ρ .
+[318]: v g h h= + =2 3 1 2 2 1( ) ρ /ρ m/s, where ρ1 and ρ2 are the densities of water and kerosene.
+[319]: h = 25cm; l max = 50 cm.
+[320]: h v g h= − =1 2 202 0/ / cm.
+[321]: p p gh R r= + −0 1 2 21ρ ( / ), where R r R1 2< < , p0 is□the□atmospheric□pressure.
+[322]: A V s t= 1 2 3 2 2/ / ,ρ where ρ is□the□density□of□water.
+[323]: τ = 2h g S s/ / .
+[324]: v h l h= −ω 2 1/ .
+[325]: MISSING
+[326]: F gS= 2ρ ∆ h = 0.50 N.
+[327]: F gbl h l= − =ρ ( )2 5 N.
+[328]: N lQ r= = ⋅ρ / π2 2 0.7 N m.
+[329]: F gh S s S= − =ρ ( ) / 2 6 N
+[330]: (a) The paraboloid of revolution; z g r= ( / ) ,ω 2 22 where z is the height measured from the surface of the liquid along the axis of the vessel,r is the distance from the□rotation□axis;□(b) p p r= + 0 2 21 2 / .ρω
+[331]: p R h= =πηω 2 4 9/ W.
+[332]: v v r R R R = 0 2 1 2 ln ( / ) ln ( / ) .
+[333]: (a) ω ω = − −     2 1 2 2 2 2 2 1 2 1 2 2 1 1R R R R R r ; (b) N R R R R = 4 2 1 2 2 2 2 2 1 2πηω
+[334]: (a) Q v R= 1 2 0 2/ ; π (b) T lR v= 1 6 2 0 2/ ; π ρ (c) F lvfr = 4 0πη ; (d) ∆p lv R= 4 0 2η / .
+[335]: The additional head ∆h = 5cm at the left-hand end of the tube imparts kinetic energy to the liquid flowing into the tube. From the conditionpv g h2 2 /= ρ ∆ we get v g h= = 2 ∆ 1.0 m/s.
+[336]: e xα∆ = 5 .
+[337]: v v r r 2 1 1 1 2 2 2 1 5= = ρ η ρ η µm/s.
+[338]: d Re g = − =18 5 2 0 0 3 η ρ ρ ρ( ) mm,whereρ0 andρ are the densities of glycerin and lead.
+[339]: t d n= − =ρ η 2 18 ln 0.20 s.
+[340]: v c c= − =η η( ) ,2 0.1 where c is□the□velocity□of□light.
+[341]: (a) P a= + −( );1 4 3 2β (b) P a= − + −( ).1 4 2 2β β Here β = v c/ .
+[342]: l l0 2 2 21 1= − − =( sin )/( )β θ β 1.08 where β = v c/ .
+[343]: (a) tan tan .θ θ β ′ = −1 2 Hence θ′ = °59 ; (b) S S= − =0 2 2 21 33β θcos . . m Here β = v c/ .
+[344]: v c t t t t = −     = ×2 10 8∆ ∆ 0.6 m/s.
+[345]: l c t t t0 21= ′ − ′ =∆ ∆ ∆ ( / ) 4.5 m.
+[346]: s c t t t= − =∆ ∆ ∆1 0 2( / ) 5 m;
+[347]: (a) ∆t l v v c0 21= − =( / ) ( / ) 1.4 s; µ (b) l l v c′ = − =1 2( / ) 0.42 km.
+[348]: l v t v c0 21 17= − =∆ / ( / ) m.
+[349]: l x x0 1 2= = ∆ ∆ 6.0 m, v c x x= − = ×1 10 1 2 4∆ / ∆ 2.2 m/s.
+[350]: v l t l c t = + 2 1 0 0 2 / ∆ ∆( / ) .
+[351]: The□forward□particle□decayed ∆t l c= − =β β µ/ ( )1 20 2 s later,□where β µ = / .c
+[352]: (a) l x x v t t v c A B A B 0 21 = − − − − ( ) ( / ) ; (b) t t v c l vA B− = − − ( ( / ) ) /1 1 2 0 or t t v c l vB A− = + − ( ( / ) ) / .1 1 2 0
+[353]: (a) t B l v( ) / ,= 0 t B l v v c( ) ( / ) ( / ) ;′ = − 0 21 (b) t A l v v c( ) ( / ) ( / ) ,= − 0 21 t A l v( ) .′ = 0
+[354]: See□Fig.□12□showing□the□positions□of□hands□“in□terms□of K clocks”. 284 | Answers K′ A′ K A v Fig.□12 Telegram @unacademyplusdiscounts
+[355]: x c= − −( ) / ,1 1 2β β where β = v c/ .
+[356]: It□should□be□shown□first□that□if ∆t t t= − >2 1 0,then ∆t t t′ = ′ − ′ >2 1 0.
+[357]: (a) 13□ns; (b) 4.0□m. Instruction. Employ□the□invariance□of□the□interval.
+[358]: v v V v V c v V c x y x ′ = − + − − ( ) ( / ) / 2 2 2 2 2 1 1
+[359]: (a) v v v c= + =1 2 1.25 ; (b) v v v v v c c= + + =( )/( / ) .1 2 1 2 21 0.91
+[360]: l l= − +0 2 21 1( )/( ),β β where β = v c/ .
+[361]: v v v v v c= + −1 2 2 2 1 2 2( / ).
+[362]: s t V v v c = + − ′ − − ′ ∆ 0 2 2 2 2 2 2 1 1 1 ( ) ( )( / ) ,β β where β = V c/ .
+[363]: tan sin cos / ,θ β θ θ ′ = − − 1 2 V c where β = V c/ .
+[364]: tan / ( / ) .θ = ′ −v V c V c2 2 1
+[365]: (a) w w v c′ = − −( ) /( / ) ; /1 1 2 3 2 2β β (b) w w′ = − ( ).1 2β Here β = V c/ .
+[366]: Let us make use of the relation between the accelerationw ′and the acceleration w in□the□reference□frame□fixed□to□the□Earth: w v c dv dt ′ = − −( / ) /1 2 2 3 2 This formula is given in the solution of the foregoing problem (item (a)) where it is necessary to assumeV v= .Integrating the given equation (forw ′ =const), we obtain v w t w t c= ′ + ′/ ( / ) .1 2 The sought distance is l w t c c w= + ′ − ′ =( ( / ) ) /1 1 2 2 0.91 light year;( )/ / ( / ) .c v c c w t− = ′ = 1 2 2 0.47%
+[367]: Taking into account that v w t w t c= ′ + ′/ ( / ) ,1 2 we get τ τ ττ 0 20 2 1 1= + ′ = ′ ′ + + ′           ∫ dt w t c c w w c w c( / ) ln = 3.5months.
+[368]: m m/ / ( ) ,0 1 2 1 70≈ − ≈ β where β = v c .
+[369]: v c c= + + =η η η( )/( ) ,2 1 0.6 where c is the velocity of light. The definition of density□as□the□ratio□of□the□rest□mass□of□a□body□to□its□volume□is□employed□here.
+[370]: ( )/ [ ( / ) ] /c v c m c p− = − + = −1 1 0 2 1 2 0.44%.
+[371]: v c c= − =( / ) / .η η 2 1 1 2 3
+[372]: A m c= 0.42 0 2 instead□of□0.14 m c0
+[373]: MISSING
+[374]: For ε <<1 the□ratio□is T m c/ / 0 2 4 3≤ ε ≈ 0.013.
+[375]: p T T m c c c= + =( )/ , 2 0 2 1.09 GeV / where c is□the□velocity□of□light.
+[376]: F I ec T T m c= +( / ) ( ), 2 0 2 P TI e= / .
+[377]: p nmv v c= −2 1 2 2 2/( / ).
+[378]: v Fct m c F t= + / , 0 2 2 2 2 l m c F c t m c F= + −( / ) / .0 2 2 2 2 0 2
+[379]: F m c a= 0 2 / .
+[380]: (a) In two cases: F v| | and F v;⊥ (b) F w⊥ = −m0 21 β ,F w /| | /( ) ,= −m0 2 3 21 β where β = v c/ .
+[381]: MISSING
+[382]: ε′ = ε − +( )/( ),1 1 β β where β = V c/ , V c= 3 5 / .
+[383]: E p c m c2 2 2 0 2 4− = , where m0 is□the□rest□mass□of□the□particle.
+[384]: (a) ~ ( / )T m c T m c= + − =2 1 2 1 7770 2 0 2 MeV, ~ / ;p m T c= = 1 2 9400 MeV / (b) V c T T m c= + = × /( ) 2 100 2 8 2.12 m/s.
+[385]: M m T m c c0 0 0 22 2= + ( )/ , V c T T m c= + /( ). 2 0 2
+[386]: T T T m c m c′ = + = ×2 2 10 0 2 0 2 3( )/ 1.43 MeV.
+[387]: E m m m m m c1 0 2 1 2 2 3 2 0 2 2 max ( ) .= + − + The particle m1 has the highest energy when the energy of the system of the remaining two particlesm2 and m3 is the lowest, i.e., when□they□move□as□a□single□whole.
+[388]: v c m m m m u c u c= − + 1 1 0 2 0 2 ( / ) ( / ) . / / Use the momentum conservation law (as solving problem 178)□and□the□relativistic□formula□for□velocity□transformation. Thermodynamics□and□Molecular□Physics

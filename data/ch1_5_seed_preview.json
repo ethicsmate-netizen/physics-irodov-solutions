@@ -1,0 +1,282 @@
+[
+  {
+    "id": "1.234",
+    "statement": "A thin uniform rod AB of mass m = 1.0 kg moves translationally with acceleration w = −2.0 m/s^2 due to two antiparallel forces F1 and F2 (). The dista",
+    "answer": "l aF mw= =2 2 / 1.0 m."
+  },
+  {
+    "id": "1.235",
+    "statement": "A force F i j= +A B is applied to a point whose radius vector relative to the origin of coordinates O is equal to r i j= +a b, where a, b, A, B are co",
+    "answer": "N aB bA= −( ), k where k is the unit vector of the z-axis; l aB bA A B= − +| |/. 2 2"
+  },
+  {
+    "id": "1.236",
+    "statement": "A force F A1 = j is applied to a point whose radius vectorr a1 = i,while a force F B2 = i is applied to the point whose radius vector r j2 = b. Both r",
+    "answer": "l aA bB A B= − +| | /. 2 2"
+  },
+  {
+    "id": "1.237",
+    "statement": "Three forces are applied to a square plate as shown in. Find the modulus, direction, and the point of application of the resultant force, if this poin",
+    "answer": "F Fres = 2. This force is parallel to the diagonal AC and is applied at the mid point of the side BC."
+  },
+  {
+    "id": "1.238",
+    "statement": "Find the moment of inertia \n(a) of a thin uniform rod relative to the axis which is perpendicular to the rod and passes through its end, if the mass o",
+    "answer": "(a) I ml= 1 3 2/; \n(b) I m a b= +1 3 2 2/ ( )."
+  },
+  {
+    "id": "1.239",
+    "statement": "Calculate the moment of inertia \n(a) of a copper uniform disc relative to the symmetry axis perpendicular to the plane of the disc, if its thickness i",
+    "answer": "(a) I bR= = ⋅1 2 4 2/; πρ 2.8 g m \n(b) I mR= 3 10^{2}/."
+  },
+  {
+    "id": "1.240",
+    "statement": "Demonstrate that in the case of a thin plate of arbitrary shape there is the following relationship between the moments of inertia:I I I1 2 3+ =, wher",
+    "answer": "I mR= 1 4 2/."
+  },
+  {
+    "id": "1.241",
+    "statement": "A uniform disc of radiusR = 20 cm has a round cut as shown in. The mass of the remaining (shaded) portion of the disc equalsm = 7.3 kg. Find the momen",
+    "answer": "I mR= = ⋅( / ).37 72 2 2 0.15 kg m"
+  },
+  {
+    "id": "1.242",
+    "statement": "Using the formula for the moment of inertia of a uniform sphere, find the moment of inertia of a thin spherical layer of massm and radius R relative t",
+    "answer": "I mR= 2 3 2/."
+  },
+  {
+    "id": "1.243",
+    "statement": "A light thread with a body of mass m tied to its end is wound on a uniform solid cylinder of mass M and radius R (). At a moment t = 0 the system is s",
+    "answer": "(a) ω = +gt R M m/ ( / );1 2 \n(b) T mg t M m= + 2 2 2 1 2/ ( / )."
+  },
+  {
+    "id": "1.244",
+    "statement": "The ends of thin threads tightly wound on the axle of radius r of the Maxwell disc are attached to a horizontal bar. When the disc unwinds, the bar is",
+    "answer": "T mg= 1 2 /, w gmr I0 2= /."
+  },
+  {
+    "id": "1.245",
+    "statement": "A thin horizontal uniform rod AB of mass m and length l can rotate freely about a vertical axis passing through its end A. At a certain moment the end",
+    "answer": "ω = φ 6F mlsin /."
+  },
+  {
+    "id": "1.246",
+    "statement": "In the arrangement shown in  the mass of the uniform solid cylinder of radius R is equal to m and the masses of two bodies are equal tom1 and m2.The t",
+    "answer": "β = − + + | | ( / ),m m g m m m R 2 1 1 2 2 T T m m m m m m 1 2 1 2 2 1 4 4 = + + ( ) ( )."
+  },
+  {
+    "id": "1.247",
+    "statement": "In the system shown in  the masses of the bodies are known to bem1 and m2,the coefficient of friction between the body m1 and the horizontal plane is ",
+    "answer": "A m km km g t m m m = − − + + ( ) ( ).2 1 1 2 2 1 22"
+  },
+  {
+    "id": "1.248",
+    "statement": "A uniform cylinder of radius R is spinned about its axis to the angular velocityω 0 and then placed into a corner (). The coefficient of friction betw",
+    "answer": "n k R k k g= + +( ) / ( ).1 8 1 2 0 2ω π"
+  },
+  {
+    "id": "1.249",
+    "statement": "A uniform disc of radius R is spinned to the angular velocity ω and then carefully placed on a horizontal surface. How long will the disc be rotating ",
+    "answer": "t R= 3 4 / /.ω kg"
+  },
+  {
+    "id": "1.250",
+    "statement": "A flywheel with the initial angular velocity ω 0 decelerates due to the forces whose moment relative to the axis is proportional to the square root of",
+    "answer": "ω ω = 1 3 0/."
+  },
+  {
+    "id": "1.251",
+    "statement": "A uniform cylinder of radius R and mass M can rotate freely about a stationary horizontal axis O (). A thin cord of length l and mass m is wound on th",
+    "answer": "β = +2 2mgx Rl M m/ ( )."
+  },
+  {
+    "id": "1.252",
+    "statement": "A uniform sphere of mass m and radius R rolls without slipping down an inclined plane set at an angle α to the horizontal. Find: \n(a) the magnitudes o",
+    "answer": "(a) k \\ge  2 7 / tan;α \n(b) T mg t= 5 14 2 2 2/ sin. α"
+  },
+  {
+    "id": "1.253",
+    "statement": "A uniform cylinder of mass m = 8.0 kg and radius R = 1.3 cm () starts descending at a moment t = 0 due to gravity. Neglecting the mass of the thread, ",
+    "answer": "(a) T mg= =1 6 13/ N, β = = \\times 2 3 5 10^{2} 2/ /;g R rad /s \n(b) P mg t= 2 3 2/,"
+  },
+  {
+    "id": "1.254",
+    "statement": "Thin threads are tightly wound on the ends of a uniform solid cylinder of mass m. The free ends of the threads are attached to the ceiling of an eleva",
+    "answer": "w w' = −2 3 0/ ( ),g F g w= −1 3 0/ ( ).m"
+  },
+  {
+    "id": "1.255",
+    "statement": "A spool with a thread wound on it is placed on an inclined smooth plane set at an angle α = 30^{\\circ} to the horizontal. The free end of the thread i",
+    "answer": "w g l mr= + =sin /( / ).α 1 2 2 1.6 m/s"
+  },
+  {
+    "id": "1.256",
+    "statement": "A uniform solid cylinder of mass m rests on two horizontal planks. A thread is wound on the cylinder. The hanging end of the thread is pulled vertical",
+    "answer": "F kmg kmax /( );= −3 2 3 v kg kmax /( ).= −2 2 3"
+  },
+  {
+    "id": "1.257",
+    "statement": "A spool with thread wound on it, of mass m, rests on a rough horizontal surface. Its moment of inertia relative to its own axis is equal to I mR= γ 2,",
+    "answer": "(a) w F r R m x = − + (cos / ) ( );α γ1 \n(b) A F t r R m = − + 2 2 2 2 1 (cos / ) ( ) α γ"
+  },
+  {
+    "id": "1.258",
+    "statement": "The arrangement shown in  consists of two identical uniform solid cylinders, each of massm, on which two light threads are wound symmetrically. Find t",
+    "answer": "T mg= 1 10 /."
+  },
+  {
+    "id": "1.259",
+    "statement": "In the arrangement shown in  a weightA possesses mass m, a pulley B possesses mass M. Also known are the moment of inertia I of the pulley relative to",
+    "answer": "w = + + +3 3 9 2g M m M m I R( )/( / )."
+  },
+  {
+    "id": "1.260",
+    "statement": "A uniform solid cylinder A of mass m1 can freely rotate about a horizontal axis fixed to a mount B of mass m2 (). A constant horizontal force F is app",
+    "answer": "(a) w F m m m m m = + + ( ) ( );3 21 2 1 1 2 \n(b) T F t m m m m m = + + 2 2 1 2 1 1 2 3 2 2 ( ) ( )."
+  },
+  {
+    "id": "1.261",
+    "statement": "A plank of massm1 with a uniform sphere of massm2 placed on it rests on a smooth horizontal plane. A constant horizontal forceF is applied to the plan",
+    "answer": "w F m m1 1 2 2 7= + /( / ); w w2 1 2 7= /."
+  },
+  {
+    "id": "1.262",
+    "statement": "A uniform solid cylinder of massm and radius R is set in rotation about its axis with an angular velocity ω 0, R A B 2R K FB A surface onto a horizont",
+    "answer": "(a) t R kg= 1 3 0/ /;ω \n(b) A m R= − 1 6 0 2 2/. ω"
+  },
+  {
+    "id": "1.263",
+    "statement": "A uniform ball of radiusr rolls without slipping down from the top of a sphere of radius R. Find the angular velocity of the ball at the moment it bre",
+    "answer": "ω = + 10^{17} 2g R r r( )/."
+  },
+  {
+    "id": "1.264",
+    "statement": "A uniform solid cylinder of radius R = 15 cm rolls over a horizontal plane passing into an inclined plane forming an angleα = 30^{\\circ} with the hori",
+    "answer": "v gR0 1 3 7 4= − =/ ( cos ) α 1.0 m/s."
+  },
+  {
+    "id": "1.265",
+    "statement": "A small bodyA is fixed to the inside of a thin rigid hoop of radiusR and mass equal to that of the bodyA. The hoop rolls without slipping over a horiz",
+    "answer": "v gR0 8=."
+  },
+  {
+    "id": "1.266",
+    "statement": "Determine the kinetic energy of a tractor crawler belt of mass m if the tractor moves with velocity v ().",
+    "answer": "T mv= 2."
+  },
+  {
+    "id": "1.267",
+    "statement": "A uniform sphere of mass m and radius r rolls without sliding over a horizontal plane, rotating about a horizontal axleOA (). In the process, the cent",
+    "answer": "T mv r R= +7 10^{1} 2 72 2 2/ ( / / )."
+  },
+  {
+    "id": "1.268",
+    "statement": "Demonstrate that in the reference frame rotating with a constant angular velocityω about a stationary axis a body of massm experiences the resultant 0",
+    "answer": "See analytical proof in step-by-step solution."
+  },
+  {
+    "id": "1.269",
+    "statement": "A midpoint of a thin uniform rodAB of mass m and length l is rigidly fixed to a rotation axle OO' as shown in. The rod is set into rotation with a con",
+    "answer": "N m l= 1 2 2 2 2/ sin.ω θ"
+  },
+  {
+    "id": "1.270",
+    "statement": "A conical pendulum, a thin uniform rod of length l and mass m, rotates uniformly about a vertical axis with angular velocity ω (the upper end of the r",
+    "answer": "cos / /.θ ω= 3 2 2g l"
+  },
+  {
+    "id": "1.271",
+    "statement": "A uniform cube with edge a rests on a horizontal plane whose friction coefficient equals k. The cube is set in motion with an initial velocity, travel",
+    "answer": "\\Delta x ka= 1 2 /."
+  },
+  {
+    "id": "1.272",
+    "statement": "A smooth uniform rodAB of mass M and length l rotates freely with an angular velocity ω 0 in a horizontal plane about a stationary vertical axis passi",
+    "answer": "v l m M' = +ω 0 1 3/ /."
+  },
+  {
+    "id": "1.273",
+    "statement": "A uniform rod of mass m = 5.0 kg and length l = 90 cm rests on a smooth horizontal surface. One of the ends of the rod is struck with the impulse J = ",
+    "answer": "F J ml= =9 2 92/ / N."
+  },
+  {
+    "id": "1.274",
+    "statement": "A thin uniform square plate with side l and mass M can rotate freely about a stationary vertical axis coinciding with one of its sides. A small ball o",
+    "answer": "(a) v v' = − + 3 4 3 4 m M m m; \n(b) F Mv l M m = + 8 1 4 3 2 2( / )."
+  },
+  {
+    "id": "1.275",
+    "statement": "A vertically oriented uniform rod of mass M and length l can rotate about its upper end. A horizontally flying bullet of mass m strikes the lower end ",
+    "answer": "(a) v M m gl= ( / ) / sin ( / );2 3 2 α \n(b) \\Delta p M gl= 1 6 2/ sin ( / ); α \n(c) z l\\approx  2 3 /."
+  },
+  {
+    "id": "1.276",
+    "statement": "A horizontally oriented uniform disc of mass M and radius R rotates freely about a stationary vertical axis passing through its centre. The disc has a",
+    "answer": "(a) ω ω= +( / );1 2 0m M \n(b) A m R m M= +1 2 1 2 0 2 2/ ( / ).ω"
+  },
+  {
+    "id": "1.277",
+    "statement": "A man of mass m1 stands on the edge of a horizontal uniform disc of mass m2 and radius R which is capable of rotating freely about a stationary vertic",
+    "answer": "(a) φ = − + φ'2 2 1 1 2 m m m; \n(b) N m m R m m dv dt 2 1 2 1 22 = − +."
+  },
+  {
+    "id": "1.278",
+    "statement": "Two horizontal discs rotate freely about a vertical axis passing through their centres. The moments of inertia of the discs relative to this axis are ",
+    "answer": "(a) ω ω ω= + + I I I I 1 1 2 2 1 2; \n(b) A I I I I = − + −1 2 1 2 1 2 2 2( ) ( ).ω ω"
+  },
+  {
+    "id": "1.279",
+    "statement": "A small disc and a thin uniform rod of lengthl, whose mass is η times greater than the mass of the disc, lie on a smooth horizontal plane. The disc is",
+    "answer": "v v' = − +( )/( ),4 4 η η ω η = +12 4v l/ ( ). For η = 4 and η > 4."
+  },
+  {
+    "id": "1.280",
+    "statement": "A stationary platform P which can rotate freely about a vertical axis () supports a motor M and a balance weight N. The moment of inertia of the platf",
+    "answer": "(a) A I I I90 0 2 0 2 01 2^{\\circ} = +/ /( ),ω A I I180 0 2 0 22^{\\circ} = ω /; \n(b) N I I I= +0 2 0 2 0ω /( )."
+  },
+  {
+    "id": "1.281",
+    "statement": "A horizontally oriented uniform rodAB of mass m = 1.40 kg and length l0 100= cm rotates freely about a stationary vertical axis OO'passing through its",
+    "answer": "ω = = 2g l/ 6.0 rad /s; F mgl l= = 0 25/ N."
+  },
+  {
+    "id": "1.282",
+    "statement": "The middle of a uniform rod of massm and length l is rigidly fixed to a vertical axisOO'so that the angle between the rod and the axis is equal toθ (s",
+    "answer": "(a) M m l= 1 12 2/ sin, ω θ M M2 = sin θ \n(b) | | / sin;\\Delta M = 1 12 2 2m lω θ \n(c) N m l= \\times 1 24 2 2 2/ sin. ω θ"
+  },
+  {
+    "id": "1.283",
+    "statement": "A top of massm = 0.50 kg, whose axis is tilted by an angleθ = 30^{\\circ} to the vertical, precesses due to gravity, The moment of inertia of the top r",
+    "answer": "(a) ω ω' = =mgl I/ 0.7 rad /s; \n(b) F m l= ' =ω θ2 10sin mN. See Fig. 11."
+  },
+  {
+    "id": "1.284",
+    "statement": "A gyroscope, a uniform disc of radius R = 5.0 cm at the end of a rod of length l = 10 cm (), is mounted on the floor of an elevator car going up with ",
+    "answer": "ω π= + = \\times ( ) /g w l nR 2 2 3 10 rad /s."
+  },
+  {
+    "id": "1.285",
+    "statement": "A top of massm = 1.0 kg and moment of inertia relative to its own axis I = 4.0 gm2 spins with an angular velocity ω = −310 1rads. Its point of rest is",
+    "answer": "ω ω ω' = + =ml g I2 2 / 0.8 rad /s. The vectorω' forms the angle θ ω= = ^{\\\\circ}arc tan ( / )g 6 with the vertical."
+  },
+  {
+    "id": "1.286",
+    "statement": "A uniform sphere of mass m = 5.0 kg and radius R = 6.0 cm rotates with an angular velocity ω = −1250 1rads about a horizontal axle passing through its",
+    "answer": "F mR l' = ' =2 5 2/ / ωω 0.30 kN."
+  },
+  {
+    "id": "1.287",
+    "statement": "A cylindrical disc of a gyroscope of mass m = 15 kg and radius r = 5.0 cmspins with an angular velocity ω = −330 1rads. The distance between the beari",
+    "answer": "F mr lT mmax = φ =π ω/ 2 0.09 kN."
+  },
+  {
+    "id": "1.288",
+    "statement": "A ship moves with velocity v = 36 km per hour along an arc of a circle of radius R = 200 m. Find the moment of the gyroscopic forces exerted on the be",
+    "answer": "N nIv R= = ⋅2 6π / kN m."
+  },
+  {
+    "id": "1.289",
+    "statement": "A locomotive is propelled by a turbine whose axle is parallel to the axes of wheels. The turbine's rotation direction coincides with that of wheels. T",
+    "answer": "F nIv Rladd 1.4 kN.= =2π / The force exerted on the outside rail increases by this value while that exerted on the inside one decreases by the same value."
+  }
+]

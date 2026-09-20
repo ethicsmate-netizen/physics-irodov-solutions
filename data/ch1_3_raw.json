@@ -1,0 +1,412 @@
+[
+  {
+    "id": "1.118",
+    "stmt": "A particle has shifted along some trajectory in the planexy from point 1 whose radius vector r i j1 2= + to point 2 with the radius vector r i j.2 2 3= \u2212 During that time the particle experienced the action of certain forces, one of which beingF i j.= +3 4 Find the work performed by the force F. (Here r1, r2 and F are given in SI units).",
+    "raw_ans": "A = \u2212 = \u2212F r r J.( )2 1 17"
+  },
+  {
+    "id": "1.119",
+    "stmt": "A locomotive of mass m starts moving so that its velocity varies according to the law v a s=, where a is a constant, and s is the distance covered. Find the total work performed by all the forces which are acting on the locomotive during the first t seconds after the beginning of motion.",
+    "raw_ans": "A ma t= 4 2 8 /."
+  },
+  {
+    "id": "1.120",
+    "stmt": "The kinetic energy of a particle moving along a circle of radius R depends on the distance covered s as T as= 2, where a is a constant. Find the force acting on the particle as a function of s.",
+    "raw_ans": "F as s R= +2 1 2( / )."
+  },
+  {
+    "id": "1.121",
+    "stmt": "A body of massm was slowly hauled up the hill () by a forceF which at each point was directed along a tangent to the trajectory. Find the work performed by this force, if the height of the hill is h, the length of its base l, and the coefficient of friction k.",
+    "raw_ans": "A mg h kl= + ( )."
+  },
+  {
+    "id": "1.122",
+    "stmt": "A disc of mass m = 50 g slides with the zero initial velocity down an inclined plane set at an angle \u03b1 = 30^{\\circ} to the horizontal; having traversed the distance l = 50 cm along the horizontal plane, the disc stops. Find the work performed by the friction forces over the whole distance, assuming the friction coefficient k = 0.15 for both inclined and horizontal planes.",
+    "raw_ans": "A kmgl k= \u2212 \u2212 = \u2212 /( cot )1 \u03b1 0.05 J"
+  },
+  {
+    "id": "1.123",
+    "stmt": "Two bars of masses m1 and m2 connected by a non-deformed light spring rest on a horizontal plane. The coefficient of friction between the bars and the surface is equal to k. What minimum constant force has to be applied in the horizontal direction to the bar of mass m1 in order to shift the other bar?",
+    "raw_ans": "F m m kgmin ( / ).= + 1 2 2"
+  },
+  {
+    "id": "1.124",
+    "stmt": "A chain of mass m = 0.80 kg and length l = 1.5 m rests on a rough-surfaced table so that one of its ends hangs over the edge. The chain starts sliding off the table all by itself provided the overhanging part equals \u03b7 = 1 3 of the chain length. What will be the total work performed by the friction forces acting on the chain by the moment it slides completely off the table?",
+    "raw_ans": "A mgl= \u2212 \u2212 = \u2212( ) /1 2 \u03b7 \u03b7 1.3 J."
+  },
+  {
+    "id": "1.125",
+    "stmt": "A body of mass m is thrown at an angle \u03b1 to the horizontal with the initial velocity v0. Find the mean power developed by gravity over the whole time of motion of the body, and the instantaneous power of gravity as a function of time.",
+    "raw_ans": "P = 0, P mg gt v= \u2212 ( sin ). 0 \u03b1"
+  },
+  {
+    "id": "1.126",
+    "stmt": "A particle of mass m moves along a circle of radius R with a normal acceleration varying with time asw atn = 2,where a is a constant. F m l h the time dependence of the power developed by all the forces acting on the particle, and the mean value of this power averaged over the first t seconds after the beginning of motion.",
+    "raw_ans": "P mRat=, P mRat= /2."
+  },
+  {
+    "id": "1.127",
+    "stmt": "A small body of massm is located on a horizontal plane at the pointO. The body acquires a horizontal velocity v0. Find: \n(a) the mean power developed by the friction force during the whole time of motion, if the friction coefficient k = 0.27, m = 1.0 kg, and v0 1= \u22121.5 ms; \n(b) the maximum instantaneous power developed by the friction force, if the friction coefficient varies as k x= \u03b1, where \u03b1 is a constant, and x is the distance from the point O.",
+    "raw_ans": "(a) P kmgv= \u2212 = \u2212 0 2 2/; W \n(b) P mv gmax /.= \u2212 1 2 0 2 \u03b1"
+  },
+  {
+    "id": "1.128",
+    "stmt": "A small body of mass m = 0.10 kg moves in the reference frame rotating about a stationary axis with a constant angular velocity \u03c9 = \u22125.0 rad/s. What work does the centrifugal force of inertia perform during the transfer of this body along an arbitrary path from point 1 to 2 which are located at the distances r1 30= cm and r2 50= cm from the rotation axis?",
+    "raw_ans": "A m r r= \u2212 =1 2 2 2 2 1 2/ ( ) \u03c9 0.20 J."
+  },
+  {
+    "id": "1.129",
+    "stmt": "A system consists of two springs connected in series and having the stiffness coefficients k1 and k2. Find the minimum work to be performed in order to stretch this system by \\Delta l.",
+    "raw_ans": "A k lmin / ( ),= 1 2 2\\Delta  where k k k k k= + 1 2 1 2/( )."
+  },
+  {
+    "id": "1.130",
+    "stmt": "A body of massm is hauled from the Earth's surface by applying a force F varying with the height of ascent y as F = \u22122 1( ),ay mg where a is a positive constant. Find the work performed by this force and the increment of the body's potential energy in the gravitational field of the Earth over the first half of the ascent.",
+    "raw_ans": "A mg a= 3 4 /, \\Delta U mg a= /. 2"
+  },
+  {
+    "id": "1.131",
+    "stmt": "The potential energy of a particle in a certain field has the form U a r b r= \u22122,where a and b are positive constants,r is the distance from the centre of the field. Find: \n(a) the value of r0 corresponding to the equilibrium position of the particle; examine whether this position is steady; \n(b) the maximum magnitude of the attraction force; draw the plotsU r( ) and F rr( ) (the projection of the force on the radius vector r).",
+    "raw_ans": "(a) r a b0 2= /, steady; \n(b) F b amax /,= 2 227 ] see Fig. 7."
+  },
+  {
+    "id": "1.132",
+    "stmt": "In a certain two-dimensional field of force the potential energy of a particle has the form U x y= +\u03b1 \u03b22 2, where \u03b1 and \u03b2 are positive constants whose magnitudes are different. Find out: \n(a) whether this field is central; \n(b) what is the shape of the equipotential surfaces and also of the surfaces for which the magnitude of the vector of force F = constant.",
+    "raw_ans": "(a) No; \n(b) ellipses whose ratio of semiaxes is a b/; = \u03b2 /\u03b1 also ellipses, but with a b/. = \u03b2 /\u03b1"
+  },
+  {
+    "id": "1.133",
+    "stmt": "There are two stationary fields of forceF i= ay and F i j= +ax by,where i and j are the unit vectors of the x and y axes, and a and b are constants. Find out whether these fields are potential.",
+    "raw_ans": "The latter field is potential."
+  },
+  {
+    "id": "1.134",
+    "stmt": "A body of mass m is pushed with the initial velocityv0 up an inclined plane set at an angle \u03b1 to the horizontal. The friction coefficient is equal to k. What distance will the body cover before it stops and what work do the friction forces perform over this distance?",
+    "raw_ans": "s v g k= + 0 2 2 / (sin cos ),\u03b1 \u03b1 A mv k k= \u2212 + 0 2 2 / ( tan ). \u03b1"
+  },
+  {
+    "id": "1.135",
+    "stmt": "A small disc A slides down with initial velocity equal to zero from the top of a smooth hill of heightH having a horizontal portion (). What must be the height of the horizontal portion h to ensure the maximum distance s covered by the disc? What is it equal to?",
+    "raw_ans": "h H= /; 2s Hmax.="
+  },
+  {
+    "id": "1.136",
+    "stmt": "A small body A starts sliding from the height h down an inclined groove passing into a half-circle of radius h/2 (). Assuming the friction to be negligible, find the velocity of the body at the highest  point of its trajectory (after breaking off the groove).",
+    "raw_ans": "v gh= 2 3 3/ /."
+  },
+  {
+    "id": "1.137",
+    "stmt": "A ball of mass m is suspended by a thread of length l. With what minimum velocity has the point of suspension to be shifted in the horizontal direction for the ball to move along the circle about that point? What will be the tension of the thread at the moment it will be passing the horizontal position?",
+    "raw_ans": "v glmin;= 5 T mg= 3."
+  },
+  {
+    "id": "1.138",
+    "stmt": "A horizontal plane supports a stationary vertical cylinder of radius R and a disc A attached to the cylinder by a horizontal thread AB of length l0 (, top view). An initial velocity v0 is imparted to the disc as shown in the figure. How long will it move along the plane until it strikes against the cylinder? The friction is assumed to be absent.",
+    "raw_ans": "t l v R= 0 2 02 /."
+  },
+  {
+    "id": "1.139",
+    "stmt": "A smooth rubber cord of length l whose coefficient of elasticity is k is suspended by one end from the point O (). The other end is fitted with a catchB. A small sleeve A of mass m starts falling from the point O. Neglecting the masses of the thread and the catch, find the maximum elongation of the cord. A H h s h/2h A R l0 v0 B A O A B",
+    "raw_ans": "\\Delta l kl mg mg k= + +( / ) /.1 1 2"
+  },
+  {
+    "id": "1.140",
+    "stmt": "A small bar A resting on a smooth horizontal plane is attached by threads to a pointP () and, by means of a weightless pulley, to a weight B possessing the same mass as the bar itself. Besides, the bar is also attached to a point O by means of light non-deformed spring of length l0 50= cm and stiffness x mg l= 5 0/, where m is the mass of the bar. The threadPA having been burned, the bar starts moving. Find its velocity at the moment when it is breaking off the plane.",
+    "raw_ans": "v gl= = 19 320/ 1.7 m/s."
+  },
+  {
+    "id": "1.141",
+    "stmt": "A horizontal plane supports a plank with a bar of mass m = 1.0 kg placed on it and attached by a light elastic non-deformed cord of length l0 40= cm to a point O (). The coefficient of friction between the bar and the plank equal k = 0.20. The plank is slowly shifted to the right until the bar starts sliding over it. It occurs at the moment when the cord deviates from the vertical by an angle \u03b8 = 30^{\\circ}. Find the work that has been performed by that moment by the friction force acting on the bar in the reference frame fixed to the plane.",
+    "raw_ans": "A kmgl k = \u2212 + =0 2 1 cos (sin cos ) cos \u03b8 \u03b8 \u03b8 \u03b8 0.09 J."
+  },
+  {
+    "id": "1.142",
+    "stmt": "A smooth light horizontal rod AB can rotate about a vertical axis passing through its endA. The rod is fitted with a small sleeve of mass m attached to the endA by a weightless spring of lengthl0 and stiffness x. What work must be performed to slowly get this system going and reaching the angular velocity \u03c9?",
+    "raw_ans": "A xl= + \u22120 2 2 1 2 1\u03b7 \u03b7 \u03b7( )/ ( ), where \u03b7 \u03c9= m x2 /."
+  },
+  {
+    "id": "1.143",
+    "stmt": "A pulley fixed to the ceiling carries a thread with bodies of massesm1 and m2 attached to its ends. The masses of the pulley and the thread are negligible, friction is absent. Find the accelerationwC of the centre of inertia of this system. 0 A O p B l0 O m",
+    "raw_ans": "wC g m m m m= \u2212 +( ) /( ).1 2 2 1 2 2 ( ) U r( ) rmra r Fig. 7"
+  },
+  {
+    "id": "1.144",
+    "stmt": "Two interacting particles form a closed system whose centre of inertia is at rest.  illustrates the positions of both particles at a certain moment and the trajectory of the particle of massm1.Draw the trajectory of the particle of mass m1 and m m 2 1 2=.",
+    "raw_ans": "Refer to comprehensive derivation below."
+  },
+  {
+    "id": "1.145",
+    "stmt": "A closed chain A of mass m = 0.36 kg is attached to a vertical rotating shaft by means of a thread (), and rotates with a constant angular velocity \u03c9 = \u221235 1rads. The thread forms an angle \u03b8 = 45^{\\circ} with the vertical. Find the distance between the chain's centre of gravity and the rotation axis, and the tension of the thread.",
+    "raw_ans": "r g= =( / ) tan\u03c9 \u03b82 0.8 cm,T mg= = /cos \u03b8 5 N."
+  },
+  {
+    "id": "1.146",
+    "stmt": "A round cone A of mass m = 3.2 kg and half-angle \u03b1 = 10^{\\circ} rolls uniformly and without slipping along a round conical surfaceB so that its apex O remains stationary (). The centre of gravity of the cone A is at the same level as the point O and at a distance l = 17 cm from it. The cone's axis moves with angular velocity \u03c9. Find: \n(a) the static friction force acting on the cone A, if \u03c9 = \u22121.0 rad/s; \n(b) at what values of \u03c9 the cone A will roll without sliding, if the coefficient of friction between the surfaces is equal to k = 0.25.",
+    "raw_ans": "(a) F mg l gfr = + = [sin ( / ) cos ]\u03b1 \u03c9 \u03b1 2 6 N. \n(b) \u03c9 \u03b1 \u03b1<< \u2212 + =g k l k( tan )/ ( tan ) 1 2 rad /s."
+  },
+  {
+    "id": "1.147",
+    "stmt": "In the reference frame K two particles travel along the x-axis, one of mass m1 with velocity v1, and the other of mass m2 with velocity v2. Find: \n(a) the velocity V of the reference frame K 'in which the cumulative kinetic energy of these particles is minimum; \n(b) the cumulative kinetic energy of these particles in the K 'frame.",
+    "raw_ans": "(a) V v v= + +( )/( );m m m m1 1 2 2 1 2 \n(b) T v= \u2212\\mu ( ) /,v1 2 2 2 where \\mu  = +m m m m1 2 1 2( )."
+  },
+  {
+    "id": "1.148",
+    "stmt": "The reference frame, in which the centre of inertia of a given system of particles is at rest, translates with a velocity V relative to an inertial reference frame K. The mass of the system of particles equals m, and the total energy of the system in the frame of the centre of inertia is equal to ~.E Find the total energy E of this system of particles in the reference frame K.",
+    "raw_ans": "E E mV= +~ 2 /2."
+  },
+  {
+    "id": "1.149",
+    "stmt": "Two small discs of masses m1 and m2 interconnected by a weightless spring rest on a smooth horizontal plane. \u03b8 A 2\u03b1 AO B m2 m1 with initial velocities v1 and v2 whose directions are mutually perpendicular and lie in a horizontal plane. Find the total energy ~E of this system in the frame of the centre of inertia.",
+    "raw_ans": "~ ( )/E v v= +\\mu  1 2 2 2 2, where \\mu  = +m m m m1 2 1 2/( )."
+  },
+  {
+    "id": "1.150",
+    "stmt": "A system consists of two small spheres of masses m1 and m2 interconnected by a weightless spring. At the momentt = 0 the spheres are set in motion with the initial velocities v1 and v2 after which the system starts moving in the Earth's uniform gravitational field. Neglecting the air drag, find the time dependence of the total momentum of this system in the process of motion and of the radius vector of its centre of inertia relative to the initial position of the centre.",
+    "raw_ans": "p p= + 0 mgt, where p v v0 1 2 2= +m m. m m m= + 1 2; r /2,C v t gt= + 0 2 where v v v0 1 1 2 2 1 2= + +( )/( ).m m m m"
+  },
+  {
+    "id": "1.151",
+    "stmt": "Two bars of masses m1 and m2 connected by a weightless spring of stiffness x () rest on a smooth horizontal plane. Bar 2 is shifted a small distance x to the left and then released. Find the velocity of the centre of inertia of the system after bar 1 breaks off the wall.",
+    "raw_ans": "v x xm m mC = + 2 1 2/( )."
+  },
+  {
+    "id": "1.152",
+    "stmt": "Two bars connected by a weightless spring of stiffness x and length (in the non-deformed state) l0 rest on a horizontal plane. A constant horizontal force F starts acting on one of the bars as shown in. Find the maximum and minimum distances between the bars during the subsequent motion of the system, if the masses of the bars are \n(a) equal; \n(b) equal to m1 and m2,and the forceF is applied to the bar of massm2",
+    "raw_ans": "(a) l l F xmax /,= +0 l lmin;= 0 \n(b) l l m F x m mmax / ( ),= + +0 1 1 22 l lmin.= 0"
+  },
+  {
+    "id": "1.153",
+    "stmt": "A system consists of two identical cubes, each of mass m, linked together by the compressed weightless spring of stiffness x (). The cubes are also connected by a thread which is burned through at a certain moment. Find: \n(a) at what values of \\Delta  l, the initial compression of the spring, the lower cube will bounce up after the thread has been burned through: \n(b) to what height h the centre of gravity of this system will rise if the initial compression of the spring \\Delta l mg x= 7 /.",
+    "raw_ans": "(a) \\Delta l mg x> 3 /; \n(b) h x l mg mg x mg x= + =( / ) / /.1 8 8 2\\Delta "
+  },
+  {
+    "id": "1.154",
+    "stmt": "Two identical buggies 1 and 2 with one man in each moves without friction due to inertia along the parallel rails towards each other. When the buggies get opposite each other, the men exchange their places by jumping in the direction perpendicular to the motion direction. As a consequence, buggy 1 stops and buggy 2 keeps moving in the same direction, with its velocity becoming equal to v. Find the initial velocities of the buggies v1 and v2 if the mass of each buggy (without a man) equal M and the mass of each man m. 1 2 x m1 x m2 F m m",
+    "raw_ans": "v v1 = \u2212 \u2212m M m( ), v v 2 = \u2212M M m/( )."
+  },
+  {
+    "id": "1.155",
+    "stmt": "Two identical buggies move one after the other due to inertia (without friction) with the same velocity v0. A man of mass m rides the rear buggy. At a certain moment the man jumps into the front buggy with a velocity u relative to his buggy. Knowing that the mass of each buggy is equal to M, find the velocities with which the buggies will move after that.",
+    "raw_ans": "v m M m rear v u= \u2212 + 0; v v uform = + + 0 2 mM M m( )."
+  },
+  {
+    "id": "1.156",
+    "stmt": "Two men, each of mass m, stand on the edge of a stationary buggy of mass M. Assuming the friction to be negligible, find the velocity of the buggy after both men jump off with the same horizontal velocity u relative to the buggy: (1) simultaneously; (2) one after the other. In what case will the velocity of the buggy be greater and how many times?",
+    "raw_ans": "(1) v u1 2 2 = \u2212 + m M m; (2) v u2 = \u2212 + + + m M m M m M m ( ) ( )( ),2 3 2 v v m M m 2 1 1 2 1= + + > ( )."
+  },
+  {
+    "id": "1.157",
+    "stmt": "A chain hangs on a thread and touches the surface of a table by its lower end. Show that after the thread has been burned through, the force exerted on the table by the falling part of the chain at any moment is twice as great as the force of pressure exerted by the part already resting on the table.",
+    "raw_ans": "See analytical proof in step-by-step solution."
+  },
+  {
+    "id": "1.158",
+    "stmt": "A steel ball of mass m = 50 g falls from the height h = 1.0 m on the horizontal surface of a massive slab. Find the cumulative momentum that the ball imparts to the slab after numerous bounces, if every impact decreases the velocity of the ball \u03b7 = 1.25 times.",
+    "raw_ans": "\\Delta p m gh= + \u2212 =2 1 1( )/( )\u03b7 \u03b7 0.2 kg -m/s."
+  },
+  {
+    "id": "1.159",
+    "stmt": "A raft of mass M with a man of massm aboard stays motionless on the surface of a lake. The man moves a distance l'relative to the raft with velocity v'( )t and then stops. Assuming the water resistance to be negligible, find: \n(a) the displacement of the raft l relative to the shore; \n(b) the horizontal component of the force with which the man acted on the raft during the motion.",
+    "raw_ans": "(a) l l= \u2212 + 'm M m; \n(b) F v= \u2212 + 'mM M m d dt."
+  },
+  {
+    "id": "1.160",
+    "stmt": "A stationary pulley carries a rope whose one end supports a ladder with a man and the other end the counterweight of mass M. The man of mass m climbs up a distance l'with respect to the ladder and then stops. Neglecting the mass of the rope and the friction in the pulley axle, find the displacement l of the centre of inertia of this system.",
+    "raw_ans": "l l= 'm M/. 2"
+  },
+  {
+    "id": "1.161",
+    "stmt": "A cannon of massM starts sliding freely down a smooth inclined plane at an angle\u03b1 to the horizontal. After the cannon covered the distancel, a shot was fired, the shell leaving the cannon in the horizontal direction with a momentump. As a consequence, the cannon stopped. Assuming the mass of the shell to be negligible, as compared to that of the cannon, determine the duration of the shot.",
+    "raw_ans": "\u03c4 \u03b1 \u03b1 \u03b1= \u2212( cos sin )/ sin.p M gl Mg 2"
+  },
+  {
+    "id": "1.162",
+    "stmt": "A horizontally flying bullet of massm gets stuck in a body of mass M suspended by two identical threads of length l (). As a result, the threads swerve through an angle \u03b8. Assuming m M<<, find: \n(a) the velocity of the bullet before striking the body; m M l l Fig. 42 \n(b) the fraction of the bullet's initial kinetic energy that turned into heat.",
+    "raw_ans": "(a) v M m gl= ( / ) sin ( / );2 2 \u03b8 \n(b) \u03b7 \\approx  \u22121 m M/."
+  },
+  {
+    "id": "1.163",
+    "stmt": "A body of mass M () with a small disc of mass m placed on it rests on a smooth horizontal plane. The disc is set in motion in the horizontal direction with velocity v. To what height (relative to the initial level) will the disc rise after breaking off the bodyM? The friction is assumed to be absent.",
+    "raw_ans": "h Mv g M m= + 2 2 / ( )."
+  },
+  {
+    "id": "1.164",
+    "stmt": "A small disc of massm slides down a smooth hill of height h without initial velocity and gets onto a plank of mass M lying on the horizontal plane at the base of the hill (). Due to friction between the disc and the plank the disc slows down and, beginning with a certain moment, moves in one piece with the plank. (1) Find the total work performed by the friction forces in this process. (2) Can it be stated that the result obtained does not depend on the choice of the reference frame?",
+    "raw_ans": "(1) A gh= \u2212 \\mu , where \\mu  = +mM m M/( ); (2) Yes."
+  },
+  {
+    "id": "1.165",
+    "stmt": "A stone falls down without initial velocity from a height h onto the Earth's surface. The air drag assumed to be negligible, the stone hits the ground with velocity v gh0 2= relative to the Earth. Obtain the same formula in terms of the reference frame \"falling\" to the Earth with a constant velocity v0.",
+    "raw_ans": "Refer to comprehensive derivation below."
+  },
+  {
+    "id": "1.166",
+    "stmt": "A particle of mass 1.0 g moving with velocity v i j1 = \u22123.0 2.0 experiences a perfectly inelastic collision with another particle of mass 2.0 g and velocityv j k2 = \u22124.0 6.0. Find the velocity of the formed particle (both the vector v and its modulus), if the components of the vectors v1 and v2 are given in the SI units.",
+    "raw_ans": "v i j k= + \u22121.0 2.0 4.0, v \\approx  4.6 m/s."
+  },
+  {
+    "id": "1.167",
+    "stmt": "Find the increment of the kinetic energy of the closed system comprising two spheres of masses m1 and m2 due to their perfectly inelastic collision, if the initial velocities of the spheres were equal to v1 and v2.",
+    "raw_ans": "\\Delta T = \u2212 \u2212\\mu ( )v v1 2 2 /2, where \\mu  = +m m m m1 2 1 2/( )."
+  },
+  {
+    "id": "1.168",
+    "stmt": "A particle of mass m1 experienced a perfectly elastic collision with a stationary particle of massm2.What fraction of the kinetic energy does the striking particle lose, if \n(a) it recoils at right angles to its original motion direction; \n(b) the collision is a head-on one?",
+    "raw_ans": "(a) \u03b7 = +2 1 1 2m m m/( ); \n(b) \u03b7 = +4 1 2 1 2 2m m m m/( )."
+  },
+  {
+    "id": "1.169",
+    "stmt": "Particle 1 experiences a perfectly elastic collision with a stationary particle 2. Determine their mass ratio, if \n(a) after a head-on collision the particles fly apart in the opposite directions with equal velocities;. 1.44 vm M \n(b) the particles fly apart symmetrically relative to the initial motion direction of particle 1 with the angle of divergence \u03b8 = 60^{\\circ}.",
+    "raw_ans": "(a) m m1 2 1 3/ /; = \n(b) m m1 2 1 2/ cos= + = \u03b8 2.0."
+  },
+  {
+    "id": "1.170",
+    "stmt": "A ball moving translationally collides elastically with another, stationary, ball of the same mass. At the moment of impact the angle between the straight line passing through the centres of the balls and the direction of the initial motion of the striking ball is equal to \u03b1 = 45^{\\circ}. Assuming the balls to be smooth, find the fraction \u03b7 of the kinetic energy of the striking ball that turned into potential energy at the moment of the maximum deformation.",
+    "raw_ans": "\u03b7 \u03b1= =1 2 2/ cos 0.25."
+  },
+  {
+    "id": "1.171",
+    "stmt": "A shell flying with velocity v = \u2212500 1ms bursts into three identical fragments so that the kinetic energy of the system increases \u03b7 = 1.5 times. What maximum velocity can one of the fragments obtain?",
+    "raw_ans": "v vmax ( ( ))= + \u2212 =1 2 1 \u03b7 1.0 km per second."
+  },
+  {
+    "id": "1.172",
+    "stmt": "Particle 1 moving with velocity v = \u221210 1ms experienced a head-on collision with a stationary particle 2 of the same mass. As a result of the collision, the kinetic energy of the system decreased by \u03b7 = 1.0\\%. Find the magnitude and direction of the velocity of particle 1 after the collision.",
+    "raw_ans": "Will continue moving in the same direction, although this time with the velocity v v' = \u2212 \u2212( ) /1 1 2 \u03b7 2. For \u03b7 << 1 the veloity v v' \\approx  =\u03b7 /2 5cm/s."
+  },
+  {
+    "id": "1.173",
+    "stmt": "A particle of massm having collided with a stationary particle of mass M deviated by an angle\u03c0 /2 whereas the particle M recoiled at an angle \u03b8 = 30^{\\circ} to the direction of the initial motion of the particle m. How much (in per cent) and in what way has the kinetic energy of this system changed after the collision, if M m/ = 5.0?",
+    "raw_ans": "\\Delta T T m M m M/ ( / ) tan / %.= + + \u2212 = \u22121 1 40 2 \u03b8"
+  },
+  {
+    "id": "1.174",
+    "stmt": "A closed system consists of two particles of masses m1 and m2 which move at right angles to each other with velocities v1 and v2. Find \n(a) the momentum of each particle and \n(b) the total kinetic energy of the two particles in the reference frame fixed to their centre of inertia.",
+    "raw_ans": "(a) p v v= +\\mu  1 2 2 2; \n(b) T v v= +1 2 1 2 2 2/ ( ).\\mu  Here \\mu  = +m m m m1 2 1 2/( )."
+  },
+  {
+    "id": "1.175",
+    "stmt": "A particle of mass m1 collides elastically with a stationary particle of mass m m m2 1 2( ). > Find the maximum angle through which the striking particle may deviate as a result of the collision.",
+    "raw_ans": "sin /.max\u03b8 = m m2 1"
+  },
+  {
+    "id": "1.176",
+    "stmt": "Three identical discs A, B, and C () rest on a smooth horizontal plane. The discA is set is motion with velocity v after which it experiences an elastic collision simultaneously with the discsB and C. The distance between the centres of the latter discs prior to the collision is \u03b7 times greater than the diameter of each disc. Find the velocity of the discA after the collision. At what value of\u03b7 will the disc A recoil after the collision; stop; move on?",
+    "raw_ans": "v v' = \u2212 \u2212 \u2212( )/( ).2 6 2 2\u03b7 \u03b7 Respectively at smaller \u03b7, equal, or greater than 2."
+  },
+  {
+    "id": "1.177",
+    "stmt": "A molecule collides with another, stationary, molecule of the same mass. A v B C \n(a) equals 90^{\\circ} when the collision is ideally elastic; \n(b) differs from 90^{\\circ} when the collision is inelastic.",
+    "raw_ans": "Refer to comprehensive derivation below."
+  },
+  {
+    "id": "1.178",
+    "stmt": "A rocket ejects a steady jet whose velocity is equal to u relative to the rocket. The gas discharge rate equals \\mu  kg s \u22121. Demonstrate that the rocket motion equation in this case takes the form mw F u= \u2212 \\mu , where m is the mass of the rocket at a given moment, w is its acceleration, and F is the external force.",
+    "raw_ans": "Suppose that at a certain momentt the rocket has the massm and the velocityv relative to the referene frame employed. Consider the inertial reference frame moving with the same velocity as the rocket has at a given moment. In this reference frame the momentum increment that the system \"rocket-ejected portion of gas\" acquires during the time dt is equal to d m d dt dtp v u F= + \u22c5 = \\mu . What follows is evident."
+  },
+  {
+    "id": "1.179",
+    "stmt": "A rocket moves in the absence of external forces by ejecting a steady jet with velocity u constant relative to the rocket. Find the velocity v of the rocket at the moment when its mass is equal to m, if at the initial moment it possessed the mass m0 and its velocity was equal to zero. Make use of the formula given in the foregoing problem.",
+    "raw_ans": "v u= \u2212 ln ( / ).m m0"
+  },
+  {
+    "id": "1.180",
+    "stmt": "Find the law according to which the mass of the rocket varies with time, when the rocket moves with a constant acceleration w, the external forces are absent, the gas escapes with a constant velocity u relative to the rocket, and its mass at the initial moment equals m0.",
+    "raw_ans": "m m e wt u= \u2212 0 /."
+  },
+  {
+    "id": "1.181",
+    "stmt": "A spaceship of massm0 moves in the absence of external forces with a constant velocity v0. To change the motion direction, a jet engine is switched on. It starts ejecting a gas jet with velocity u which is constant relative to the spaceship and directed at right angles to the spaceship motion. The engine is shut down when the mass of the spaceship decreases to m. Through what angle \u03b1 did the motion direction of the spaceship deviate due to the jet engine operation?",
+    "raw_ans": "\u03b1 = ( / ) ln ( / ).v v m m0 0"
+  },
+  {
+    "id": "1.182",
+    "stmt": "A cart loaded with sand moves along a horizontal plane due to a constant force F coinciding in direction with the cart's velocity vector. In the process, sand spills through a hole in the bottom with a constant velocity\\mu  kgs\u22121.Find the acceleration and the velocity of the cart at the moment t, if at the initial moment t = 0 the cart with loaded sand had the mass m0 and its velocity was equal to zero. The friction is to be neglected.",
+    "raw_ans": "v F= \u2212\\mu  \\mu  ln, m m l 0 0 w F= \u2212m t0 \\mu ,"
+  },
+  {
+    "id": "1.183",
+    "stmt": "A flatcar of massm0 starts moving to the right due to a constant horizontal forceF (). Sand spills on the flatcar from a stationary hopper. The velocity of loading is constant and equal to \\mu  kgs\u22121.Find the time dependence of the velocity and the acceleration of the flatcar in the process of loading. The friction is negligible small.. 1.46",
+    "raw_ans": "v F= + t m t m/ ( / ),0 01 \\mu  w F/= + m t m0 0 21 ( / ).\\mu "
+  },
+  {
+    "id": "1.184",
+    "stmt": "A chain AB of length l is located in a smooth horizontal tube so that its fraction of length h hangs freely and touches the surface of the table with its end B (). At a certain moment the end A of the chain is set free. With what velocity will this end of the chain slip out of the tube?",
+    "raw_ans": "v gh l h= 2 ln ( / )."
+  },
+  {
+    "id": "1.185",
+    "stmt": "The angular momentum of a particle relative to a certain point O varies with time as M a b= + t 2, where a and b are constant vectors, with a b.\\perp  Find the force moment N relative to the point O acting on the particle when the angle between the vectors N and M equals 45^{\\circ}.",
+    "raw_ans": "N b= 2 ab."
+  },
+  {
+    "id": "1.186",
+    "stmt": "A ball of mass m is thrown at an angle \u03b1 to the horizontal with the initial velocity v0. Find the time dependence of the magnitude of the ball's angular momentum vector relative to the point from which the ball is thrown. Find the angular momentum M at the highest point of the trajectory if m = 130 g,\u03b1 = 45^{\\circ}, and v0 125= \u2212ms. The air drag is to be neglected.",
+    "raw_ans": "M mgv t= 1 2 0 2/ cos; \u03b1 M mv g= = \u22c5( / ) sin cos0 3 22 37 \u03b1 \u03b1 kg m /s.2"
+  },
+  {
+    "id": "1.187",
+    "stmt": "A disc A of mass m sliding over a smooth horizontal surface with velocity v experiences a perfectly elastic collision with a smooth stationary wall at a point O (). The angle between the motion direction of the disc and the normal of the wall is equal to \u03b1. Find: \n(a) the points relative to which the angular momentum M of the disc remains constant in this process; \n(b) the magnitude of the increment of the vector of the disc's angular momentum relative to the pointO'which is located in the plane of the disc's motion at the distance l from the point O.",
+    "raw_ans": "(a) Relative to all points of the straight line drawn at right angles to the wall through the point O; \n(b) | | cos.\\Delta M = 2 mvl \u03b1"
+  },
+  {
+    "id": "1.188",
+    "stmt": "A small ball of mass m suspended from the ceiling at a point O by a thread of length l moves along a horizontal circle with a constant angular velocity \u03c9. Relative to which points does not angular momentum M of the ball remain constant? Find the magnitude of the increment of the vector of the ball's angular momentum relative to the point O picked up during half of revolution.",
+    "raw_ans": "Relative to the centre of the circle. | | ( / ) /.\\Delta M = \u22122 1 2 2g l mgl\u03c9 \u03c9"
+  },
+  {
+    "id": "1.189",
+    "stmt": "A ball of mass m falls down without initial velocity from a height h over the Earth's surface. Find the increment of the ball's angular momentum vector picked up during the time of falling (relative to the point O of the reference frame moving translationally in a horizontal direction with a velocity V). The ball starts falling from the point O. The air drag is to be neglected.",
+    "raw_ans": "| |\\Delta M = hmV"
+  },
+  {
+    "id": "1.190",
+    "stmt": "A smooth horizontal disc rotates with a constant angular velocity \u03c9 about a stationary vertical axis passing through its centre, the pointO. At a momentt = 0 a disc is set in motion from that point with velocityv0. \u03b1 O Orl A h B A Find the angular momentum M t( ) of the disc relative to the point O in the reference frame fixed to the disc. Make sure that this angular momentum is caused by the Coriolis force.",
+    "raw_ans": "M m v t= \u03c9 0 2 2"
+  },
+  {
+    "id": "1.191",
+    "stmt": "A particle moves along a closed trajectory in a central field of force where the particle's potential energyU kr= 2 (k is a positive constant,r is the distance of the particle from the centre O of the field). Find the mass of the particle if its minimum distance from the pointO equals r1 and  its velocity at the point farthest from O equals v2.",
+    "raw_ans": "m kr v= 2 1 2 2 2/."
+  },
+  {
+    "id": "1.192",
+    "stmt": "A small ball is suspended from a point O by a light thread of length l. Then the ball is drawn aside so that the thread deviates through an angle \u03b8 from the vertical and set in motion in a horizontal direction at right angles to the vertical plane in which the thread is located. What is the initial velocity that has to be imparted to the ball so that it could deviate through the maximum angle \u03c0 2 in the process of motion?",
+    "raw_ans": "v gl0 2= /cos.\u03b8"
+  },
+  {
+    "id": "1.193",
+    "stmt": "A small body of mass m tied to a non-stretchable thread moves over a smooth horizontal plane. The other end of the thread is being drawn into a holeO () with a constant velocity. Find the thread tension as a function of the distance r between the body and the hole if atr r= 0 the angular velocity of the thread is equal to \u03c9 0.",
+    "raw_ans": "F m r r= \u03c9 0 2 0 4 3/."
+  },
+  {
+    "id": "1.194",
+    "stmt": "A light non-stretchable thread is wound on a massive fixed pulley of radius R. A small body of massm is tied to the free end of the thread. At a moment t = 0 the system is released and starts moving. Find its angular momentum relative to the pulley axle as a function of time t.",
+    "raw_ans": "M Rmgt\u03c4 =."
+  },
+  {
+    "id": "1.195",
+    "stmt": "A uniform sphere of mass m and radius R starts rolling without slipping down an inclined plane at an angle \u03b1 to the horizontal. Find the time dependence of the angular momentum of the sphere relative to the point of contact at the initial moment. How will the obtained result change in the case of a perfectly smooth inclined plane?",
+    "raw_ans": "M Rmgt= sin.\u03b1 Will not change."
+  },
+  {
+    "id": "1.196",
+    "stmt": "A certain system of particles possesses a total momentum p and an angular momentum M relative to a point O. Find its angular momentum M'relative to a pointO'whose position with respect to the point O is determined by the radius vector r0. Find out when the angular momentum of the system of particles does not depend on the choice of the point O.",
+    "raw_ans": "M M r p' = \u2212 [ ].0 In the case whenp = 0,i.e., in the frame of the centre of inertia."
+  },
+  {
+    "id": "1.197",
+    "stmt": "Demonstrate that the angular momentum M of the system of particles relative to a point O of the reference frame K can be represented as M M r p= +~ [ ],C where ~M is its proper angular momentum (in the reference frame moving translationally and fixed to the centre of inertia), rC is the radius vector of the centre of inertia relative to the point O, p is the total momentum of the system of particles in the reference frame K.. 1.49",
+    "raw_ans": "See analytical proof in step-by-step solution."
+  },
+  {
+    "id": "1.198",
+    "stmt": "A ball of mass m moving with velocity v0 experiences a head-on elastic collision with one of the spheres of a stationary rigid dumbbell as shown in. The mass of each sphere equals m/, 2and the distance between them is l. Disregarding the size of the spheres, find the proper angular momentum ~M of the dumbbell after the collision, ie, the angular momentum in the reference frame moving translationally and fixed to the dumbbell's centre of inertia.",
+    "raw_ans": "~ /.M lmv= 1 3 0"
+  },
+  {
+    "id": "1.199",
+    "stmt": "Two small identical discs, each of mass m, lie on a smooth horizontal plane. The discs are interconnected by a light non-deformed spring of length l0 and stiffness x. At a certain moment one of the discs is set in motion in a horizontal direction perpendicular to the spring with velocity v0. Find the maximum elongation of the spring in the process of motion, if it is known to be considerably less than unity. 1.4 Universal Gravitation \u25cf Universal gravitation law F m m r = \u03b3 1 2 2. \u2026(1.4a) \u25cf The squares of the periods of revolution off any two planets around the Sun are proportional to the cubes of the major semiaxes of their orbits (Kepler): T a2 3\\propto . \u2026(1.4b) \u25cf Strength G and potential \u03c6 of the gravitational field of a mass point: G r= \u2212 \u03b3 m r3, \u03c6 = \u2212 \u03b3 m r. \u2026(1.4c) \u25cf Orbital and escape velocities: v gR1 =, v v2 1 2=. \u2026(1.4d)",
+    "raw_ans": "\u03b5 \\approx max /mv xl0 2 0"
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "book": {
+    "title": "Problems in General Physics",
+    "author": "I.E. Irodov",
+    "publisher": "Mir Publishers / Arihant Edition",
+    "total_problems": 1866,
+    "description": "The quintessential collection of advanced physics problems for competitive examinations (JEE Advanced, Physics Olympiads, GRE Physics) covering all major branches of classical and modern physics across 40 chapters."
+  },
+  "parts": [
+    {
+      "id": 1,
+      "title": "Physical Fundamentals of Mechanics",
+      "short_title": "Mechanics",
+      "problem_range": "1.1 - 1.388",
+      "total_questions": 388,
+      "chapters": [
+        { "id": "1.1", "title": "Kinematics", "range": "1.1 - 1.58", "count": 58 },
+        { "id": "1.2", "title": "The Fundamental Equation of Dynamics", "range": "1.59 - 1.117", "count": 59 },
+        { "id": "1.3", "title": "Laws of Conservation of Energy, Momentum, and Angular Momentum", "range": "1.118 - 1.199", "count": 82 },
+        { "id": "1.4", "title": "Universal Gravitation", "range": "1.200 - 1.233", "count": 34 },
+        { "id": "1.5", "title": "Dynamics of a Solid Body", "range": "1.234 - 1.289", "count": 56 },
+        { "id": "1.6", "title": "Elastic Deformations of a Solid Body", "range": "1.290 - 1.314", "count": 25 },
+        { "id": "1.7", "title": "Hydrodynamics", "range": "1.315 - 1.339", "count": 25 },
+        { "id": "1.8", "title": "Relativistic Mechanics", "range": "1.340 - 1.388", "count": 49 }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Thermodynamics and Molecular Physics",
+      "short_title": "Thermodynamics",
+      "problem_range": "2.1 - 2.257",
+      "total_questions": 257,
+      "chapters": [
+        { "id": "2.1", "title": "Equation of the Gas State. Processes", "range": "2.1 - 2.25", "count": 25 },
+        { "id": "2.2", "title": "The First Law of Thermodynamics. Heat Capacity", "range": "2.26 - 2.61", "count": 36 },
+        { "id": "2.3", "title": "Kinetic Theory of Gases. Boltzmann's Law and Maxwell's Distribution", "range": "2.62 - 2.112", "count": 51 },
+        { "id": "2.4", "title": "The Second Law of Thermodynamics. Entropy", "range": "2.113 - 2.159", "count": 47 },
+        { "id": "2.5", "title": "Liquids. Capillary Effects", "range": "2.160 - 2.184", "count": 25 },
+        { "id": "2.6", "title": "Phase Transformations", "range": "2.185 - 2.219", "count": 35 },
+        { "id": "2.7", "title": "Transport Phenomena", "range": "2.220 - 2.257", "count": 38 }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Electrodynamics",
+      "short_title": "Electrodynamics",
+      "problem_range": "3.1 - 3.398",
+      "total_questions": 398,
+      "chapters": [
+        { "id": "3.1", "title": "Constant Electric Field in Vacuum", "range": "3.1 - 3.53", "count": 53 },
+        { "id": "3.2", "title": "Conductors and Dielectrics in an Electric Field", "range": "3.54 - 3.100", "count": 47 },
+        { "id": "3.3", "title": "Electric Capacitance. Energy of an Electric Field", "range": "3.101 - 3.146", "count": 46 },
+        { "id": "3.4", "title": "Electric Current", "range": "3.147 - 3.218", "count": 72 },
+        { "id": "3.5", "title": "Constant Magnetic Field. Magnetics", "range": "3.219 - 3.287", "count": 69 },
+        { "id": "3.6", "title": "Electromagnetic Induction. Maxwell's Equations", "range": "3.288 - 3.371", "count": 84 },
+        { "id": "3.7", "title": "Motion of Charged Particles in Electric and Magnetic Fields", "range": "3.372 - 3.398", "count": 27 }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Oscillations and Waves",
+      "short_title": "Oscillations & Waves",
+      "problem_range": "4.1 - 4.238",
+      "total_questions": 238,
+      "chapters": [
+        { "id": "4.1", "title": "Mechanical Oscillations", "range": "4.1 - 4.93", "count": 93 },
+        { "id": "4.2", "title": "Electric Oscillations", "range": "4.94 - 4.149", "count": 56 },
+        { "id": "4.3", "title": "Elastic Waves. Acoustics", "range": "4.150 - 4.188", "count": 39 },
+        { "id": "4.4", "title": "Electromagnetic Waves. Radiation", "range": "4.189 - 4.238", "count": 50 }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Optics",
+      "short_title": "Optics",
+      "problem_range": "5.1 - 5.275",
+      "total_questions": 275,
+      "chapters": [
+        { "id": "5.1", "title": "Photometry and Geometrical Optics", "range": "5.1 - 5.63", "count": 63 },
+        { "id": "5.2", "title": "Interference of Light", "range": "5.64 - 5.96", "count": 33 },
+        { "id": "5.3", "title": "Diffraction of Light", "range": "5.97 - 5.156", "count": 60 },
+        { "id": "5.4", "title": "Polarization of Light", "range": "5.157 - 5.199", "count": 43 },
+        { "id": "5.5", "title": "Dispersion and Absorption of Light", "range": "5.200 - 5.223", "count": 24 },
+        { "id": "5.6", "title": "Optics of Moving Sources", "range": "5.224 - 5.245", "count": 22 },
+        { "id": "5.7", "title": "Thermal Radiation. Quantum Nature of Light", "range": "5.246 - 5.275", "count": 30 }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Atomic and Nuclear Physics",
+      "short_title": "Atomic & Nuclear",
+      "problem_range": "6.1 - 6.310",
+      "total_questions": 310,
+      "chapters": [
+        { "id": "6.1", "title": "Scattering of Particles. Rutherford-Bohr Atom", "range": "6.1 - 6.48", "count": 48 },
+        { "id": "6.2", "title": "Wave Properties of Particles. Schrodinger Equation", "range": "6.49 - 6.96", "count": 48 },
+        { "id": "6.3", "title": "Properties of Atoms. Spectra", "range": "6.97 - 6.166", "count": 70 },
+        { "id": "6.4", "title": "Molecules and Crystals", "range": "6.167 - 6.213", "count": 47 },
+        { "id": "6.5", "title": "Radioactivity", "range": "6.214 - 6.248", "count": 35 },
+        { "id": "6.6", "title": "Nuclear Reactions", "range": "6.249 - 6.290", "count": 42 },
+        { "id": "6.7", "title": "Elementary Particles", "range": "6.291 - 6.310", "count": 20 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1.1",
+    "statement": "A motorboat going downstream overcame a raft at a point $A$; $\\tau = 60\\text{ min}$ later it turned back and after some time passed the raft at a distance $l = 6.0\\text{ km}$ from the point $A$. Find the flow velocity assuming the duty of the engine to be constant.",
+    "difficulty": 1,
+    "tags": ["relative-velocity", "river-boat", "kinematics", "reference-frame"],
+    "hints": [
+      "Switch to the reference frame moving with the river current (the frame of the raft).",
+      "In the raft's frame, the raft is stationary, and the boat moves away with speed $v$ and returns with the same speed $v$.",
+      "The return time to the raft must therefore equal the outward time $\\tau$!"
+    ],
+    "answer": "$u = \\frac{l}{2\\tau} = 3.0\\text{ km/h}$",
+    "solution": "Choose a frame of reference fixed to the river flow (the raft's frame).\nIn this frame:\n- The raft is at rest at the origin.\n- The boat moves away from the raft with its own still-water speed $v$ for time $\\tau$.\n- When the boat turns around, it moves back toward the raft with the same speed $v$.\n\nSince the boat travels at speed $v$ away for time $\\tau$, the distance relative to the raft is $s = v\\tau$.\nReturning at the same speed $v$, the time required to return to the raft is:\n$$t_{return} = \\frac{s}{v} = \\frac{v\\tau}{v} = \\tau$$\n\nThus, the total time elapsed from point $A$ until the boat meets the raft again is:\n$$t_{total} = \\tau + t_{return} = 2\\tau$$\n\nIn the ground reference frame, the raft moved purely with the river current velocity $u$ over this entire duration $t_{total}$, covering distance $l$:\n$$l = u \\cdot t_{total} = u (2\\tau)$$\n$$u = \\frac{l}{2\\tau}$$\n\nGiven $l = 6.0\\text{ km}$ and $\\tau = 1.0\\text{ h}$:\n$$u = \\frac{6.0\\text{ km}}{2 \\times 1.0\\text{ h}} = 3.0\\text{ km/h}$$"
+  },
+  {
+    "id": "1.2",
+    "statement": "A point traversed half the total distance with a velocity $v_0$. The remaining part of the distance was covered with velocity $v_1$ for half the remaining time, and with velocity $v_2$ for the other half of the remaining time. Find the mean velocity $\\langle v \\rangle$ of the point averaged over the whole time of motion.",
+    "difficulty": 1,
+    "tags": ["average-velocity", "rectilinear-motion", "kinematics"],
+    "hints": [
+      "Let the total distance be $2s$. The first half distance is $s$, covered in time $t_1 = s/v_0$.",
+      "The second half distance $s$ is covered in total time $t_2$, where for time $t_2/2$ it moves at $v_1$, and for $t_2/2$ at $v_2$.",
+      "Average velocity is $\\langle v \\rangle = \\frac{2s}{t_1 + t_2}$."
+    ],
+    "answer": "$\\langle v \\rangle = \\frac{2 v_0 (v_1 + v_2)}{2 v_0 + v_1 + v_2}$",
+    "solution": "Let the total distance traversed be $2s$.\n\n**First half of the distance:**\nDistance = $s$, velocity = $v_0$.\nTime taken:\n$$t_1 = \\frac{s}{v_0}$$\n\n**Second half of the distance:**\nLet the total time for the second half be $t_2$.\nDuring the first half of this time ($t_2/2$), velocity is $v_1$, so distance is $s_1 = v_1 (t_2/2)$.\nDuring the second half of this time ($t_2/2$), velocity is $v_2$, so distance is $s_2 = v_2 (t_2/2)$.\nThe total distance for this segment is:\n$$s = s_1 + s_2 = \\frac{1}{2}(v_1 + v_2) t_2 \\implies t_2 = \\frac{2s}{v_1 + v_2}$$\n\n**Total time and mean velocity:**\nTotal time of motion:\n$$t = t_1 + t_2 = \\frac{s}{v_0} + \\frac{2s}{v_1 + v_2} = s \\left[ \\frac{v_1 + v_2 + 2v_0}{v_0(v_1 + v_2)} \\right]$$\n\nThe mean velocity averaged over the whole motion is:\n$$\\langle v \\rangle = \\frac{\\text{Total Distance}}{\\text{Total Time}} = \\frac{2s}{t} = \\frac{2s}{s \\left[ \\frac{2v_0 + v_1 + v_2}{v_0(v_1 + v_2)} \\right]} = \\frac{2 v_0 (v_1 + v_2)}{2 v_0 + v_1 + v_2}$$"
+  },
+  {
+    "id": "1.5",
+    "statement": "Two particles, $1$ and $2$, move with constant velocities $\\vec{v}_1$ and $\\vec{v}_2$. At the initial moment $t = 0$, their position vectors are $\\vec{r}_1$ and $\\vec{r}_2$. What relation must exist between these four vectors for the particles to collide?",
+    "difficulty": 2,
+    "tags": ["relative-velocity", "vectors", "collision-condition", "kinematics"],
+    "hints": [
+      "Let the collision occur at time $t > 0$ at the same position $\\vec{r}(t)$.",
+      "Condition for collision: $\\vec{r}_1 + \\vec{v}_1 t = \\vec{r}_2 + \\vec{v}_2 t$.",
+      "Rearrange to find the relative velocity vector and relative position vector: they must be antiparallel unit vectors!"
+    ],
+    "answer": "$\\frac{\\vec{r}_1 - \\vec{r}_2}{|\\vec{r}_1 - \\vec{r}_2|} = \\frac{\\vec{v}_2 - \\vec{v}_1}{|\\vec{v}_2 - \\vec{v}_1|}$",
+    "solution": "The position vectors of the two particles at time $t$ are:\n$$\\vec{r}_1(t) = \\vec{r}_1 + \\vec{v}_1 t$$\n$$\\vec{r}_2(t) = \\vec{r}_2 + \\vec{v}_2 t$$\n\nFor a collision to occur at some moment $t > 0$, the two particles must occupy the same point in space:\n$$\\vec{r}_1(t) = \\vec{r}_2(t)$$\n$$\\vec{r}_1 + \\vec{v}_1 t = \\vec{r}_2 + \\vec{v}_2 t$$\n$$\\vec{r}_1 - \\vec{r}_2 = (\\vec{v}_2 - \\vec{v}_1) t$$\n\nSince $t > 0$ is a positive scalar, the vector $(\\vec{r}_1 - \\vec{r}_2)$ pointing from particle 2 to particle 1 must be strictly parallel and codirectional with the relative velocity vector $(\\vec{v}_2 - \\vec{v}_1)$ of particle 2 with respect to particle 1.\nTaking the magnitude of both sides:\n$$|\\vec{r}_1 - \\vec{r}_2| = |\\vec{v}_2 - \\vec{v}_1| t \\implies t = \\frac{|\\vec{r}_1 - \\vec{r}_2|}{|\\vec{v}_2 - \\vec{v}_1|}$$\n\nSubstituting $t$ back into the vector equation:\n$$\\vec{r}_1 - \\vec{r}_2 = (\\vec{v}_2 - \\vec{v}_1) \\frac{|\\vec{r}_1 - \\vec{r}_2|}{|\\vec{v}_2 - \\vec{v}_1|}$$\nDividing by $|\\vec{r}_1 - \\vec{r}_2|$ gives the required condition equating their unit vectors:\n$$\\frac{\\vec{r}_1 - \\vec{r}_2}{|\\vec{r}_1 - \\vec{r}_2|} = \\frac{\\vec{v}_2 - \\vec{v}_1}{|\\vec{v}_2 - \\vec{v}_1|}$$\n(Equivalently: $(\\vec{r}_1 - \\vec{r}_2) \\times (\\vec{v}_2 - \\vec{v}_1) = 0$ with $(\\vec{r}_1 - \\vec{r}_2) \\cdot (\\vec{v}_2 - \\vec{v}_1) > 0$)."
+  },
+  {
+    "id": "1.8",
+    "statement": "Two bodies start moving with initial velocities $v_1$ and $v_2$ projected from the same point at angles $\\alpha_1$ and $\\alpha_2$ to the horizontal in the same vertical plane. Find the distance between the bodies after time $t$, assuming both move under uniform gravity $\\vec{g}$ without air resistance.",
+    "difficulty": 2,
+    "tags": ["projectiles", "relative-motion", "distance-between-particles"],
+    "hints": [
+      "Both particles experience the exact same acceleration $\\vec{g}$.",
+      "Therefore, the relative acceleration is $\\vec{w}_{rel} = \\vec{g} - \\vec{g} = 0$!",
+      "The relative velocity $\\vec{v}_{rel} = \\vec{v}_1 - \\vec{v}_2$ is completely constant in time."
+    ],
+    "answer": "$r(t) = t \\sqrt{v_1^2 + v_2^2 - 2 v_1 v_2 \\cos(\\alpha_1 - \\alpha_2)}$",
+    "solution": "Let the launch point be the origin $(0, 0)$.\nThe positions of the two particles at time $t$ are:\n$$\\vec{r}_1(t) = \\vec{v}_1 t + \\frac{1}{2} \\vec{g} t^2$$\n$$\\vec{r}_2(t) = \\vec{v}_2 t + \\frac{1}{2} \\vec{g} t^2$$\n\nThe displacement vector from particle 2 to particle 1 is:\n$$\\Delta\\vec{r}(t) = \\vec{r}_1(t) - \\vec{r}_2(t) = (\\vec{v}_1 - \\vec{v}_2) t + \\left(\\frac{1}{2}\\vec{g}t^2 - \\frac{1}{2}\\vec{g}t^2\\right) = (\\vec{v}_1 - \\vec{v}_2) t$$\n\nThe gravitational terms cancel out entirely! In the frame of reference of either particle, the other particle moves along a straight line at constant velocity $\\vec{v}_{rel} = \\vec{v}_1 - \\vec{v}_2$.\n\nThe distance between them is:\n$$r(t) = |\\Delta\\vec{r}(t)| = |\\vec{v}_1 - \\vec{v}_2| t$$\nUsing the law of cosines for vectors where the angle between $\\vec{v}_1$ and $\\vec{v}_2$ is $\\Delta\\alpha = \\alpha_1 - \\alpha_2$:\n$$|\\vec{v}_1 - \\vec{v}_2|^2 = v_1^2 + v_2^2 - 2 v_1 v_2 \\cos(\\alpha_1 - \\alpha_2)$$\nTherefore:\n$$r(t) = t \\sqrt{v_1^2 + v_2^2 - 2 v_1 v_2 \\cos(\\alpha_1 - \\alpha_2)}$$"
+  },
+  {
+    "id": "1.9",
+    "statement": "A boat moves relative to water with a velocity which is $n = 2.0$ times less than the river flow velocity $u$ ($v = u/n$). At what angle $\\theta$ to the stream direction must the boat steer in order to minimize its downstream drift, and what is the minimum drift $x_{\\min}$ if the river width is $l$?",
+    "difficulty": 2,
+    "tags": ["river-boat", "optimization", "minimum-drift", "calculus-extrema"],
+    "hints": [
+      "Since $v < u$, the boat cannot cross straight across ($x = 0$). Drift is unavoidable.",
+      "Write downstream drift $x = (u - v\\cos\\alpha) t = (u - v\\cos\\alpha) \\frac{l}{v\\sin\\alpha}$, where $\\alpha$ is the angle upstream.",
+      "Differentiate $x(\\alpha)$ with respect to $\\alpha$ or use a geometric velocity vector circle tangent."
+    ],
+    "answer": "$\\theta = 90^\\circ + \\arcsin(1/n) = 120^\\circ$ to the stream; $x_{\\min} = l \\sqrt{n^2 - 1} = l\\sqrt{3}$.",
+    "solution": "Let the river flow along the $+x$ direction with speed $u$. Let the boat's velocity relative to water be $v = u/n$ ($n > 1$).\nLet the boat be steered at an angle $\\theta$ with the downstream current direction (where $\\theta > 90^\\circ$, i.e., pointing upstream).\nLet $\\alpha = \\theta - 90^\\circ$ be the angle with the normal to the bank.\n\nComponents of boat velocity relative to ground:\n$$v_y = v \\cos\\alpha$$\n$$v_x = u - v \\sin\\alpha$$\n\nThe crossing time across width $l$ is:\n$$t = \\frac{l}{v_y} = \\frac{l}{v \\cos\\alpha}$$\nThe downstream drift $x$ is:\n$$x = v_x t = (u - v \\sin\\alpha) \\frac{l}{v \\cos\\alpha} = l \\left( \\frac{u}{v} \\frac{1}{\\cos\\alpha} - \\tan\\alpha \\right) = l (n \\sec\\alpha - \\tan\\alpha)$$\n\n**Finding the angle for minimum drift:**\nSet $\\frac{dx}{d\\alpha} = 0$:\n$$\\frac{d}{d\\alpha} [n \\sec\\alpha - \\tan\\alpha] = n \\sec\\alpha \\tan\\alpha - \\sec^2\\alpha = 0$$\n$$\\sec\\alpha (n \\tan\\alpha - \\sec\\alpha) = 0$$\n$$n \\frac{\\sin\\alpha}{\\cos\\alpha} = \\frac{1}{\\cos\\alpha} \\implies \\sin\\alpha = \\frac{1}{n}$$\n\nFor $n = 2.0$:\n$$\\sin\\alpha = \\frac{1}{2} \\implies \\alpha = 30^\\circ$$\nTherefore, the angle $\\theta$ with the downstream direction is:\n$$\\theta = 90^\\circ + 30^\\circ = 120^\\circ$$\n\n**Minimum drift:**\n$$\\cos\\alpha = \\sqrt{1 - \\sin^2\\alpha} = \\sqrt{1 - \\frac{1}{n^2}} = \\frac{\\sqrt{n^2 - 1}}{n}$$\n$$\\tan\\alpha = \\frac{\\sin\\alpha}{\\cos\\alpha} = \\frac{1/n}{\\sqrt{n^2 - 1}/n} = \\frac{1}{\\sqrt{n^2 - 1}}$$\n$$x_{\\min} = l \\left( \\frac{n}{\\frac{\\sqrt{n^2 - 1}}{n}} - \\frac{1}{\\sqrt{n^2 - 1}} \\right) = l \\left( \\frac{n^2 - 1}{\\sqrt{n^2 - 1}} \\right) = l \\sqrt{n^2 - 1}$$\nFor $n = 2.0$:\n$$x_{\\min} = l \\sqrt{2^2 - 1} = l \\sqrt{3} \\approx 1.73 l$$"
+  },
+  {
+    "id": "1.10",
+    "statement": "Two bodies are thrown simultaneously from the same point: one, straight up, and the other, at an angle of $\\theta = 60^\\circ$ to the horizontal. The initial velocity of each body is equal to $v_0 = 25\\text{ m/s}$. Neglecting air drag, find the distance between the bodies $t = 1.70\\text{ s}$ later.",
+    "difficulty": 1,
+    "tags": ["projectiles", "relative-motion", "distance-between-particles"],
+    "hints": [
+      "Since both bodies experience the same acceleration $\\vec{g}$, their relative acceleration is zero.",
+      "The relative velocity is constant: $\\vec{v}_{rel} = \\vec{v}_1 - \\vec{v}_2$.",
+      "Distance is $r(t) = |\\vec{v}_1 - \\vec{v}_2| t = v_0 t \\sqrt{2(1 - \\cos(90^\\circ - \\theta))}$."
+    ],
+    "answer": "$r = v_0 t \\sqrt{2(1 - \\sin\\theta)} = 22\\text{ m}$",
+    "solution": "Let the projection point be the origin $(0, 0)$.\nVelocity vector of body 1 (thrown straight up):\n$$\\vec{v}_1 = v_0 \\hat{j}$$\nVelocity vector of body 2 (thrown at $\\theta = 60^\\circ$ to horizontal):\n$$\\vec{v}_2 = (v_0 \\cos\\theta)\\hat{i} + (v_0 \\sin\\theta)\\hat{j}$$\n\nBoth bodies fall under acceleration $\\vec{g} = -g \\hat{j}$.\nBecause their accelerations are identical, their relative acceleration is zero:\n$$\\vec{a}_{rel} = \\vec{g} - \\vec{g} = 0$$\nThus, their relative velocity is constant throughout the motion:\n$$\\vec{v}_{rel} = \\vec{v}_1 - \\vec{v}_2 = (-v_0 \\cos\\theta)\\hat{i} + v_0(1 - \\sin\\theta)\\hat{j}$$\n\nThe magnitude of the relative velocity is:\n$$v_{rel} = \\sqrt{(-v_0 \\cos\\theta)^2 + [v_0(1 - \\sin\\theta)]^2} = v_0 \\sqrt{\\cos^2\\theta + 1 - 2\\sin\\theta + \\sin^2\\theta}$$\nUsing $\\cos^2\\theta + \\sin^2\\theta = 1$:\n$$v_{rel} = v_0 \\sqrt{2(1 - \\sin\\theta)}$$\n\nThe distance between the bodies at time $t$ is:\n$$r(t) = v_{rel} t = v_0 t \\sqrt{2(1 - \\sin\\theta)}$$\n\nSubstituting $v_0 = 25\\text{ m/s}$, $t = 1.70\\text{ s}$, and $\\theta = 60^\\circ$ ($\\sin 60^\\circ = \\frac{\\sqrt{3}}{2} \\approx 0.8660$):\n$$2(1 - \\sin 60^\\circ) = 2(1 - 0.8660) = 2(0.1340) = 0.2679$$\n$$\\sqrt{0.2679} \\approx 0.5176$$\n$$r = 25 \\times 1.70 \\times 0.5176 = 42.5 \\times 0.5176 \\approx 22.0\\text{ m}$$\n$$r = 22\\text{ m}$$"
+  }
+]
