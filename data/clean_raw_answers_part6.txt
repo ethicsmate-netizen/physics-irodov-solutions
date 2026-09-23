@@ -1,0 +1,1019 @@
+1. r e E= =3 22 / 0.16 nm, λ π µ= =( / )2 3c e mr 0.24 m.
+2. b = 0.73 pm.
+3. (a) rmin = 0.59 pm; (b) r Ze T m mmin ( / )( / )= + =2 1 2
+α Li 0.034 pm.
+4. (a) ρ θmin ( / ) cot ( / )= =Ze T2 2 2 0.23 pm;
+(b) r Ze Tmin [ ( / )] /= + =1 2 2cosec 0.56 pm.θ
+5. p mT bT Ze≈ +2 2 1 2 2 2/[ ( / ) ].
+6. T m e m b Te p e= = 4 2 4/ eV.
+7. b Rn
+n n
+=
++ −
+sin ( / )
+cos ( / )
+,θ
+θ
+2
+1 2 2 2 where n U T= + 1 0/ .
+8. (a) cos ( / ) /( );θ 2 = +b R r (b) dP d= 1 2 / sin ;θ θ (c) P = 1/2.
+9. 3.3 × −10 5.
+10. d Jr T nIZ e= =( / ) sin ( / ) ,4 22 2 2 4 4 θ µ 1.5 m where n is the concentration of nuclei.
+11. Z Z A APt Ag Pt Ag 78.= = η /
+12. (a) 1.6 × 106; (b) N nd Ze T I= = ×π θ τ( / ) cot ( / ) ,2 2 2
+0 0
+72 10 2.0 where n is the
+concentration□of□nuclei.
+13. P nd Ze mv= =π ( / )2 2 2 0.006, where n is□the□concentration□of□nuclei.
+14. ∆ N N nZ e T/ / tan ( / )= − =1 2 2 4 2 2
+0π θ 0.6.
+15. ∆ N N e
+T
+Z
+M
+Z
+M
+/ = + 
+
+ 
+
+π 4
+2
+1
+2
+1
+2
+2
+24
+0.7 0.3 ρ θdN A cot2 3
+2
+10= × −1.4 , where Z1 and Z2
+are the atomic numbers of copper and zinc,M1 and M2 are their molar masses,
+N A is□Avogadro’s□number.
+16. ∆σ π θ= = ( / ) cot ( / )Ze T2 2 2
+0 2 0.73 kb.
+17. (a) 0.9□MeV; (b) d dσ σ π θ/ / sin ( / )Ω ∆ = = 4 2 4 0.64 kb/sp.
+18. t mc e= =( / ) ln3 2 153 2 2 ω η ns.
+19. t m c r e≈ ≈ 2 3 3 4 4 13/ ps.
+21. r n mn = /c104 / , ω E nn = /c104 ω , where n k m= =1, ..., / .2, ω
+22.
+r1, pm v, 106 m/s T, eV Eb, eV φi, V φ1, V λ, nm
+H 52.9 2.18 13.6 13.6 13.6 10.2 121.5
+He + 26.5 4.36 54.5 54.5 54.5 40.8 30.4
+Answers | 339
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 344 (Book p.338) ---
+23. ω = = × −me Z n4 2 3 3 16 1 10/ ./c104 2.07 s
+24. µn ne mc= /c104 / ,2 µn nM e mc/ / , = 2 µ µ1 = B.
+25. B m e c= = 2 7 5 125/ /c104 kG.
+27. The□Brackett□series, λ µ6 4→ = 2.63 m.
+28. (a) 657,□487□and□434□nm; (b) λ δλ/ . ≈ ×1.5 10 3
+29. For n n c lR>> ≈1 3sin / ,θ π whence θ ≈ °60 .
+30. He +.
+31. N n n= −1 2 1/ ( ).
+32. 97.3,□102,6□and□121.6□nm.
+33. n = 5.
+34. R c
+Z
+= = × −176
+15
+102
+16 1π
+λ ∆
+2.07 s .
+35. Z c R= = + +( / ) / , .176 15 3π λ ∆ Li
+36. λ π ω ω ω µ= − − =( / )( / )/( / )2 1 2 1c Z R Z R∆ ∆ ∆ 0.47 m.
+37. Eb = +54.4 eV He ( ).
+38. E E R= + =0 4 79/c104 eV.
+39. v R m= − = ×2 4 10 6( )//c104 /c104 ω 2.3 m/s, where ω π λ= 2 c / .
+40. T Rmin /= =3 2 /c104 20.5eV.
+41. v R mc= =3 4/c104 / 3.25 m/s, where m is□the□mass□of□the□atom.
+42. ( )/ / %,ε − ε′ ε ≈ = × −3 8 10 2 6/c104 R mc 0.55 where m is□the□mass□of□the□atom.
+43. v R m= = ×2 10 6/c104 / 3.1 m/s, where m is□the□mass□of□the□electron.
+44. v R= = ×3 8 10 6∆λ / π θ cos 0.7 m/s.
+45. (a) E n mln = 2 2 2 2 2π /c104 / ; (b) E n mrn = 2 2 2 2/c104 / ; (c) E n mn = /c104 α / ;
+(d) E m nn = − α 2 2 22 / ./c104
+46. E eb = µ 4 22 / ,/c104 R e= µ 4 32 / ,/c104 where µ is the reduced mass of the system. If the
+motion of the nucleus is not taken into account, these values (in the case of a
+hydrogen atom) are greater bym M/ ≈ 0.055%, where m and M are the masses of
+an□electron□and□a□proton.
+47. E ED H 3.7 meV,− = λ λ H D pm.− = 33
+48. (a) 0.285□pm,□2.53□keV,□0.65□nm; (b) 106□pm,□6.8□eV,□0.243 µm.
+49. 123,□2.86□and□0.186□pm.
+50. 0.45□keV.
+51. For□both□particles λ π = + =2 1 2/c104 ( / )/ m m m Tn d n 8.6 pm.
+52. ~ / .λ λ λ λ λ= +2 1 2 1
+2
+2
+2
+53. λ π /= =2 2 128/c104 mkT pm.
+54. First, let us find the distribution of molecules over de Broglie wavelengths.
+From the rotation f v dv d( ) ( ) = − φ λ λ where f v( ) is Maxwell’s distribution of
+velocities,□we□obtain
+φ = − −( ) , /λ λ λA e a4 2
+a nkT= 2 2 2π /c104 / .
+The□condition d dφ =/ λ 0 provides λ πpr mkT= = /c104 / 0.09 nm.
+340 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 345 (Book p.339) ---
+55. λ π = +2 2 1 2 2/c104 / ( / ),mT T mc T mc < =~ 4 2∆λ / λ 20.4 keV (for an electron) and
+37.5□MeV□(for□a□proton).
+56. T mc= − =( )2 1 2 0.21 MeV.
+57. λ λ λ π= + =sh sh mc/ / 1 /c104 3.3 pm.
+58. v l mb x= = ×4 10 6π/c104 / ∆ 2.0 m/s.
+59. ∆ x l d meV= =2 2π µ/c104 / 4.9 m.
+60. V me d0
+2 2 2 2 22 1= − =π η θ/c104 / ( ) sin 0.15 keV.
+61. d k mT= =π θ/c104 / cos ( / )2 2 0.21 nm, where k = 4.
+62. d k mT= = ±π θ/c104 / sin2 0.23 0.04 nm, where k = 3 and the angle θ is
+determined□by□the□formula tan / .2 2θ = D l
+63. (a) n V V i= + =1 / 1.05; (b) V V i/ / ( ) .≥ + =1 2 50η η
+64. E n mln = 2 2 2 2 2π /c104 / , where n = 1, 2,/c75
+66. 1 10 4× , 1.10□and 1 10 20× − cm/s.
+67. ∆ v ml≈ = ×/c104 / 1 10 6 m/s; v1
+610= ×2.2 m/s.
+69. ∆ t ml≈ ≈ −η 2 16 10/ /c104 s.
+70. T mlmin /≈ =/c104 2 22 1 eV. Here□we□assumed□that p p≈ ∆ and ∆ x l= .
+71. ∆ v v l mT/ ~ / ./c104 2 1 10 4= × −
+72. F ml≈ /c104 2 3/ .
+73. Taking into account that p p x x~ ~ / ~ / ,∆ ∆ /c104 /c104 we get
+E T U mx kx= + ≈ + /c104 2 2 22 / /2. From the condition dE dx/ = 0 we find x0 and
+then E k mmin / ,≈ =/c104 /c104 ω where ω is the oscillator’s angular frequency. The
+rigorous□calculations□furnish□the□value /c104 ω /2.
+74. Taking into account that p p r~ ~ /∆ ∆ /c104 and ∆ r r~ , we get
+E p m e r mr e r= − ≈ −2 2 2 2 22 2/ / / / . /c104 From the condition dE dr/ = 0 we find
+r mceff = =/c104 2 2 53/ pm, E memin /≈ − = − 4 22/c104 13.6 eV.
+75. The width of the image is ∆ ∆≈ + ′ ≈ +δ δ ρδ /c104 l / , where ∆ ′is an additional
+widening associated with the uncertainty of the momentum ∆ p y (when the
+hydrogen atoms pass through the slit), p is the momentum of the incident
+hydrogen atoms. The function ∆ ( )δ has the minimum when
+δ ≈ = ( / )/c104 l mv 0.01 mm.
+76. The solution of the Schrödinger equation should be sought in the form
+ψ = φ ⋅( ) ( ).x f t The substitution of this function into the initial equation with
+subsequent separation of the variables x and t results in two equations. Their
+solutions are φ( ) ~ ,x e ikx where k mE= 2 / , /c104 E is the energy of the particle, and
+f t e i t( ) ~ , − ω whereω = E / ./c104 Finally, ψ ω= −ae i kx t( ) ,where a is a certain constant.
+77. P = + =1 3 3 2/ / π 0.61.
+78. ψ π
+π= =
+=
+
+A nx l n
+A nx l n
+cos ( / ), , , ,
+sin ( / ), , ,
+if
+if 2,
+1 3 5
+4 6
+/c75
+/c75
+Here, A l= 2/ .
+80. dN dE l m E/ ( / ) / ;= π /c104 2 if E = 1 eV,then dN dE/ = ×0.8 10 7 levels□per□eV.
+Answers | 341
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 346 (Book p.340) ---
+81. (a) In□this□case□the□Schrödinger□equation□takes□the□form.
+∂
+∂
++ ∂
+∂
++ =
+2
+2
+2
+2
+2 0ψ ψ ψ
+x y
+k , k mE2 2 2= / ./c104
+Let us take the origin of coordinates of one of the corners of the well. On the
+sides of the well the function ψ ( , )x y must turn into zero (according to the
+condition), and therefore, it is convenient to seek this function inside the well
+in the form ψ ( , ) sin sin ,x y a k x k y= × 1 2 since on the two sides ( x = 0 and
+y = 0)ψ = 0 automatically. The possible values ofk1 and k2 are found from the
+condition□of ψ turning□into□zero□on□□the□opposite□sides□of□the□well:
+ψ ( , ) ,l y1 0= k l n1 1 1= ± ( / ) ,π n1 1 3= , , ...,2,
+ψ ( , ) ,x l 2 0= k l n2 2 2= ± ( / ) ,π n2 1 3= , , ...,2,
+The substitution of the wave function into the Schrödinger equation leads to
+the□relation k k k1
+2
+2
+2 2+ = , whence
+E n l n l mn n1 2 1
+2
+1
+2
+2
+2
+2
+2 2 2 2= +( / / ) / . π /c104
+(b) 9.87,□24.7,□39.5,□and□49.4□units□of /c104 2 2/ .ml
+82. P = − =1 3 3 4/ / π 19.5%.
+83. (a) E n n n ma= + +( ) / ,1
+2
+2
+2
+3
+2 2 2 2 2π /c104 where n1, n2, n3 are integers not equal to zero;
+(b) ∆ E ma= π 2 2 2/c104 / ; (c) for the 6-th level n n n1
+2
+2
+2
+3
+2 14+ + = and
+E ma= 7 2 2 2π /c104 / ; the number of states is equal to six (it is equal to the number of
+permutations□of□a□triad□1,□2,□3.)
+84. Let us integrate the Schrödinger equation over a small interval of the coordinate
+x within which there is a discontinuity inU x( ), for example at the pointx = 0:
+∂
+∂
++ − ∂
+∂
+− = −
+−
++
+∫
+ψ δ ψ δ ψ
+δ
+δ
+z x
+m E U dx( ) ( ) ( ) . 2
+2/c104
+Since the discontinuity U is finite the integral tends to zero as δ → 0. What
+follows□is□obvious.
+85. (a) Let□us□write□the□Schrödinger□equation□for□two□regions
+0 < <x l , ψ ψ1
+2
+1 0′ < =k , k mE2 2 2= / ,/c104
+x l> , ψ ψ2
+2
+2 0′ − =x , x m U E2
+0
+22= − ( )/ . /c104
+Their□common□solutions
+ψ α1( ) sin ( ),x a kx= + ψ 2( )x be ce xx xx= + −
+must satisfy the standard and boundary conditions. From the condition
+ψ 1 0 0( ) = and the requirement for the finiteness of the wave function it follows
+thatα = 0andc = 0.And finally, from the continuity ofψ ( )x and its derivative at
+the□point x l= we□obtain tan / ,kl k x= − whence
+sin / .kl kl ml U= ± /c104 2 2
+02
+Plotting the left-hand and
+right-hand sides of the last equation
+(Fig. 45), we can find the points at
+which the straight line crosses the
+sine curve. The roots of the equation
+corresponding to the eigenvalues of
+energy E are found from those
+intersection points ( )kl ifor which
+tan ( ) ,kl i < 0 i.e., the roots of that equation are located in the even quadrants
+342 | Answers
+π′ 2π′ 3π′ kl0
+Fig.□45
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 347 (Book p.341) ---
+(these segments of the abscissa axis are shown heavy in the figure). It is seen
+from the plot that the roots of the eqation, i.e., the bound states of the particle,
+do not always exist. The dotted line indicates the ultimate position of the
+straight□line.□(b) ( ) / , minl U m2
+0 1
+2 2 8= π /c104 ( ) ( ) / . minl U n mn
+2
+0
+2 22 1 8= − π /c104
+86. Suppose that Pa and Pi are the probabilities of the particle being outside and
+inside□the□well.□Then
+P
+P
+b e dx
+a kx dx
+a
+i
+l
+x
+l= =
++
+∞ −
+∫
+∫
+2 2
+2
+0
+2
+2
+2 3sin
+,
+π
+where the ratio b a/ can be found from the condition ψ ψ1 2( ) ( ).l l = Now it
+remains□to□take□into□account□that P Pa i+ = 1;then Pa = + =2 4 3 14 9/( ) . %.π
+The penetration of the particle into the region where its energyE U< is a purely
+quantum phenomenon. It occurs owing to the wave properties of the particle
+ruling out the simultaneous precise magnitudes of the coordinate and the
+momentum, and consequently the precise division of the total energy of the
+particle into the potential and the kinetic energy. The latter could be done only
+within□□the□limits□set□by□the□uncertainty□principle.
+87. Utilizing□the□substitution□indicated,□we□get
+χ χ′ ′ + =k2 0, where k mE2 2 2= / ./c104
+We shall seek the solution of this equation in the formχ α= +a krsin ( ). From
+the finiteness of the wave function ψ at the point r = 0 it follows that α = 0.
+Thus, ψ = ( / ) sin .a r kr From the boundary condition ψ ( )r0 0= we obtain
+kr n0 = π , where n = 1, 2,/c75 Hence, E n mrn = 2 2 2
+0
+22π /c104 / .
+88. (a) ψ
+π
+π( ) sin ( / ) ,r
+r
+n r r
+r
+= 1
+2 0
+0 n = 1, 2,/c75 (b) r rpr = 0 2 / ;50%.
+89. (a) The□solutions□of□the□Schrödinger□equation□for□the□function χ( )r :
+r r< 0, χ α1 = +A krsin ( ), where k mE= 2 / , /c104
+r r> 0, χ2 = + −Be Cexr xr , where x m U E= − 2 0( )/ . /c104
+Since□the□function ψ ( )r is□finite□throughout□the□space, α = 0 and B = 0.Thus,
+ψ 1 = A kr
+r
+sin , ψ 2 =
+−
+C e
+r
+xr
+.
+From the continuity of the function ψ and its derivative at the point r r= 0
+we□get tan /kr k x0 3= − or
+sin / .kr mr U kr0
+2
+0
+2
+0 02= ± /c104
+As it was demonstrated in the solution of Problem 6.85, this equation
+determines□the□discontinuous□spectrum□of□energy□eigenvalues.
+(b) r U m0
+2
+0
+2 2 8= π /c104 / .
+90. α ω= m / , 2/c104 E = /c104 ω / , 2where ω = k m/ .
+91. E me= − 4 28 / ,/c104 i.e., the□level□with□principal□quantum□number n = 2.
+92. (a) The probability of the electron being at the interval r, r dr+ from the
+nucleus is dP r r dr= ψ π2 2 4 ( ) . From the condition for the maximum of the
+function dP dr/ we□get r rpr = 1; (b) F e r= 2 2
+1
+2/ ; (c) U e r= − 2
+1/ .
+Answers | 343
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 348 (Book p.342) ---
+93. φ = = −∫0
+2
+14( / ) / ,ρ πr r dr e r whereρ ψ= − e 2 is the space charge density,ψ is the
+normalized□wave□function.
+94. (a) Let us write the solutions of the Schrödinger equation to the left and to the
+right□of□the□barrier□in□the□following□form:
+x < 0, ψ 1 1 1
+1 1( ) ,x a e b e ik x ik x= + − where k mE1 2= / ,/c104
+x > 0, ψ 2 2 2
+2 2( ) ,x a e b e ik x ik x= + − where k m E U2 0 2= − ( )/ . /c104
+Let us assume that the incident wave has an amplitude a1 and the reflected
+wave an amplitude b2. Since in the region x > 0 there is only a travelling wave,
+b2 0= .The reflection coefficientR is the ratio of the reflected stream of particles
+to the incident stream, or in other words, the ratio of the squares of amplitudes
+of corresponding waves. Due to the continuity of ψ and its derivative at the
+point x = 0 we□have a b a1 1 2+ = and a b k k a1 1 2 1 2− = ( / ) , whence
+R b a k k k k= = − +( / ) ( ) /( ) .1 1
+2
+1 2
+2
+1 2
+2
+(b) In the case of E U< 0 the solution of the Schrödinger equation the right of
+the□barrier□takes□the□form
+ψ 2 2 2( ) ,x a e b e xx xx= + − where x m U E= − 2 0( )/ . /c104
+From the finiteness of ψ ( )x it follows that a2 0= . The probability of finding the
+particle under the barrier has the density P x x e xx
+2 2
+2 2( ) ( ) ~ .= −ψ Hence,
+x xeff = 1 2 / .
+95. (a) D l m U E≈ − − 
+
+
+exp ( ) ;2 2 0
+/c104
+(b) D l m
+U
+U E≈ − − 
+
+
+exp ( ) . /8 2
+3 0
+0
+3 2
+/c104
+96. D l m
+U
+U E≈ − − 
+
+
+exp ( ) . π
+/c104
+2
+0
+0
+97. –0.41□for□an S term□and□–0.04□for□a P term.
+98. α = − φ − = −/c104 R E e/( ) 0 1 3 0.88.
+99. E R R cb = − =/c104 / / ) λ λ π λ1 2
+22 1 ∆ 5.3 eV.
+100. 0.82 mµ ( )3 2S P→ and 0.68 mµ ( ).2 2P S→
+101. ∆ ∆E c= =2 2π λ / λ/c104 2.0 meV
+102. ∆ω = × 1.05 rad /s.1014
+103. 3 1 2S / ,3 1 2P / ,3 3 2P / ,3 3 2D / ,3 5 2D / .
+104. (a) 1,□2,□3,□4,□5; (b) 0,□1,□2,□3,□4,□5,□6; (c) 1/2,□3/2,□5/2,□7/2,□9/2.
+105. For the state 4 3 2P : / ,/c104 /c104 15 2 / ,and /c104 32 2 / ;for the state 5 0D : , /c104 2; /c104 6, /c104 12,
+/c104 20.
+106. (a) 2
+7 2F / , M max / ,= /c104 63 2 (b) 2
+4F , M max .= 2 5/c104
+107. In□the F state M 0 6= /c104 ; for□the D state□it□can□be□only□found□that Me ≥ /c104 6.
+108. 3,□4,□5.
+109. (a) 1,□3,□5,□7,□9; (b) 2,□4,□6; (c) 5,□7,□9.
+110. 31°.
+111. 3
+2D .
+112. 1
+1P , 1
+2D , 1
+3F , 3
+0 1 2P , , , 3
+1 3D , ,2,
+3
+2 3 4F , , .
+113. The□same□as□in□the□foregoing□problem.
+114. The□second□and□the□third□term.
+344 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 349 (Book p.343) ---
+115. g = + =4 6 10.
+116. 4,□7□and□10.
+117. 3
+3F .
+118. As.
+119. (a) 4
+3 2S / ; (b) 3
+2P .
+120. (a) 4
+3 2F / , /c104 15 2 / ; (b) 4
+9 2F / , /c104 3 11 2 / .
+121. (a) Two d electrons; (b) five p electrons; (c) five d electrons.
+122. (a) 3
+0P , (b) 4
+9 2F / .
+123. 4
+3 2F / .
+124. µ µ = B S35 6
+5 2( ). /
+125. η ω= = × − −n e kT2 17 3 10/c104 / , where ω = −R n( / ).1 1 2
+126. N N g g e kT/ ( / ) , /
+0 0
+410= = × − −/c104 ω 1.14 where g and g 0 are the statistical weights
+(degeneracy□ratios)□of□the□levels 3P and 3S respectively ( ,g = 6 ge = 2).
+127. τ η µ= =l v/ ln 1.3 s.
+128. N P c= = ×λτ π/ .2 7 10 9/c104
+129. τ ω ω= = −( / )( / ) /n P g g e kT/c104 /c104
+0 65 ns, where g and g 0 are the degeneracy ratios of
+the□resonant□and□the□basic□level.
+130. (a) P P eind sp
+kT/ /( ) . /= − ≈ −1 1 10 34/c104 ω where ω = 3 4 / ;R (b) T = ×1.7 K.105
+131. Suppose that I is the intensity of the passing ray. The decreases in this value on
+passing□through□the□layer□of□the□substance□of□thickness dx is□equal□to
+− = = −dI xI dx N B N B I c dx( )( / ) ,1 12 2 21 /c104 ω
+where N1 and N2 are the concentrations of atoms on the lower and upper levels,
+B12 and B21 are□the□Einstein□coefficients.□Hence
+x c N B g N g N= −( / ) ( / )./c104 ω 1 12 1 2 2 11
+Next, the Boltzmann distribution should be taken into consideration, as well as
+the fact that /c104 ω >> kT (in this case N1 is approximately equal to N 0, the total
+concentration□of□the□atoms).
+132. ∆ ∆λ λ πτ λDop nat pr v/ / , ≈ ≈4 10 3 where v RT Mpr = 2 / .
+133. λ = 154 pm.
+134. (a) 843□pm□for□Al,□180□pm□for□Co; (b) ≈ 5 keV.
+135. Three.
+136. V = 15 kV.
+137. Yes.
+138. Z n eV R n V V= + − − =1 2 1 3 29 1 1 2( ) / ( / ) . /c104
+139. Z R= + =1 4 3 22∆ω/ ,. titanium.
+140. E R Z cb L= − + =3 4 1 2 2/ ( ) //c104 /c104 π λ 5.5 keV.
+141. E cL = − ≈/c104 ω π ω λ( / )2 1 ∆ 0.5 keV, where ω = −3 4 1 2/ ( ) .R Z
+142. T R Z c K= − − =3 4 1 2 2/ ( ) //c104 /c104 π λ 1.45 keV, v = ×2.26 m/s.107
+143. (a) g = 2, with□the□exception□of□the□singlet□state,□where g = 0 0 / ;(b) g = 1.
+144. (a) –2/3; (b) 0; (c) 1; (d) 5/2; (e) 0/0.
+145. (a) 12µB; (b) 2 3 5 / ;µB (c) ( / ) .8 3 µB
+Answers | 345
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 350 (Book p.344) ---
+146. M s = 2 3 /c104 .
+147. µ µ= ( / ) .8 3 B
+148. µ µ= 3 7 5 / . B
+149. µ µ− ( / ) .5 5 2 B
+150. M = /c104 3/2.
+151. 5
+1F .
+152. ω µ = = ×B gB/ / /c104 1.2 10 10 rad/s,□where g is□the□Lande□factor.
+153. F B z IgJ crB Bmax max | / | ( / ) /= ⋅ ∂ ∂ = = × −µ π µ 3 8 4 10 2 27 N.
+154. F I cr B= = × −2 3 10 2 26µ / N
+155. ∂ ∂ = + =B z T gJ l l l B/ / ( ) 2 2 15 1 1 2δ µ kG /cm.
+156. (a) It□does□not□split; (b) splits□into□6□sublevels; (c)□does□not□split ( ).g = 0
+157. (a) 58 µeV; (b) ∆ E gJ B B= =2 145µ µ eV.
+158. (a) Normal; (b) anomalous; (c) normal; (d) normal (both terms have
+identical□Landé□factors).
+159. L E B B= =∆ / ;2 3µ 1
+3F .
+160. ∆λ λ π= =2 2 2 35eB mc/ pm.
+161. Bmin = 4.0 kG.
+162. B g B= =/c104 ∆ω/ µ 3 kG.
+163. (a) 2.1□(the□ratio□of□the□corresponding□Landé□factors);
+(b) B c g B= =2 2π λ / µ ηλ/c104 ∆ 5.5 kG.
+164. ∆ω = ± ± ± × −( , , )1.3 4.0 6.6 s 1010 1 ,□six□components.
+165. (a) Six□(1)□and□four□(2); (b) nine□(1)□and□six□(2).
+166. ∆ω = − = × −( ) / . maxm g m g eB mc1 1 2 2
+11 1101.0 s
+167. ω = = × −4 2 10 2 11 1/c104 / ,md 1.57 s where m is□the□mass□of□the□molecule.
+168. 2□and□3.
+169. M md E= = 2 2 / 3.5 /c104 where m is□the□mass□of□the□molecule.
+170. I = = × ⋅ −/c104 / ∆ω 1.93 g cm , 210 40 d = 112 pm.
+171. 13□levels.
+172. N I≈ = 2 33ω/ /c104 lines.
+173. dN dE I E/ / , ≈ 2 2/c104 where I is the moment of inertia of the molecule. In the case
+of J dN dE= = ×10 10 4/ 1.0 levels□per□eV.
+174. E E dvib rot/ / , = ωµ 2 /c104 where µ is□the□reduced□mass□of□the□molecule;
+(a)□36; (b) 1.7 × 102; (c) 2.9 × 103.
+175. N N evib rot
+h B kT/ / , ( )/= = × − − −1 3 10 2 4ω 3.1 where B I= /c104 / , 2 I is the moment of
+inertia□of□the□molecule.
+176. According□to□the□definition
+E E E kT
+E kT
+E E
+E
+v v
+v
+v v
+v
+= −
+−
+= −
+−
+∑
+∑
+∑
+∑
+exp ( / )
+exp ( / )
+exp ( )
+exp (
+α
+α )
+.
+where E vv = +/c104 ω ( / ), 1 2 α = 1/ .kT The summation is carried out over v taking
+the□values□from□0□to ∞ as□follows□:
+346 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 351 (Book p.345) ---
+E E v= − ∂
+∂
+− = − ∂
+∂
+−
+− −∑α
+α
+α
+α ω
+α ω
+ln exp ( ) ln exp ( / )
+exp ( )
+/c104
+/c104
+2
+1
+= +
+−
+/c104 /c104
+/c104
+ω ω
+ω2 1 exp ( / )
+;
+kT
+Cv N E
+T
+R kT e
+e
+Rvib
+kT
+kt= ∂
+∂
+=
+−
+=( ) ( / )
+( )
+,
+/
+/
+/c104 /c104
+/c104
+ω ω
+ω
+2
+21
+0.56
+where R is□the□universal□gas□constant.
+177. d = = 2/c104 /µ ω ∆ 0.13 nm, where µ is□the□reduced□mass□of□the□molecule.
+178. λ λ ωλ π= + =0 01 2 423/( / ) c and□387□nm.
+179. ω π λ λ λ λ= − = ×c r v r v( )/ 1.37 rad /s, 1014 x = 4.96 N/cm.
+180. I I kTv r/ exp ( / ) .= − = /c104 ω 0.067 Will□increase□3.9□times.
+181. (a) See Fig. 46a in which the arrows indicate the motion directions of the nuclei
+in the molecule at the same moment. The oscillation frequencies areω 1,ω 2,ω 3,
+with ω 3 being the frequency of two independent oscillations in mutually
+perpendicular planes. Thus, there are four different oscillations. (b) See
+Fig. 46b; there are seven different oscillations; three longitudinal ones ( ,ω 1 ω 2,
+ω 3 )and□four□transversal□ones ( , ),ω ω4 5 two□oscillations□for□each□frequency.
+182. dN l v dω π ω= ( / ) .
+183. dN S v dω π ω ω= ( / ) .2 2
+184. dN V v dω π ω ω= ( / ) . 2 3 2
+185. (a) Θ = ( / ) ;/c104 k vnπ 0 (b) Θ = ( / ) ;/c104 k v n 4 0π (c) Θ = ( / ) ./c104 k v n 6 2
+0
+3 π
+186. Θ = + = −
+⊥
+−( / ) ( ) | |/c104 k n v v18 2 4702
+0
+3 33 π K, where n0 is the concentration of the
+atoms.
+187. v k n≈ = Θ / /c104 6 2
+0
+3 π 3.4 km/s, where n0 is the concentration of the atoms. The
+tabulated□values□are□: v| |= 6.3 km/s. v ⊥ = 3.1 km/s.
+188. The□oscillation□energy□of□a□mole□of□a□“crystal”□is
+U R T x dx
+e x
+T
+= + 
+ 
+ −
+
+
+
+
+
+∫Θ
+Θ
+Θ1
+4 1
+2
+0
+/
+,
+where x kT= /c104 ω / . Hence□the□molar□heat□capacity□is
+C R T x dx
+e
+T
+ex
+T
+T=
+−
+−
+−
+
+
+ 
+
+∫
+2
+1 10θ
+Θ
+Θ
+Θ //
+/ .
+When T >> Θ , the□heat□capacity C R≈ .
+Answers | 347
+ω 1
+ω 2
+ω 3
+ω 1
+ω 2
+ω 3
+ω 4
+ω 5
+(b)(a)
+O C O O C O H
+Fig.□46
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 352 (Book p.346) ---
+189. (a) dN d l a/ / ; maxω π ω ω= −2 2 2 (b) N l a= / , i.e., is equal to the number of the
+atoms□in□the□chain.
+190. U R0 9 8= = Θ / µ 48.6 J /g, where µ is□the□molar□mass□of□copper.
+191. (a) Θ ≈ 220 K; (b) C ≈ ⋅10 J /(mol K); (c) ω max = ×4.1 rad /s.1013
+193. Yes,□because□the□heat□capacity□is□proportional□to T 3 at□these□temperatures.
+194. E k= 3 8 / .Θ
+195. See□Fig.□47.
+196. /c104 ω max = 28 meV, /c104 kmax ~10 19− ⋅g cm/s.
+197. (a) T n mmax
+/( ) / ;= 3 22 2 3 2π /c104
+(b) T T = 3 5 / .max
+198. η = − ≈ −1 2 653 2 / %.
+199. 0.93.
+200. ≈ ×3 10 4 K.
+201. ∆ E mV n= = × −2 3 2 102 2 2 1 3 22π π/c104 / ( ) / eV.
+202. (a) dn m v dvv = ( / ) ;3 2 3 2π /c104 (b) v v/ / .max = 3 4
+203. dn dλ πλ λ= −8 4 .
+204. p n T m n= = ≈ ×2 3 9 5 5 10 3 2 5 2 4/ ( / ) /π π /c104 atm.
+205. A kT T T= − =( / )η ∆ 2 4.5eV.
+206. n U T= + =1 0/ 1.02, where U T A0 = + max , T n mmax
+/( ) / .= 3 22 2 3 2π /c104 A is the
+work□function.
+207. E kT T
+T T
+min ln=
+−
+=2 1 2
+2 1
+η 0.33 eV.
+208. α
+ρ
+ρ π
+λ
+= ∂
+∂
+= − = − −1
+2
+1
+T
+c
+kT r
+/c104 0.05 K , where p e E kT~ . /∆ 0 2 ∆ E 0 is the forbidden
+band□width.
+209. ∆ ∆
+∆
+E k
+T
+= − = −2 1
+ln
+( )
+σ 1.2 and□0.06□eV.
+210. τ ρ ρ ρ
+ρ ρ ρ
+= −
+−
+=t /ln ( )
+( )
+1 2
+2 1
+0.01 s.
+211. n hBV el V H= = × −/ , ρ 5 10 15 3cm u lV hBVH0 = = ⋅ / 0.05 m /(V s). 2
+212. | | /u u B0 0 1− +− = = ⋅ η 0.20 m /(V s).2
+213. n n+ − = =/ η2 4.0.
+214. (a) P t= − −1 exp ( ); λ (b) τ λ= 1/ .
+215. About□1/4.
+216. 1.2 × 1015.
+217. τ ≈ 16 s.
+218. T = 5.3 days.
+219. 4.6 part./min.× 102
+220. λ η η= − − ≈ = × − −( / ) ln ( ) / ,1 1 10 5 1t t 1.1 s τ λ= =1/ 1.0 years.
+221. T = ×4.5 10 9 years, A = ×1.2 dis./s.104
+348 | Answers
+dU
+dω
+0.5 1.0 / ω ω max
+5
+10
+0
+θ/2
+θ/4
+Fig.□47
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 353 (Book p.347) ---
+222. 4.1 years.× 103
+223. About 2.0 × 109 years.
+224. 3.2 × 1017 and 0.8 × 105 dis /(s g)⋅ respectively.
+225. V A A t T= ′ − =( / ) exp ( ln / ) 2 6 l.
+226. 0.19%.
+227. T1 = 1.6 hours,T2 = 9.8 hours; N N T T A A2 1 2 1 2 1/ ( / ) exp ln )= × − = (ln 10.
+228. t T A q= − − =( /ln ) ln ( / )2 1 9.5days.
+229. (a) N t N e e t t
+2 10
+1
+2 1
+1 2( ) ( );=
+−
+−−λ
+λ λ
+λ −λ (b) t m =
+−
+ln ( ) .λ / λ
+λ λ
+1 2
+1 2
+230. (a) N t N t t2 10( ) exp ( );= −λ λ (b) t m = 1/ .λ
+231. N t N e e t t
+3 10
+1 2
+2 1
+1
+2 1
+( ) .= + −
+−
+
+
+ 
+
+
+− −λ λ
+λ λ
+λ λ
+232. /c38 exp ( )N N tβ λ λ= − = ×0 1 1
+11100.72 part./s
+/c38 ( ) /( )N N e e t t
+α
+λ λ λ λ λ λ= − − = ×− −
+0 1 2 2 1
+111 2 101.46 parts./s. Here N 0 is the
+initial□number□of Bi210 nuclei.
+233. (a) Pb206; (b) eight□alpha□decays□and□six□beta□decays.
+234. v m T m= = ×2 10 5
+α α / 3.4 m/s; 0.020.
+235. 1.6□MJ.
+236. 0.82□MeV
+237. (a) 6.1□cm; (b) 2.1 × 105 and 0.77 × 105 respectively.
+238. Q
+M M c K
+M M m c
+p d
+p d
+=
+−
+− −
+−( ) and
+( )
+2
+22
+for decay - capture,
+for
+β
+β +
+
+
+ decay.
+239. 0.56□MeV□and□47.5□eV.
+240. 5□MJ.
+241. 0.32□and□0.65□MeV.
+242. T Q Q mc M c≈ + =1 2 2 2 2/ ( )/ N 0.11 keV, where Q M M m c= − −( ) ,N C 2 2 m is
+the□mass□of□an□electorn.
+243. 40□km/s.
+244. 0.45 c, where c is□the□velocity□of□light.
+245. ∆ε ε = = × −/ / , E mc2 102 7 3.6 where m is□the□mass□of□the□nucleus.
+246. v mc≈ ε =/ 0.22 km/s, where m is□the□mass□of□the□nucleus.
+247. v gh c= = / 65 µm/s.
+248. h c gmin /= ε =/c104 2 τ 4.6 m.
+249. T T M m mM= + − =α /[ ( ) / cos ]1 4 2 2 Θ 6.0 MeV, where m and M are the masses
+of□an□alpha□particle□and□a□lithium□nucleus.
+250. (a) η = + =4 2mM m M/( ) 0.89; (b) η = + =2m m M/( ) 2/3. Here m and M are
+the□masses□of□a□neutron□and□a□deuteron.
+251. θmax ( / ) ,= = °arcsin m m1 2 30 where m1 and m2 are the masses of a proton and a
+deuteron.
+252. 2 10 11 3× kg /cm ,1 10 38 3× nucl./cm .
+253. (a) d; (b) F17; (c) α ; (d) Cl37.
+Answers | 349
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 354 (Book p.348) ---
+255. Be8, Eb = 56.5 MeV
+256. (a) 8.0□MeV; (b) 11.5□and□8.7□MeV; (c) 14.5□MeV.
+257. E En p− = 0.22 MeV.
+258. E = ε − ε − ε =20 12Ne C 2.4 11.9 MeV,α where ε is the binding energy per
+nucleon□in□the□corresponding□nucleus.
+259. (a) 8.0225□a.m.u.; (b) 10.0135□a.m.u.
+260. Q E E E E= + − +( ) ( ).3 4 1 2
+261. (a) 8.2 kJ,× 1010 2.7 kg;× 108 (b) 1.5□kg.
+262. 5.74 kJ,× 107 2 kg.× 104
+263. 2.79□MeV;□0.85□MeV
+264. Q = ε − ε =8 7α Li 17.3 MeV.
+265. Q T T T T p p p p= + − − − × = −( ) ( ) cos1 1 2η η η η θ α α α α 1.2 MeV,
+where η p p m m= / O, η α α= m m/ . O
+266. (a) –1.65□MeV; (b) 6.82□MeV; (c) –2.79□MeV; (d) 3.11□MeV.
+267. v α = ×0.92 m/s,107 v Li 0.53 m/s= × 107 .
+268. 1.9□MeV
+269. T Q m m T
+m m
+n
+n
+= + −
++
+=( / )
+/
+1
+1
+α C
+C
+8.5 MeV.
+270. 9.1□MeV,□170.5°.
+272. T E m m mb p d d≥ + =( )/ 3.3 MeV.
+273. Between□1.89□and□2.06□MeV.
+274. Q T th= − = −11 12 / 3.7 MeV
+275. 1.88□and□5.75□MeV□respectively.
+276. 4.4□MeV; 5.3 m/s.× 104
+277. T
+m m
+m m T m T
+m m
+T thα =
++
+− −
++
+
+
+
+ =1
+3 4
+4 1
+2 4
+1 2
+( ) 2.2 MeV, where m1, m2, m3,
+m4 are the masses of neutron, a C12 nucleus, an alpha particle, and a Be2
+nucleus.
+278. By E mcb /2 2 = 0.06%. where m is□the□mass□of□a□deuteron.
+279. E Q T= + = 2 3 / 6.5 MeV.
+280. E E m
+m m
+Ti b
+d
+i= +
++
+=C
+C
+16.7, 16.9, 17.5 and 17.7 MeV, where Eb is the
+binding□energy□of□a□deuteron□in□the□transitional□nucleus.
+281. σ ρ η= =( / ) lnM N d 2.5 kb, where M is the molar mass of cadmium, N is the
+Avogadro□number, ρ is□the□density□of□cadmium.
+282. I I nd0 1 2 2 20/ exp [( ) ] ,= + = σ σ where n is the concentration of heavy water
+molecules.
+283. w nd s a s s a= − − + + ={ exp [ ( ) ]} ( )1 σ σ σ σ σ 0.35, where n is the
+concentration□of□Fe□nuclei.
+284. (a) T w k= ( / ) ln ; 2 (b) w ATe It= = × −/ ln . 2 2 10 3
+285. (a) t J= = ×η σ/ 3 10 6 years; (b) N J N Tmax /ln ,= = ×σ 0
+132 101.0 where N 0
+is□the□number□of Au197 nuclei□in□the□foil.
+350 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 355 (Book p.349) ---
+286. N e J n t= − −( ) / .1 λ σ λ
+287. J Ae N e t t= − = × −λ λ/ σ 0
+91 6 10( ) part./(cm s), 2 ⋅ where λ is the decay constant,
+N 0 is□the□number□of□Au□nuclei□in□the□foil.
+288. N N k i= = × −
+0
+1 5 101.3 , where i is□the□number□of□generations.
+289. N P E= = × −ν / . 0.8 s 1019 1
+290. (a) N N/ ; 0
+24 10= × (b) T k= − =τ/( ) 1 10 s.
+291. 0.05,□0.4,□and□9□GeV□respectively.
+292. l c = + =τ η η0 2 15( ) m.
+293. τ0
+22 26= + =lmc T T mc/ ( ) ns, where m is□the□rest□mass□of□a□pion.
+294. J J lmc T T mc/ exp [ / ( )]0 0
+22= − + = τ 0.22, where m is the rest mass of a
+negative□pion.
+295*. T m m mµ π µ π= − =( ) / 2 2 4.1 MeV, E v = 29.8 MeV.
+296*. T m m m m n= − − =[( ) ]/Σ Σ
+2 2 2π 19.5 MeV.
+297*. T m m m smax ( ) /= − =µ µ
+2 2 52.5 MeV.
+298*. m m T m T T mp p= + + + + = π
+2 2 1115( ) MeV, a Λ particle.
+299*. E m m m Tν π µ π= − + =1 2 22 2 2/ ( )/( ) MeV.
+300*. m m m m T m T= + − + + =Σ Σ Σ
+2 2 2π π π ( ) ( ) 0.94 GeV, neutron.
+301*. T mπ π θ= − [ ( / ) ],cosec 2 1 E mr = π θ/ sin ( / ).2 2 For θ = °60 the energy
+T E mπ γ π= = .
+303.* cos ( / ) / / ,Θ 2 1 1 2= + m T whence Θ = °99 .
+304*. (a) ε = =th 2.04 MeV;4me (b) ε = + =th MeV.2 1 320m m m pπ π( / )
+305*. (a) T mth p= =6 5.6 MeV; (b) T m m m mth p p= + =π π( )/4 2 0.28 GeV.
+306. (a) 0.90□GeV; (b) 0.77□GeV.
+307. S = − 2, Y = − 1,E ° particle.
+308. Processes□1,□2,□and□3□forbidden.
+309. Processes□2,□4,□and□5□are□forbidden.
+310. Process 1 is forbidden in terms of energy; in other processes the following laws
+of conservation are broken: of baryon charge (2), of electric charge (3), of
+strangeness□(4),□of□lepton□charge□(5),□and□of□electron□and□muon□charge□(6).
+*In the answers to Problems 295–305 marked by an asterisk the quantity mc 2 is
+abbreviated□as m.
+Answers | 351
+Telegram @unacademyplusdiscounts

@@ -1,0 +1,229 @@
+Found 48 problems
+
+=== 6.1 ===
+Q: Employing Thomson’s model, calculate the radius of a hydrogen atom and the wavelength of emitted light if the ionization energy of the atom is known to be equal to E = 13.6 eV.
+A: r e E= =3 22 / 0.16 nm, λ π µ= =( / )2 3c e mr 0.24 m.
+
+=== 6.2 ===
+Q: An alpha particle with kinetic energy 0.27 MeV is deflected through an angle of 60° by a golden foil. Find the corresponding value of the aiming parameter.
+A: b = 0.73 pm.
+
+=== 6.3 ===
+Q: To what minimum distance will an alpha particle with kinetic energy T = 0.40 MeV approach in the case of a head-on collision to Paschen series Balmer series Lyman series1 2 3 4 n *All the formulas in this Part are given  in the Gaussian system of units. 6 Atomic and Nuclear Physics* 
+(a) a stationary Pb nucleus; 
+(b) a stationary free Li7 nucleus?
+A: (a) rmin = 0.59 pm; 
+(b) r Ze T m mmin ( / )( / )= + =2 1 2 α Li 0.034 pm.
+
+=== 6.4 ===
+Q: An alpha particle with kinetic energy T = 0.50 MeV is deflected through an angle of θ = °90 by the Coulomb field of a stationary Hg nucleus. Find: 
+(a) the least curvature radius of its trajectory; 
+(b) the minimum approach distance between the particle and the nucleus.
+A: (a) ρ θmin ( / ) cot ( / )= =Ze T2 2 2 0.23 pm; 
+(b) r Ze Tmin [ ( / )] /= + =1 2 2cosec 0.56 pm.θ
+
+=== 6.5 ===
+Q: A proton with kinetic energy T and aiming parameter b was deflected by the Coulomb field of a stationary Au nucleus. Find the momentum imparted to the given nucleus as a result of scattering.
+A: p mT bT Ze≈ +2 2 1 2 2 2/[ ( / ) ].
+
+=== 6.6 ===
+Q: A proton with kinetic energy T = 10 MeV flies past a stationary free electron at a distance b = 10 pm. Find the energy acquired by the electron, assuming the proton’s trajectory to be rectilinear and the electron to be practically motionless as the proton flies by.
+A: T m e m b Te p e= = 4 2 4/ eV.
+
+=== 6.7 ===
+Q: A particle with kinetic energy T is deflected by a spherical potential well of radius R and depth U0, i.e. by the field in which the potential energy of the particle takes the form U U r R r R= − > <    0 0 for for,, where r is the distance from the centre of the well. Find the relationship between the aiming parameter b of the particle and the angle θ through which it deflects from the initial motion direction.
+A: b Rn n n = + − sin ( / ) cos ( / ),θ θ 2 1 2 2 2 where n U T= + 1 0/.
+
+=== 6.8 ===
+Q: A stationary ball of radius R is irradiated by a parallel stream of particles whose radius isr. Assuming the collision of a particle and the ball to be elastic, find: 
+(a) the deflection angle θ of a particle as a function of its aiming parameter b; 
+(b) the fraction of particles which after a collision with the ball are scattered into the angular interval between θ and θ θ+ d; 
+(c) the probability of a particle to be deflected, after a collision with the ball, into the front hemisphere θ π<   2.
+A: (a) cos ( / ) /( );θ 2 = +b R r 
+(b) dP d= 1 2 / sin;θ θ 
+(c) P = 1/2.
+
+=== 6.9 ===
+Q: A narrow beam of alpha particles with kinetic energy 1.0 MeV falls normally on a platinum foil 1.0 µm thick. The scattered particles are observed at an angle of 60° to the incident beam direction by means of a counter with a circular inlet area 1.0 cm2 located at the distance 10 cm from the scattering section of the foil. What fraction of scattered alpha particles reaches the counter inlet?
+A: 3.3 × −10 5.
+
+=== 6.10 ===
+Q: A narrow beam of alpha particles with kinetic energyT = 050.MeV and intensity I = ×50 10 3. particles per second falls normally on a golden foil. Find the thickness of the foil if at a distance r = 15 cm, form, scattering section of that foil the flux density of scattered particles at the angleθ = °60 to the incident beam is equal toJ = 40 particles/( )cm - s2.
+A: d Jr T nIZ e= =( / ) sin ( / ),4 22 2 2 4 4 θ µ 1.5 m where n is the concentration of nuclei.
+
+=== 6.11 ===
+Q: A narrow beam of alpha particles falls normally on a silver foil behind which a counter is set to register the scattered particles. On substitution of platinum foil of the same mass thickness for the silver foil, the number of alpha particles registered per unit time increased η = 152. times. Find the atomic number of platinum,assuming the atomic number of silver and the atomic masses of both platinum and silver to be known.
+A: Z Z A APt Ag Pt Ag 78.= = η /
+
+=== 6.12 ===
+Q: A narrow beam of alpha particles with kinetic energy T = 050.MeV falls normally on a golden foil whose mass thickness is ρd = 15. mg / cm2. The beam intensity is I0 = ×5.0 10 6 particles per second. Find the number of alpha particles scattered by the foil during a time interval τ = 30 min into the angular interval: 
+(a) 59-61°; 
+(b) over θ0 60= °.
+A: (a) 1.6 × 106; 
+(b) N nd Ze T I= = ×π θ τ( / ) cot ( / ),2 2 2 0 0 72 10 2.0 where n is the concentration of nuclei.
+
+=== 6.13 ===
+Q: A narrow beam of protons with velocity v = ×6 10 6 m/s falls normally on a silver foil of thickness d = 1.0 m.µ Find the probability of the protons to be scattered into the rear hemisphere ( )θ > °90.
+A: P nd Ze mv= =π ( / )2 2 2 0.006, where n is the concentration of nuclei.
+
+=== 6.14 ===
+Q: A narrow beam of alpha particles with kinetic energyT = 600 keV falls normally on a golden foil incorporatingn = ×1.1 10 19 nuclei/cm2. Find the fraction of alpha particles scattered through the anglesθ θ < = °0 20.
+A: ∆ N N nZ e T/ / tan ( / )= − =1 2 2 4 2 2 0π θ 0.6.
+
+=== 6.15 ===
+Q: A narrow beam of protons with kinetic energy T = 1 4.MeV falls normally on a brass foil whose mass thickness ρd = 15. mg / cm2. The weight ratio of copper and zinc in the foil is equal to 7:3 respectively. Find the fraction of the protons scattered through the angles exceeding θ0 30= °.
+A: ∆ N N e T Z M Z M / = +      π 4 2 1 2 1 2 2 24 0.7 0.3 ρ θdN A cot2 3 2 10= × −1.4, where Z1 and Z2 are the atomic numbers of copper and zinc,M1 and M2 are their molar masses, N A is Avogadro’s number.
+
+=== 6.16 ===
+Q: Find the effective cross section of a uranium nucleus corresponding to the scattering of alpha particles with kinetic energy T = 1.5 MeV through the angles exceeding θ0 60= °.
+A: ∆σ π θ= = ( / ) cot ( / )Ze T2 2 2 0 2 0.73 kb.
+
+=== 6.17 ===
+Q: The effective crosssection of a gold nucleus corresponding to the scattering of monoenergetic alpha particles within the angular interval from 90° to 180° is equal to ∆σ = 050.kb. Find: 
+(a) the energy of alpha particles; 
+(b) the differential cross section of scattering d dσ/ Ω ( )kb/sr corresponding to the angle θ = °60.
+A: (a) 0.9 MeV; 
+(b) d dσ σ π θ/ / sin ( / )Ω ∆ = = 4 2 4 0.64 kb/sp.
+
+=== 6.18 ===
+Q: In accordance with classical electrodynamics as electron moving with acceleration w loses its energy due to radiation as dE dt e c w= − 2 3 2 3 2, where e is the electron charge, c is the velocity of light. Estimate the time during which the energy of an electron performing almost harmonic oscillations with frequency ω = × −5 10 15 1s will decrease η = 10 times.
+A: t mc e= =( / ) ln3 2 153 2 2 ω η ns.
+
+=== 6.19 ===
+Q: Making use of the formula of the foregoing problem, estimate the time during which an electron moving in a hydrogen atom along a circular orbit of radius r = 50 pm would have fallen onto the nucleus. For the sake of simplicity assume the vector w to be permanently directed toward the centre of the atom.
+A: t m c r e≈ ≈ 2 3 3 4 4 13/ ps.
+
+=== 6.20 ===
+Q: Demonstrate that the frequency ω of a photon emerging when an electron jumps between neighbouring circular orbits of a hydrogen-like ion satisfies the inequalityω ω ωn n> > + 1. whereω n and ω n + 1 are the frequencies of revolution of that electron around the nucleus along the circular orbits. Make sure that as n → ∞ the frequency of the photon ω ω→ n.
+A: See analytical proof in step-by-step solution.
+
+=== 6.21 ===
+Q: A particle of mass m moves along a circular orbit in a centro- symmetrical potential field U r kr( ) /= 2 2. Using the Bohr quantization condition, find the permissible orbital radii and energy levels of that particle.
+A: r n mn = /c104 /, ω E nn = /c104 ω, where n k m= =1,..., /.2, ω
+
+=== 6.22 ===
+Q: Calculate for a hydrogen atom and a He + ion: 
+(a) the radius of the first Bohr orbit and the velocity of an electron moving along it; 
+(b) the kinetic energy and the binding energy of an electron in the ground state; 
+(c) the ionization potential, the first excitation potential and the wavelength of the resonance line ( )n n′ = → =2 1.
+A: r1, pm v, 106 m/s T, eV Eb, eV φi, V φ1, V λ, nm H 52.9 2.18 13.6 13.6 13.6 10.2 121.5 He + 26.5 4.36 54.5 54.5 54.5 40.8 30.4
+
+=== 6.23 ===
+Q: Calculate the angular frequency of an electron occupying the second Bohr orbit of He + ion.
+A: ω = = × −me Z n4 2 3 3 16 1 10/./c104 2.07 s
+
+=== 6.24 ===
+Q: For hydrogen-like systems find the magnetic moment µn corresponding to the motion of an electron along then-th orbit and the ratio of the magnetic and mechanical moments µn n M/. Calculate the magnetic moment of an  electron occupying the first Bohr orbit.
+A: µn ne mc= /c104 /,2 µn nM e mc/ /, = 2 µ µ1 = B.
+
+=== 6.25 ===
+Q: Calculate the magnetic field induction at the centre of a hydrogen atom caused by an electron moving along the first Bohr orbit.
+A: B m e c= = 2 7 5 125/ /c104 kG.
+
+=== 6.26 ===
+Q: Calculate and draw on the wavelength scale the spectral intervals in which the Lyman, Balmer, and Paschen series for atomic hydrogen are confined. Show the visible portion of the spectrum.
+A: Refer to comprehensive derivation below.
+
+=== 6.27 ===
+Q: To what series does the spectral line of atomic hydrogen belong if its wave number is equal to the difference between the wave numbers of the following two lines of the Balmer series: 486.1 and 410.2 nm? What is the wavelength of that line?
+A: The Brackett series, λ µ6 4→ = 2.63 m.
+
+=== 6.28 ===
+Q: For the case of atomic hydrogen find: 
+(a) the wavelengths of the first three lines of the Balmer series; 
+(b) the minimum resolving power λ / δλ of a spectral instrument capable of resolving the first 20 lines of the Balmer series.
+A: (a) 657, 487 and 434 nm; 
+(b) λ δλ/. ≈ ×1.5 10 3
+
+=== 6.29 ===
+Q: Radiation of atomic hydrogen falls normally on a diffraction grating of width l = 66.mm. The 50th line of the Balmer series in the observed spectrum is close to resolution at a diffraction angle θ (in accordance with Rayleigh’s criterion). Find that angle.
+A: For n n c lR>> ≈1 3sin /,θ π whence θ ≈ °60.
+
+=== 6.30 ===
+Q: What element has a hydrogen-like spectrum whose lines have wavelengths four times shorter than those of atomic hydrogen?
+A: He +.
+
+=== 6.31 ===
+Q: How many spectral lines are emitted by atomic hydrogen excited to the n-th energy level?
+A: N n n= −1 2 1/ ( ).
+
+=== 6.32 ===
+Q: What lines of atomic hydrogen absorption spectrum fall within the wavelength range from 94.5 to 130.0 nm?
+A: 97.3, 102,6 and 121.6 nm.
+
+=== 6.33 ===
+Q: Find the quantum number n corresponding to the excited state ofHe + ion if on transition to the ground state that ion emits two photons in succession with wavelengths 108.5 and 30.4 nm.
+A: n = 5.
+
+=== 6.34 ===
+Q: Calculate the Rydberg constant R if He + ions are known to have the wavelength difference between the first (of the longest wavelength) lines of the Balmer and Lyman series equal to ∆λ = 1337.nm.
+A: R c Z = = × −176 15 102 16 1π λ ∆ 2.07 s.
+
+=== 6.35 ===
+Q: What hydrogen-like ion has the wavelength difference between the first lines of the Balmer and Lyman series equal to 59.3 nm?
+A: Z c R= = + +( / ) /,.176 15 3π λ ∆ Li
+
+=== 6.36 ===
+Q: Find the wavelength of the first line of the He + ion spectral series whose interval between the extreme lines is ∆ω = × −518 10 15 1. s.
+A: λ π ω ω ω µ= − − =( / )( / )/( / )2 1 2 1c Z R Z R∆ ∆ ∆ 0.47 m.
+
+=== 6.37 ===
+Q: Find the binding energy of an electron in the ground state of hydrogen-like ions in whose spectrum the third line of the Balmer series is equal to 108.5 nm.
+A: Eb = +54.4 eV He ( ).
+
+=== 6.38 ===
+Q: The binding energy of an electron in the ground state of He atom is equal to E0 246=. eV. Find the energy required to remove both electrons from the atom.
+A: E E R= + =0 4 79/c104 eV.
+
+=== 6.39 ===
+Q: Find the velocity of photoelectrons liberated by electromagnetic radiation of wavelength λ = 180.nm from stationary He + ions in the ground state.
+A: v R m= − = ×2 4 10 6( )//c104 /c104 ω 2.3 m/s, where ω π λ= 2 c /.
+
+=== 6.40 ===
+Q: At what minimum kinetic energy must a hydrogen atom move for its inelastic head-on collision with another, stationary, hydrogen atom to make one of them capable of emitting a photon? Both atoms are supposed to be in the ground state prior to the collision.
+A: T Rmin /= =3 2 /c104 20.5eV.
+
+=== 6.41 ===
+Q: A stationary hydrogen atom emits a photon corresponding to the first line of the Lyman series. What velocity does the atom acquire?
+A: v R mc= =3 4/c104 / 3.25 m/s, where m is the mass of the atom.
+
+=== 6.42 ===
+Q: From the conditions of the foregoing problem find how much (in per cent) the energy of the emitted photon differs from the energy of the corresponding transition in a hydrogen atom.
+A: ( )/ / %,ε − ε′ ε ≈ = × −3 8 10 2 6/c104 R mc 0.55 where m is the mass of the atom.
+
+=== 6.43 ===
+Q: A stationaryHe + ion emitted a photon corresponding to the first line of the Lyman series. That photon liberated a photoelectron from a stationary hydrogen atom in the ground state. Find the velocity of the photoelectron.
+A: v R m= = ×2 10 6/c104 / 3.1 m/s, where m is the mass of the electron.
+
+=== 6.44 ===
+Q: Find the velocity of the excited hydrogen atoms if the first line of the Lyman series is displaced by ∆λ = 020.nm when their radiation is observed at an angle θ = °45 to their motion direction.
+A: v R= = ×3 8 10 6∆λ / π θ cos 0.7 m/s.
+
+=== 6.45 ===
+Q: According to the Bohr-Sommerfeld postulate the periodic motion of a particle in a potential field must satisfy the following quantization rule: pdq n=∫ 2π/c104. where q and p are generalized coordinate and momentum of the particle, n are integers. Making use of this rule, find the permitted values of energy for a particle of mass m moving. 
+(a) in a unidimensional rectangular potential well of width l with infinitely high walls; 
+(b) along a circle of radius r; 
+(c) in a unidimensional potential fieldU x= α 2 2 /, whereα is a positive constant; 
+(d) along a round orbit in a central field, where the potential energy of the particle is equal to U r= − α / (α is a  positive constant).
+A: (a) E n mln = 2 2 2 2 2π /c104 /; 
+(b) E n mrn = 2 2 2 2/c104 /; 
+(c) E n mn = /c104 α /; 
+(d) E m nn = − α 2 2 22 /./c104
+
+=== 6.46 ===
+Q: Taking into account the motion of the nucleus of a hydrogen atom, find the expressions for the electron’s binding energy in the ground state and for the Rydberg constant. How much (in per cent) do the binding energy and the Rydberg constant, obtained without taking into account the motion of the nucleus, differ from the more accurate corresponding values of these quantities?
+A: E eb = µ 4 22 /,/c104 R e= µ 4 32 /,/c104 where µ is the reduced mass of the system. If the motion of the nucleus is not taken into account, these values (in the case of a hydrogen atom) are greater bym M/ ≈ 0.055%, where m and M are the masses of an electron and a proton.
+
+=== 6.47 ===
+Q: For atoms of light and heavy hydrogen (H and D) find the difference 
+(a) between the binding energies of their electrons in the ground state; 
+(b) between the wavelengths of first lines of the Lyman series.
+A: E ED H 3.7 meV,− = λ λ H D pm.− = 33
+
+=== 6.48 ===
+Q: Calculate the separation between the particles of a system in the ground state, the corresponding binding energy, and the wavelength of the first line of the Lyman series, if such a system is 
+(a) a mesonic hydrogen atom whose nucleus is a proton (in a mesonic atom an electron is replaced by a meson whose charge is the same and mass is 207 that of an electron): 
+(b) a positronium consisting of an electron and a position revolving around their common centre of masses. 6.2. Wave Properties of Particles. Schrodinger Equation ● The de Broglie wavelength of a particle with momentum p: λ π= 2 /c104 p. …(6.2a) ● Uncertainty principle: ∆ ∆x p x⋅ ≥ /c104. …(6.2b) ● Schrödinger time-dependent and time-independent equations: i t h m U/c104= ∂ ∂ = − ∇ +ψ ψ ψ 2 2 2, ∇ φ + − =2 2 2 0m h E U( ), ψ …(6.2c) where ψ is the total wave function, ψ is its coordinate part, ∇ 2 is the Laplace operator, E and U are the total and potential energies of the particle. In spherical coordinates: ∇ = ∂ ∂ + ∂ ∂ + ∂ ∂ ∂ ∂     + ∂ ∂ 2 2 2 2 2 2 22 1 1 r r r r rsin sin sinθ θ θ θ θ φ2. …(6.2d) ● Coefficient of transparency of a potential barrier V x( ): D n m V E dx x x ≈ − −    ∫exp ( ),2 2 1 2 …(6.2e) where x1 and x2 are the coordinates of the points between which V E>.
+A: (a) 0.285 pm, 2.53 keV, 0.65 nm; 
+(b) 106 pm, 6.8 eV, 0.243 µm.
+

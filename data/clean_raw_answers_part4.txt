@@ -1,0 +1,1179 @@
+1. (a) See□Fig.□27; (b) ( / ) ( / )v a x ax ω 2 2 1+ = and ω ωx x= − 2 .
+2. (a) The□amplitude□is□equal□to a/2, and□the□period□is T = π /ω , See□Fig.□28a;
+(b) v x a xx
+2 2 4= −ω ( ) ,□see□Fig.□28b.
+3. x a t= + = −cos ( )ω α 29 cm, v x = − 81 cm/s, where a x v x= + 0
+2
+0
+2( ) , /ω
+α /ω= −arctan ( ).v xx 0 0
+4. ω = − −( )/( ),v v x x1
+2
+2
+2
+2
+2
+1
+2 a v x v x v v= − −( )/( ).1
+2
+2
+2
+2
+2
+1
+2
+1
+2
+2
+2
+5. (a) v a T= =3 / 0.50 m/s; (b) v a T= =6 / 1.0 m/s.
+6. (a) v ax = 2 2
+3π
+ω ; (b) | | ;v a = 2 2
+3π
+ω (c) v a= −2 4 2
+3
+( ) .
+π
+ω
+7. s a n t n n
+a n t n n= + − −
++ −
+[ cos ( / )],
+[ sin ( / )],
+1 2
+2
+ω π
+ω π
+is even,
+is odd.
+
+
+Here, n is□a□whole□number□of□the□ratio 2ω πt / .
+8. s = 0.6 m.
+9. dP dx a x/ / = −1 2 2π
+Answers | 313
+π 2π
+ω t
+x
+0
+vx
+x0
+(a) (b)
+Fig.□28
+ω t
+xvxω x
+π 2πO
+Fig.□27
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 318 (Book p.312) ---
+10. In□both□cases a = 7.
+11. v amax .= 2.73 ω
+12. 47.9□and□52.1□s−1,□1.5□s.
+13. 18□or□26□Hz.
+14. (a) x a y b2 2 2 2 1+ = / , clockwise;□(b) w r= − ω 2 .
+15. (a) y x x a2 2 2 24 1= − ( / ); (b) y a x a= − ( / ).1 2 2 2 See□Fig.□29.
+16. T m a U= 2 2
+0π / .
+17. T a ma b= 4 2π / .
+18. T ml F= =π / 2.0 s.
+19. T l g= − =2 1π η η / ( ) 1.1 s.
+20. T l g= +2 2 / [ / ( )].π α /β arcsin
+21. t h
+w
+= + − −
+− −
+2 1 1
+1 1
+η η
+η
+where η = w g/ .
+22. T m gr= = 4 2π ρ / 2.5s.
+23. T m x= − =2 1π η η( ) / 0.13 s.
+24. T m x x= +2 1 2π /( ).
+25. T m x= 2π / , where x x x x x= + 1 2 1 2/( ).
+26. ω = 2 0T ml/ .
+27. T m S g= + =2 1π ρ θ / ( cos ) 0.8 s.
+28. T l kg= =π 2 / 1.5s.
+29. (a) /c38 /c38 ( / ) ,x g R x+ = 0 where x is the displacement of the body relative to the
+centre□of□the□Earth, R is□its□radius, g is□the□standard□free-fall□acceleration;
+(b) τ π = = R g/ min,42 (c) v gR= = 7.9 km/s.
+30. T l= − =2π /| |g w 0.8 s,where| | cos .g w− = + − g w gw2 2 2 β
+31. T x m= − =2 2π ω/ / 0.7 s, ω ≥ = x m/ 10 rad /s.
+32. k a gT= =4 2 2π / 0.4
+33. (a) θ = °3.0 3.5cos ; t (b) θ = °4.5 3.5sin ; t (c) θ = ° +5.4 3.5 1.0)cos ( . t Here t
+is□expressed□in□seconds.
+314 | Answers
+y
+x0
+y
+x0
+(a) (b)
+Fig.□29
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 319 (Book p.313) ---
+34. F m m g m a= + ± =( )1 2 1
+2 60ω and□40□N.
+35. (a) F mg a
+g
+t= + 
+
+ 
+
+1
+2ω ωcos ,
+see□Fig.□30; (b) a gmin /= = ω 2 8 cm;
+(c) a h g g= − =( / ) /ω ω2 1 20 2 cm.
+36. (a) y t mg x= −( cos ) / ,1 ω where
+ω = x m/ ; (b) T mgmax ,= 2 T min .= 0
+37. (a) ( / ) ( / ) .x r y v0
+2
+0
+2 1+ =α
+38. (a) y t w= −( cos ) / ;1 2ω ω
+(b) y t t= −( sin ) / .ω ω α ω 3
+Here, ω = x m/ .
+39. ∆ h mg kmax /= = 10 cm, E m g k= = 2 2 2 / 4.8 mJ.
+40. a mg x hx m g= +( / ) / , 1 2 E mgh m g x= + 2 2 2 / .
+41. a mg x hx m M g= + +( / ) /( ) . 1 2
+42. Let□us□write□the□motion□equation□in□projections□on□the x and y axes:
+/c38 /c38 /c38 ,x y= ω /c38 /c38 ,y x= − ω where ω = a m/ .
+Integrating these equations, with the initial conditions taken into account, we
+get, x v t= −( / )( cos ),0 1ω ω y v t= ( / ) sin .0 ω ω Hence ( )x v y− + 0
+2 2/ω = ( / ) .v 0
+2ω
+This is the equation of a circle of radius v 0/ω with the centre at the point
+x v0 0= / ,ω y 0 0= .
+43. Will increases 1 2 5 2+ / ( / )R l times. It is taken into account here that the
+water (when in liquid phase) moves translationwise, and the system behaves as
+a mathematical pendulum.
+44. ω = + 
+
+ 
+
+3
+2
+1 2g
+l
+xl
+mg
+.
+45. (a) T l g= =2 3π / 1.1 s; (b) E gl= =1 2 2/ π α 0.05 J.
+46. φ = φ + φ φm mR k0
+2
+0
+2
+0
+21 2 / , E k m= φ1 2 2/ .
+47. T mgl ml= +1 8 1 12 0
+2 2
+0
+2/ / /c38 .θ θ
+48. T = 4π ω/ .
+49. I ml g l= − − = ⋅2
+2
+2
+1
+2
+2
+2( / )/( )ω ω ω 0.8 g m .2
+50. ω ω ω= + +( )/( ).I I I I1 1
+2
+2 2
+2
+1 2
+51. x l= / , 2 3T l gmin / .= 2 3π
+52. T h g= π 2 / , l hred 2.= /
+53. ω ω0
+23 2= a l / .
+54. ω 0
+2= + x m I R/( / ).
+55. ω α
+α
+0
+2
+2 1
+=
++ +
+mg
+MR mR
+cos
+( sin )
+.
+56. T R r g= −2 3 2π ( )/ .
+Answers | 315
+0 π 2π
+0.5
+1.0
+1.5
+F/mg
+ω t
+Fig.□30
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 320 (Book p.314) ---
+57. T m x= π 3 2 / .
+58. ω µ0 = x/ , where µ = +m m m m1 2 1 2/( ).
+59. (a) ω µ= = −x/ ; 6 1s (b) E v= =1 2 5 1
+2/ µ mJ, a v= = 1 2/ω cm. Here
+µ = +m m m m1 2 1 2/( ).
+60. T I k= ′2π / , where I I I I I′ = +1 2 1 2/( ).
+61. ω ω2 1 1 2/ / = + ≈ m mO C 1.9, where mO and mC are the masses of oxygen and
+carbon□atoms.
+62. ω γ= S p mV2 0 0/ , where γ is□the□adiabatic□exponent.
+63. q h mg= ε − =4 1 0
+2π η µ ( ) 2.0 C.
+64. The□induction□of□the□field□increased η2 25= times.
+65. x v t= ( / ) sin ,0 ω ω where ω = lB mL/ .
+66. x t g= −( cos ) / ,1 2ω ω where ω = lB mL/ .
+67. (a) a0 and a0ω ; (b) t nn = + 
+ 
+
+1
+ω
+ω
+β
+πarctan , where n = 0 1 , , 2,/c75
+68. (a) /c38 ( ) ,φ = − φ0 0β /c38 /c38 ( ) ( ) ;φ = − φ0 2 2
+0β ω (b) t nn = − +
+
+ 
+
+1
+2
+2 2
+ω
+ω β
+βω
+πarctan , where
+n = 0 1 , , 2,/c75
+69. (a) a x
+0
+0= | /c38 |,
+ω
+α π
+π= −
++
+>
+<
+
+
+/
+/
+/c38 ,
+/c38 ;
+2 0
+0
+0
+02,
+when
+when
+x
+x
+(b) a x0 0
+21= +| | ( ) , β /ω
+α β /ω= −arctan ( ), with − < <π α/ ,2 0 if x0 0> and π α π/ ,2 < < if x0 0< .
+70. β ω η= − = −2 1 1 5s .
+71. (a) v t a t( ) ;= + −
+0
+2 2ω β βe (b) v t x t( ) | /c38 | ( )= + −
+0
+21 β /ω βe
+72. The answer depends on what is meant by the given question. The first
+oscillation attenuates faster in time. But if one takes the natural time scale, the
+period T, for each oscillation, the second oscillation attenuates faster during
+that□period.
+73. λ λ λ π= + − =n n0
+2
+0
+21 1 2/ ( )( / ) 3.3, n c′ = + =1 2 2( )π / λ 4.3 times.
+74. T x g= + =( ) /4 2 2π λ ∆ 0.70 s.
+75. Q n= = ×π η/ln . 5 10 2
+76. s l e e≈ + − = − −( )/( ) / /1 1 2 2λ λ 2 m.
+77. Q g
+l
+= − = ×1 2 4 1 10
+2
+2
+2/
+ln
+.τ
+η
+1.3
+78. T R g= + =3 2 4 2 2/ ( ) /π λ 0.9 s.
+79. ω α πη= − 
+
+ 
+
+2
+2
+2 2
+mR
+R
+m
+.
+80. η λ π= 2 4hI R T/ .
+81. τ = 2 4 2RI a B/ .
+82. (a) T m x= =2π / 0.28 s; (b) n x= − =( )/0 4∆ ∆ 3.5oscillations,
+here ∆ = kmg x/ .
+316 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 321 (Book p.315) ---
+83. x F m t t=
+−
+−0
+2
+0
+2 0
+/ (cos cos ).
+ω ω
+ω ω
+84. The□motion□equations□and□their□solutions.
+t ≤ τ ; /c38 /c38 / ,x x F m+ =ω 0
+2 x t F k= −( cos ) / ,1 0ω
+t ≥ τ . /c38 /c38 ,x x+ =ω 0
+2 0 /c38 cos [ ( ) ],x a t= − + ω τ α0
+where ω 0
+2 = k m/ , a and α are arbitrary constants. From the continuity ofx and /c38x
+at□the□moment t = τ we□find□the□sought□amplitude:
+a F k t= ( / )|sin ( / )|.2 2 0ω
+85. ω λ π
+λ / π
+res = −
++
+1 2
+1 2
+2
+2
+( / )
+( )
+,g
+l∆
+a F l
+mg
+res = + 
+
+ 
+
+λ
+π
+π
+λ
+0
+2
+24
+1 4∆ .
+86. ω ω ωres 5.1 s= + = × −( )/ .1
+2
+2
+2 2 12 10
+87. (a) ω ω ω0 1 2= ; (b) β ω ω= −| |/ ,2 1 2 3 ω ω ω ω ω= − − 1 2 2 1
+2 12( ) / .
+88. η λ π π / λ= + =( / )1 4 2 2 2.1.
+89. A aF= φπ 0 sin .
+90. (a) Q =
+− φ
+− =1 2 4 1
+2
+0
+2
+2
+0
+2 2 2/
+( ) tan
+ω ω
+ω ω
+2.2; (b) A ma= − φ =π ω ω2
+0
+2 2 6( ) tan mJ.
+Here ω 0 = x m/ .
+91. (a) P F m=
+− +
+0
+2 2
+0
+2 2 2 2 2 4
+βω
+ω ω β ω
+/
+( )
+; (b) ω ω = 0, P F mmax / .= 0
+2 4β
+92.
+P P
+P
+max
+max
+%.
+−
+=
+−
+100
+12η
+93. (a) A N m m= − φ π α sin ; (b) Q I Nm m= + φ −(cos / )
+sin
+α ω
+α
+2 1
+2
+2 2
+94. ω = ε = × −ne m2
+0
+16 110/ . 1.65 s
+95. V I L C V m
+2 2 2+ = / .
+96. (a) I I t m= sin ,ω 0 where I V C Lm m= / , ω 0 1= / ; LC (b) /c245S m V= / 2.
+97. A W= −( )η2 1 .
+98. (a) T L C C= + =2 1 2π ( ) 0.7 ms; (b) I V C C Lm = + =( )/1 2 8 A.
+99. V t V= ±1 2 1 0/ ( cos ) , ω where the plus sign refers to the left-hand capacitor, and
+the□minus□sign□to□the□right-hand□one; ω = 2/ .LC
+100. I
+L
+t LC= Φ cos ( / ).
+101. (a) t n
+n = π
+ω
+; (b) t nn = − 
+ 
+ +
+
+
+
+1
+ω
+β
+ω
+πarctan . Here, n = 0 1 , , 2,/c75
+102. V V R C
+L
+m0
+2
+1
+4
+/ , = −
+103. V I L Ce tC m
+t= + −/ sin ( )β ω α with tan ;α ω /β= V I L
+C
+C m( )
+( )
+.0
+1 2 2=
++ β /ω
+Answers | 317
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 322 (Book p.316) ---
+104. W W L CRL C/ / = = 2 5.
+105. L L L= + 1 2 , R R R= + 1 2 .
+106. t Q= =
+πν
+ηln 0.5s.
+107. n L
+CR
+= − =1
+2
+4 12π
+16.
+108. ω ω
+ω
+0
+0 2 21 1
+1 1 2
+1
+8
+− = −
++
+≈ =
+/( )Q Q
+0.5%.
+109. (a) W L CR r R0
+2 2 21 2= + + =/ ( )/( )/c245 2.0 mJ; (b) W W e tR L= = −
+0
+/ 0.10 mJ.
+110. t Q≈ =
+2 0πν
+ηln 1.0 ms.
+111. (a) ω = − 1 1
+4 2 2LC R C
+; (b) Q R C
+L
+= −1
+2
+4 1
+2
+.
+When solving the problem, it should be taken into account that dq dt I I/ , = − ′
+where q is the charge of the capacitor, I is the current in the coil winding, I ′is
+the□leakage□current ( / ).I V R′ =
+112. Q V m
+P
+C
+L
+= = ×
+2
+2
+2
+101.0 .
+113. P R I RI m= = = 2 2 1 2 20/ mW.
+114. P RCV L m= =1 2 5 2/ / mW.
+115. ω = − 1 1
+4 2 2LC R C
+; R L
+C
+< 1
+2
+.
+116. 1 1 1
+1 2L L L
++ = and 1 1 1
+1 2R R R
++ = .
+117. I V
+L
+t t LC= −0 e / ; I I V C
+L
+= =max
+0
+e
+at□the□moment t LCm = .
+118. I V
+R L
+t em tR L=
++
+− φ − φ ⋅ −
+2 2 2 ω
+ω[cos ( ) cos ], / tan / .φ = ω L R
+119. I V
+R C
+tm t RC=
++
+− φ − φ ⋅ −
+2 2 1/( )
+[cos ( ) cos ], /
+ω
+ω e tan .φ = − 1
+ω RC
+120. The current lags behind the voltage by phase angle φ, defined by the equation
+tan .φ = µ π ν
+ηρ
+0
+2
+4
+a
+121. The current is ahead of the voltage by the phase angle φ = °60 , defined by the
+equation tan ( / ) .φ = − V RIm m
+2 1
+122. (a) V V V t m′ = + −0 cos ( ),ω α where V V RCm = + 0
+21 / ( ) ,ω α ω = arctan ( );RC
+(b) RC = − =η /ω2 1 22 ms.
+318 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 323 (Book p.317) ---
+123. See□Fig.□31.
+124. (a) I V R L Cm m= + − =/ ( / )2 2 1ω ω 4.5 A;
+(b) tan / ,φ = −ω ωL C
+R
+1 φ = − °60 (the□current□is□ahead□of□the□voltage);
+(c) V I CC m= = /ω 0.65 kV, V I R LL m= + = 2 2 2 ω 0.50 kV.
+125. (a) ω ω β= − 0
+2 2 2 ; (b) ω ω ω β 0
+2= − 0
+2 2 2/ , where ω 0
+2 1= / ,LC β = R L/2 .
+126. For C
+L
+= = 1 282ω
+µF; V V L RL m= + = 1 2( / )ω 0.54 kV;
+V V L RC m= = ω / 0.51 kV.
+127. I I t m= + φ cos ( ),ω where I V
+R
+RCm
+m= + 1 2( / )ω and tan .φ = ω RC
+128. ω 0
+2
+1 2 12
+2=
+−
+L
+C L L L( )
+.
+129. Q n= − 2 1 4 / .
+130. Q
+n
+= −
+−
+−η2
+2
+1
+1
+1
+4( )
+.
+131. (a) ω ω ω0 1 2= ; (b) Q n= −
+−
+−ω ω
+ω ω
+1 2
+2
+2 1
+2
+1 1
+4
+( )
+( )
+.
+133. I I Q0
+2 2 2 21 1 4 1/ ( / )( ) / ,= + + − η η 2.2□and□19□respectively.
+134. t t= 1 2 0/ . π
+135. (a) I I I= ≈2
+3
+0 0 1.15 ; (b) I I I= ≈π
+8
+0 0 1.11 .
+136. ν
+π
+η= − =R
+L2
+1 2 kHz.
+137. The current lags behind the voltage by the phase angle
+φ = − ≈ °arc cos 1 37 2( / ) ,X ZL P V
+Z
+Z X L= − =
+2
+2
+2 2 0.16 kW.
+138. For R L r= − =ω 0.20 kΩ ; P V
+L
+max = =
+2
+2ω
+0.11 kW.
+Answers | 319
+VR0
+φ Axis
+of current
+VLR V
+φ
+Axis
+of current
+V
+VC
+VLR
+(a) (b)
+Fig.□31
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 324 (Book p.318) ---
+139. Increased□by n − ≈1 30%.
+140. For Q >> 1 the□ratio□is ∆ω/ω 0 1 2 1≈ − =/ / n Q 0.5%.
+141. P V V V R2
+2
+1
+2
+2
+21 2 30= − − =/ ( ) W.
+142. P I I I R1
+2
+1
+2
+2
+21 2= − − =/ ( ) 2.5 W.
+143. Z R CR= + =/ ( ) .1 40 2ω Ω
+144. See□Fig.□32.
+145. (a) ω res
+LC
+R
+L
+= − = ×1 3 10
+2
+2
+4 rad /s; (b) I VRC L= = / 3 mA,
+I V C LL = = / 1.0 A, I V C
+L
+RC
+L
+C = − 
+ 
+ =
+2
+1.0 A.
+146. tan ( ) .φ = + −ω ω ωC R L L
+R
+2 2 2
+147. Z R L
+CR CL
+= +
++ −
+2 2 2
+2 2 2 1
+ω
+ω ω( ) ( )
+.
+149. F L L I
+R L
+L
+x
+x =
++
+∂
+∂
+ω
+ω
+2
+2 12 0
+2
+2 2
+2
+2
+12
+2( )
+.
+150. t l
+T T
+=
++
+2
+1 2α ( )
+.
+151. ∆φ = − + − + −ω
+ν
+α β γ|( ) cos ( ) cos ( ) cos |.x x y y z z1 2 1 2 1 2
+152. k = + +
+
+ 
+
+ω
+ν
+e e ex y z
+v v1 2 3
+.
+153. ξ ω= − − ′a V v t kxcos [( / ) ],1 where v k= ω/ .
+155. (a) a/ ;λ = × −5.1 10 5 (b) v m = 11 cm/s, 3.2 × −10 4; (c)
+( / ) ,∂ ∂ = × −ξ x m 3.2 10 4 ( / ) ( / ) ,∂ ∂ = ∂ ∂ξ ξ x v xm m where v = 0.34 km/s is the
+velocity□of□the□wave.
+320 | Answers
+IR Axis of
+voltagesφ
+ILr I0
+IC
+Axis of
+voltageφ
+ILR
+I0
+IR Axis of
+voltagesφ
+IL
+I0
+IC
+(a) (b) (c)
+Fig.□32
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 325 (Book p.319) ---
+156. See□Fig.□33.
+157. ∆φ = − − ≈ =2 1 2π
+γλ
+η πη
+γλ
+ln ( ) 0.3 rad.
+158. r r r= + +( )/( ).a a a a1 1 2 2 1 2
+159. (a) γ η=
+−
+= −ln ( / ) ;r r
+r r
+0
+0
+10.08 m
+(b) v a
+m = =2 150πν
+η
+cm/s.
+160. (a) See Fig. 34a. The particles of the medium at the points lying on the solid
+straight lines ( ,y x n= ± λ n = 0 1 , , )2, /c75 oscillate with maximum amplitude,
+those□on□the□dotted□lines□do□not□oscillate□at□all.
+(b) See Fig. 34b. The particles of the medium at the points lying on the straight
+lines y x n= ± λ , y x n= ± ± ( / ) 1 2 λ and y x n= ± ± ( / ) 1 4 λ oscillate
+respectively along those lines, at right angles to them, or move along the circles
+(here n = 0 1 , , ).2, /c75 At□all□other□points□the□particles□move□along□the□ellipses.
+161. w w= 2 3 0/ .
+162. Φ = −
++
+
+
+
+
+
+
+
+ =2 1 1
+1
+202
+0 2
+π µl l
+R l( / )
+W.
+163. Φ =
++
+=P
+R h1 2 2( / )
+0.07 W.
+Answers | 321
+2λ
+λ
+0 λ 2λ x
+(a)
+λ
+λ/20 λ x
+(b)
+y y
+λ/2
+Fig.□34
+∂ξ ∂/ x ∂ξ ∂/ t
+ξ
+0 x
+p x( )
+Fig.□33
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 326 (Book p.320) ---
+164. See□Fig.□35,□for□(a)□and□(b);□See□Fig.□36□for□(c).
+165. (a) w a kx tp = ⋅1 2 2 2 2 2/ sin cos ;ρ ω ω (b) w a kx tk = × ⋅1 2 2 2 2 2/ cos sin .ρ ω ω
+See□Fig.□37.
+166. amax = 5 mm;to□the□third□overtone.
+167. ν
+ν
+η η
+η η
+2
+1
+2 1
+1 2
+1
+1
+= +
++
+=( )
+( )
+1.4.
+168. Will□increases η = −
++
+=1
+1
+2∆
+∆
+T T
+l l
+/
+/
+times.
+169. v l= =2 ν 0.34 km/s.
+170. (a) νn
+v
+l
+n= +
+4
+2 1( ); six oscillations; (b) νn
+v
+l
+n= +
+2
+1( ), also six
+oscillations.□Here, n = 0 1 , , 2,/c75
+171. ν
+ρ
+n
+n
+l
+E n= + = +2 1
+2
+2 13.8 kHz;( ) four oscillations with frequencies 26.6,
+34.2,□41.8,□and□49.4□kHz.
+172. (a) T m amax max / ;= 1 4 2 2ω (b) T m a= 1 8 2 2/ . maxω
+173. W S a k= 1 4 2 2/ / .π ρω
+174. ν ν ν= − ≈ =2 20
+2 2
+0vu v u u v/( ) / 1.0 Hz.
+322 | Answers
+0 x
+t T= /4
+∂ξ
+∂x
+t = 0
+t T= /4
+λ/2
+w
+x
+Fig.□36 Fig.□37
+∂ξ ∂/ x
+0 x
+p x( )
+ξ( )x
+t = 0
+∂ξ ∂/ x
+0 x
+p x( )
+ξ( )x
+t t= /2
+Fig.□35
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 327 (Book p.321) ---
+175. u v v= + − ≈ =ν
+ν
+ν ν ν
+ν
+0
+0
+2
+0
+1 1
+2
+( ( / ) ) 0.5 m/s.
+176. ω ν
+ν
+ν/ ν= + − = −0
+0
+2 11 1 34v
+a∆
+∆( ( ) ) . s
+177. ν ν ω= + =0 1 2/ / t v 1.35 kHz.
+178. (a) ν ν η= − =0
+21 5/( ) ; kHz (b) r l= + =1 2η 0.32 km.
+179. Decreases□by 2u v u/( ) + = 2.0%.
+180. ν ν = + =2 0u v u/( ) 0.60 Hz.
+181. γ η=
+−
+= × − −ln ( / )
+( )
+.r r
+r r
+1
+2
+2
+2
+2 1
+3 1
+2
+6 10 m
+182. (a) L L x′ = − = 20 50γ log e dB; (b) x = 0.30 km.
+183. (a) L L r r= + =0 0 20 36log ( / ) dB; (b) r > 0.63 km.
+184. β τ= + − = −ln ( / )/[ ( )/ ] .r r r r vB A B A 0.12 s 1
+185. (a) Let us consider the motion of a plane element of the medium of thicknessdx
+and unit area of cross-section. In accordance with Newton’s second law
+ρ ξdx dp/c38 /c38 ,= − where dp is the pressure increment over the length dx. Recalling
+the□wave□equation /c38 /c38 ( ),ξ ξ/= ∂ ∂v x2 2 2 we□can□write□the□foregoing□equation□as
+ρ ξv
+x
+dx dp2
+2
+2
+∂
+∂
+= − .
+Integrating□this□equation,□we□get
+∆ p v
+x
+= − ∂
+∂
++ρ ξ2 const.
+In the absence of a deformation (a wave) the surplus pressure is∆ p = 0.Hence,
+const = 0.
+186. Φ = = π ρνλR p m
+2 2 2 11( ) /∆ mW.
+187. (a) ( ) /∆ p pvP rm = = 2 5 2π Pa, ( ) / ;∆ p pm = × −5 10 5
+(b) a p v m= =( ) /∆ 2 3πνρ µ m, a/ .λ = × −5 10 6
+188. P r e I r L= ⋅ =4 102 2
+0π γ 1.4 W, where L is□expressed□in□bels.
+189. ∆λ = ε − = −( / ) /1 1 50 c v m.
+190. t l c= ε − ε ε ε2 1 2 1 2( ) / ln ( / ).
+191. j j/ /dis 2.= εε =σ πν2 0
+192. H kE= ε1
+0 0
+k
+cktm/µ [ ] cos ( ), where c is□the□velocity□of□the□wave□in□vacuum.
+193. (a) H e e= ε = −z m zE kx 0 0/µ cos ; 0.30
+(b) H e e= ε − =z m zE ckt kx0 0 0/µ cos ( ) . 0.18 Heree z is the unit vector of thez
+axis, H is□expressed□in□A/m.
+194. ε = =m m l E c2 13 2πν / mV.
+196. S k c E m= ε1 2 0
+2 2/ . /ω
+197. (a) j E mdis
+20.20 mA /m ;= ε =π ν2 0 (b) S cE m= ε =1 2 0
+2/ 3.3 W /m . 2µ
+198. Since t T>> , where T is the period of oscillations,
+W E m R t= εε =1 2 5 0 0
+2 2/ / µ π kJ.
+Answers | 323
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 328 (Book p.322) ---
+199. B B= ⋅ m kx tsin sin , ω where B Em m⊥ , with B E cm m= / .
+200. S cE kx tx m= ε ⋅1 4 2 20
+2/ sin sin , ω S x = 0.
+201. W W Rm e/ / = ε = × −1 8 100 0
+2 2 15µ ω 5.0
+202. W W Re m/ / . = ε = × −1 8 100 0
+2 2 15µ ω 5.0
+204. Φ =S I R2 .
+205. S I m eU r= ε2 2
+0
+22 4/ / π
+207. To□the□left.
+208. φ = VI.
+209. Φ = φ 1 2 0 0/ cos .V I
+211. The electric dipole moment of the system isp r r= =∑ e e m Mi C ( / ) , where M is
+the mass of the system, rC is the radius vector of its centre of inertia. Since the
+radiation□power P p C∝ ∝/c38 /c38 /c38 /c38 ,2 2 r and□in□our□case rC = 0,P = 0 too.
+212. P e a
+c
+=
+ε
+= × −1
+4 3
+5 10
+0
+2 2 4
+3
+15
+π
+ω W.
+213. P
+c
+qe
+mR
+=
+ε
+
+
+ 
+
+1
+4
+2
+30
+3 3
+2
+2
+2
+( )
+.
+π
+214. ∆ W e q
+c m vb
+≈
+ε
+1
+4 3 0
+3
+4 2
+3 2 3( )
+.
+π
+π
+215. ∆ W T e B c m/ / / .= ε = × −1 3 2 103
+0
+3 2 18
+216. T T e t= −
+0
+α , where α π= ε1 3 4 2
+0
+3 3/ / .e B c m After
+t 0 10 3
+1
+10 10
+= =
+× = ×α
+2.5s for the electron,
+1.6 s 0.5 years for the proton.
+
+
+
+217. S S l c1 2
+2/ tan ( / )= = ω 3.
+218. (a) Suppose that t is the moment of time when the particle is at a definite point
+x, y of the circle, andt ′is the moment when the information about that reaches
+the point P. Denoting the observed values of they coordinate at the pointP by y ′
+(see□Fig.□4.40),□we□shall□write
+t t l x t
+c
+′ = + − ( ) , y t y t′ ′ =( ) ( ).
+The sought acceleration is found by means of the double differentiation of y ′
+with□respect□to t ′:
+dy
+dt
+dy
+dt
+dy
+dt
+dt
+dt
+′
+′
+=
+′
+=
+′
+, d y
+dt
+dt
+dt
+d
+dt
+dy
+dt
+v
+R
+v c y R
+vy cR
+2
+2
+2
+31′
+=
+′
+′
+′
+
+ 
+ = −
+−
+/ /
+( / )
+,
+where the following relations are taken into account; x R t= sin ,ω
+y R t= cos ,ω and y v R= / ,
+(b) Energy flow density of electromagnetic radiation S is proportional to the
+square of the y projection of the observed acceleration of the particle.
+Consequently, S S v c v c1 2
+4 41 1/ ( / ) ( / ) .= + −
+219. P r S= 8 3 2
+0/ . π
+220. w p r c= 3 8 0
+2/ . / π
+221. P p c= ε1 6 2 4
+0
+3/ . ω / π
+324 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 329 (Book p.323) ---
+222. P S e m/ ( / ) / .= 2 2
+0
+2 6µ π
+223. P S e m/ ( / )
+( )
+.=
+−
+µ
+π
+ω
+ω ω
+0
+2 2 2 4
+0
+2 2 26
+224. R P c M c= ≈3 16 / π γρ µ 0.6 m.

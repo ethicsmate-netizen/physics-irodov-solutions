@@ -1,0 +1,2366 @@
+
+--- PDF Page 299 (Book p.293) ---
+
+234. n n e t c= −
+0
+/ , where τ = 4V S v/ , v RT M= 8 / . π
+235. Increases ( )/( )1 1+ +η n times.
+236. Increases α /β2 2= times.
+237. (a) D increases n times, η = const;
+(b) D increases n3 2 /times, η increases n times.
+238. D decreases n4 5 / ≈ 6.3 times, η increases n1 5 / ≈ 1.6 times.
+239. (a) n = 3; (b) n = 1; (c) n = 1.
+240. 0.18□nm.
+241. d dAr He 1.7./ =
+242. N R R1
+32≈ πηω / ∆ ; p kT d n R= = 2 2/ π ∆ 0.7 Pa.
+243. η πω= −( / / ) / .1 1 41
+2
+2
+2
+1R R N
+244. N a h= 1 2 4/ / .πηω
+245. N a p M RT= 1 3 2 4/ / .ω π
+246. µ π
+η
+= −a M
+RT
+p P
+l
+4
+2
+2
+1
+2
+16
+| | .
+247. T x T l x T l x l x l= + +( / / )/( / / ).1 1 1 2 2 2 1 1 2 2
+248. x l l l x l x= + +( )( / / ).1 2 1 1 2 2
+249. T x T T T x t( ) ( / ) ; /= 1 2 1 q l T T= ( / ) ln ( / ).α 2 1
+250. ∆ ∆T T e t= −( ) , 0
+α where α = +( / / ) / .1 1 1 2C C Sx l
+251. T T x l T T= + −1 2 1
+3 2 2 31 1{ ( / ) [( / ) ]} , / / where x is the distance from the plate
+maintained□at□the□temperature T1.
+252. q iR T T
+ld N MA
+= − =2
+9
+40
+3 2
+2
+3 2
+1
+3 2
+3 2 2
+2
+/ / /
+/
+( ) ,
+π
+W /m where i = 3, d is the effective diameter of
+helium□atom.
+253. λ = 23 mm > l, consequently, the gas is ultra-thin;
+q p v t t T= − − =( )/ ( ) ,2 1
+26 1 22γ W /m where v RT M= 8 / , π
+T T T= +1 2 1 2/ ( ).
+254. T T T T
+R R
+r
+R
+= + −
+1
+2 1
+2 1 1ln ( / )
+ln .
+255. T T T T
+R R R r
+= + −
+−
+−
+ 
+1
+2 1
+1 2 11 1
+1 1
+/ /
+.
+256. T T R r w x= + −0
+2 2 4( ) / .
+257. T T R r w x= + −0
+2 2 6( ) / .
+Electrodynamics
+1. The ratio F Fcl gr/ is equal to 4 10 42× and 1 10 26× respectively;
+q m/ = × −0.86 C/kg.10 10
+2. About 2 10 15× N.
+3. dq dt a mg l/ / / .= ε3 2 2 0π
+Answers | 295
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 300 (Book p.294) ---
+
+4. q q q
+q q
+3
+1 2
+1 2
+2= −
++( )
+, r r q r q
+q q
+3
+1 2 2 1
+1 2
+= +
++
+.
+5. ∆T qq
+r
+=
+ε
+0
+2
+0
+28π
+.
+6. E = −2.7 3.6i j , E = 4.5 kV /m.
+7. E ql
+l x
+=
+ε +2 0
+2 2 3 2π ( )
+./
+8. E q
+R
+=
+ε
+=
+2 2
+0
+2π
+0.10 kV /m.
+9. E ql
+r l
+=
+ε +4 0
+2 2 3 2π ( )
+./ For l r>> the strengthE q
+l
+≈
+ε4 0
+2π
+,as in the case of a point
+charge. E q
+r
+max =
+ε6 3 0
+2π
+for l r= / . 2
+10. E qR
+x
+=
+ε
+3
+4
+2
+0
+4π
+.
+11. F q
+R
+=
+ε
+λ
+π4 0
+.
+12. (a) E
+R
+=
+ε
+λ 0
+04
+; (b) E R
+x R
+=
+ε +
+λ 0
+2
+0
+2 2 3 24 ( )
+./ For x R>> the strength E p
+x
+≈
+ε4 0
+3π
+,
+where p R= π λ 2
+0.
+13 (a) E q
+r a r
+=
+ε +4 0
+2 2π
+;
+(b) E q
+r a
+=
+ε −4 0
+2 2π ( )
+. In□both□cases E q
+r
+≈
+ε4 0
+2π
+for r a>> .
+14. E
+y
+=
+ε
+λ
+π
+2
+4 0
+. The□vector□E is□directed□at□the□angle□45°□to□the□thread.
+15. (a) E
+R
+=
+ε
+λ
+π
+2
+4 0
+; (b) E = 0.
+16. E = − ε1 3 0/ / .ar
+17. E = − ε1 2 0 0/ / ,kσ where k is the unit vector of the z axis with respect to which
+the□angle θ is□read□off.□Clearly,□the□field□inside□the□given□sphere□is□uniform.
+18. E = − ε1 2 2
+0/ / .aR
+19. | | / / .Φ = ε 1 2 0λR The sign of Φ depends on how the direction of the normal to
+the□circle□is□chosen.
+20. | |
+( / )
+.φ =
+ε
+−
++
+
+
+
+
+
+
+
+
+q
+R l0 2
+1 1
+1
+The sign of Φ depends on how the direction of the
+normal□to□the□circle□is□chosen.
+21. | | / ( )/ .φ = − ε1 3 0
+2
+0
+2
+0πρr R r
+22. E lmax / .= ελ π 0
+23. E = ε1 2 0 0/ / ,σ with the direction of the vector E corresponding to the angle
+φ = π .
+296 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 301 (Book p.295) ---
+
+24. φ = 4πRa.
+25. (a) E r r
+R
+=
+ε
+−
+ 
+ρ0
+03
+1 3
+4
+for r R≤ , E R
+r
+=
+ε
+ρ0
+3
+0
+212
+for r R≥ ; (b) E Rmax / /= ε1 2 0 0ρ
+for r Rm = 2 3 / .
+26. q R= 2 2π α , E = ε1 2 0/ / .α
+27. E
+r
+e r=
+ε
+− −ρ
+α
+α0
+0
+23
+1
+3
+( ). Accordingly, E r≈
+ε
+ρ0
+03
+and E
+r
+≈
+ε
+ρ
+α
+0
+0
+23
+.
+28. E a= ε1 3 0/ / . ρ
+29. E a= ε1 2 0/ / , ρ where□the□vector a is□directly□towards□the□axis□of□the□cavity.
+30. ∆φ
+π
+=
+ε
+−
++
+
+
+
+
+
+
+
+
+q
+R a R2
+1 1
+10 2( / )
+.
+31. φ − φ =
+ε
+=1 2
+02
+5λ
+π
+ηln kV.
+32. φ = ε1 2 0/ / ,σR E = ε1 4 0/ / .σ
+33. φ =
+ε
++ −σl R l
+2
+1 1
+0
+2( ( / ) ), E
+l R
+=
+ε
+−
++
+
+
+
+
+
+
+
+
+σ
+2
+1 1
+0 2 2
+. When l → 0, then
+φ =
+ε
+σR
+2 0
+, E =
+ε
+σ
+2 0
+; when l R>> , then φ ≈
+ε
+q
+l4 0π
+, E a
+l
+≈
+ε4 0
+2π
+, where q R= σπ 2.
+34. φ = εaR / .π 0
+35. E a= − , i.e., the□field□is□uniform.
+36. (a) E i j= − −2a x y( ); (b) E i j= − −a y x( ). Here , i, j are the unit vectors of the
+x and y axes.□See□Fig.□16□illustrating□the□case a > 0.
+37. E i j k= − + +2( ),ax ay bz E a x y b z= + +2 2 2 2 2 2( ) . (a) An ellipsoid of
+revolution with semiaxes φ/a and φ/ .b (b) In the case of φ > 0, a
+single-cavity hyperboloid of revolution; when φ = 0 a right round cone; when
+φ < 0,a□two-cavity□hyperboloid□of□revolution.
+38. (a) φ =
+ε
+0
+0
+3
+8
+q
+Rπ
+; (b) φ = φ − 
+
+ 
+
+0
+2
+21
+3
+r
+R
+, r R≤ .
+Answers | 297
+(a) (b)
+y
+xx
+y
+Fig.□16
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 302 (Book p.296) ---
+
+39. E E E p
+r
+r= + =
+ε
++2
+0
+2
+0
+3
+2
+4
+1 3
+π
+θcos , where E r is the radial component of the
+vector□E, and E 0 is□its□component□perpendicular□to E r.
+40. E p
+r
+z =
+ε
+−
+4
+3 1
+0
+2
+3π
+θcos , E p
+r
+⊥ =
+ε4
+3
+0
+3π
+θ θsin cos ; E p⊥ at the points located on
+the lateral surface of a cone whose axis is directed along the z axis and whose
+semi-vertex□angle θ is□found□from□the□relation cos /θ = 1 3
+( ,θ1 = °54.7 θ2 = °123.5 ). At□these□points E E p
+r
+= =
+ε
+⊥
+2
+4 0
+3π
+.
+41. R p
+E
+=
+ε4 0 0
+3
+π
+.
+42. φ ≈
+ε
+λ
+π
+θl
+r2 0
+cos , E l
+r
+≈
+ε
+λ
+π2 0
+2 .
+43. φ =
+ε +
+ql x
+R x4 0
+2 2 3 2π ( )
+,/ E ql R x
+R x
+x = −
+ε
+−
++4
+2
+0
+2 2
+2 2 5 2π ( )
+,/ where E x is the projection
+of the vector E on the x-axis. The functions are plotted in Fig. 17. If | | ,x R>>
+then φ ≈
+ε
+ql
+x4 0
+2π
+and E ql
+x
+x ≈
+ε2 0
+3π
+.
+44. φ =
+ε +
+σlx
+x R2 0
+2 2
+, E lR
+x R
+x = −
+ε +
+σ 2
+0
+2 2 3 22 ( )
+./ See□Fig.□18.
+45. φ ≈ ±
+ε
+−
++
+
+
+
+
+
+
+
+
+σl x
+x R2
+1
+0 2 2
+, E lR
+x R
+≈
+ε +
+σ 2
+0
+2 2 3 22 ( )
+./ If x R>> , then φ ≈ ±
+ε
+p
+x4 0
+2σ
+and E p
+x
+≈
+ε2 0
+3π
+, where p R l= π σ 2 . In the formulas for the potential φ the plus
+sign corresponds to the space adjoining the positively charged plate and the
+minus□sign□to□the□space□adjoining□the□negatively□charged□plate.
+46. (a) F = 0; (b) F = −
+ε
+λ
+π
+p
+2 0
+2r
+; (c) F =
+ε
+λ
+π
+p
+2 0
+2r
+.
+47. F p
+l
+=
+ε
+= × −3
+2
+10
+2
+0
+4
+16
+π
+2.1 N.
+48. φ = − +axy const.
+49. φ = − 
+
+ 
+
+ +ay y x
+2
+2
+3
+const.
+50. φ = − + +y ax bz( ) const.
+298 | Answers
+Ex
+– 2R√ 0 R√2 x
+ψ
+0 x
+ψ
+Fig.□17 Fig.□18
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 303 (Book p.297) ---
+
+51. p = ε6 0ax.
+52. p = ε φ2 0
+2∆ / ;d E d = ερ / .0
+53. p a= − ε6 0 .
+54. q l kx= ε4 0π .
+55. A q
+l
+=
+ε
+2
+016π
+.
+56. (a) F q
+l
+= −
+ε
+( ) ;2 2 1
+8
+2
+0
+2π
+(b) E q
+l
+= − 
+ 
+ ε
+2 1 1
+5 5 0
+2π .
+57. F q
+l
+= −
+ε
+( ) .2 2 1
+32
+2
+0
+2π
+58. F p
+l
+=
+ε
+3
+32
+2
+0
+4π
+.
+59. σ
+π
+= −
++
+ql
+l r2 2 2 3 2( )
+,/ q qind = − .
+60. (a) F
+l
+1
+2
+04
+=
+ε
+λ
+π
+; (b) σ λ
+π
+=
++
+l
+l x( )
+.2 2
+61. (a) σ λ
+π
+=
+2 l
+; (b) σ λ
+π
+( ) .r
+l r
+=
++2 2 2
+62. (a) σ
+π
+=
++
+lq
+l R2 2 2 3 2( )
+;/ (b) E q
+l R l
+=
+ε +
+1
+4 4 1 1 40
+2 2 3 2π [ / ( / ) ]
+,/
+φ =
+ε
+−
++
+
+
+
+
+
+
+
+
+1
+4
+1 1
+1 40 2π
+q
+R l R( / )
+.
+63. φ =
+ε
+q
+l4 0π
+.
+64. φ =
+ε
+− +
+ 
+q
+r R R4
+1 1 1
+0 1 2π
+.
+65. q b
+a
+q2 1= − ; φ =
+ε
+× −
+−
+≤ ≤
+≥
+
+
+q r a
+b a r
+a r b
+r b
+1
+04
+1 1
+1π
+/ /
+( / )
+,
+.
+if
+if
+66. (a) E d23 = φ ∆/ , E E E12 34 23 1 2= = / ; (b) | | / / ,σ σ1 4 0 1 2= = ε φ ∆ d
+σ σ2 3 0 3 2= ε φ| | / / . ∆ d
+67. q q l x l1 = − − ( )/ , q qx l2 = − / . Instruction. If the charge q is imagined to be
+uniformly spread over the plane passing through that charge and parallel to the
+plates, the charges q1 and q2 remains, obviously, unchanged. What changes is
+only□their□distribution□and□the□electric□field□becomes□easy□to□calculate.
+68. dF dS/ / / .= ε1 2 2
+0σ
+69. F q
+R
+=
+ε
+=
+2
+0
+232π
+0.5 kN.
+70. F R= ε1 4 2
+0
+2
+0/ / .π σ
+71. N n p
+E
+=
+ε − ε
+= ×0
+0
+3
+1
+3 10
+( )
+, where n0 is□the□concentration□of□molecules.
+Answers | 299
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 304 (Book p.298) ---
+
+72. F p
+l
+=
+ε
+3
+4
+2
+2
+0
+7
+β
+π
+.
+73. (a) x R= / ; 2 (b) x R
+R
+= 
+
+1.1 (attraction)
+0.29 (repulsion)
+See□Fig.□19.
+74. p = ε −
+ε
+1
+4 3
+q
+rπ
+r, q q′ = − ε −
+ε
+1 .
+76. q q q qinn out= − ε − ε ′ = ε − ε( )/ , ( )/ .1 1
+77. See□Fig.□20.
+78. E E=
+ε
++ ε =0 2
+0
+2 2
+0cos sinα α 5.2 V /m; tan tan ,α α= ε 0 hence, α = °74 ;
+σ α′ = ε ε −
+ε
+=0
+0 0
+1 64( ) cosE pC/m .2
+79. (a) E Sd R E= ε −
+ε∫
+1 2
+0π θ cos ; (b) D rd lE= − ε ε − ×∫ 0 0 1( ) sin . θ
+80. (a) E pl
+pd
+l d
+l d= εε
+ε
+<
+>
+
+
+/
+/
+for
+for
+,
+,
+0
+0
+φ = − εε
+− ε + − ε
+≤
+≥
+
+
+
+ρ
+ρ
+l
+d l d d
+l d
+l d
+2
+0
+0
+2
+2
+/
+( / ) /
+for
+for
+,
+.
+The plots E xx( ) and φ( )x are shown in Fig. 21. (b) σ ′ = ε − εpd( )/ , 1 0
+ρ ρ′ = − ε − ε( )/ . 1
+81. (a) E
+r
+R r
+r R
+r R=
+ε ε
+ε
+<
+>
+
+
+
+ρ
+ρ
+/
+/
+for
+for
+,
+;
+3
+3
+0
+3
+0
+2
+(b) ρ ρ′ = − ε − ε( )/ , 1 σ ρ ′ = ε − εR( )/ . 1 3 See□Fig.□22.
+82. E P/= − εd R 4 0 .
+83. E P= − − ε0
+2 2
+01 ( / )/ ,x d U dP = ε4 3 0 0/ .
+84. (a) E E1 0 2 1= ε ε + /( ), E E2 0 2 1= ε + /( ), D D E1 2 0 0 2 1= = εε ε + /( );
+(b) E E1 0= , E E2 0= ε / , D D E1 2 0 0= = ε / .
+300 | Answers
+ψ
+E
+a b r0
+(a)
+ψ
+E
+a b r0
+(b)
+Fig.□20
+ψ
+E
+R r0
+– a 0 a x
+Ex
+ψ
+Fig.□21 Fig.□22
+R√2
+x
+Fx
+0
+Fig.□19
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 305 (Book p.299) ---
+
+85. (a) E E E1 2 0= = , D E1 0 0= ε , D D2 1= ε ; (b) E E E1 2 0 2 1= = ε + /( ),
+D E1 0 0 2 1= ε ε + /( ), D D2 1= ε .
+86. E q r= ε ε +/ ( ) .2 1 0
+2π
+87. ρ ρ = ε ε − =0 1/( ) 1.6 g /cm , 2 where ε and ρ0 are the permittivity and density of
+kerosene.
+88. σ ′ = ε − ε =max ( ) 1 0E 3.5 nC/m ,2 q R E′ = ε − ε =π 2
+01 10( ) pC.
+89. (a) Since the normal component of the vector D is continuous at the dielectric
+interface,□we□obtain
+σ π′ = − ε − ε +ql r( )/ ( ),1 2 1 3 for l → 0 and σ ′ → 0;
+(b) q q′ = − ε − ε +( )/( ).1 1
+90. F q l= ε − ε ε +2
+0
+21 16 1( )/ ( ). π
+91. D q r
+q r
+= + ε
+ε + ε
+ / ( )
+/ ( )
+2 1
+2 1
+2
+2
+π
+π
+in vacuum,
+in dielectric;
+
+E q r
+q r
+= ε + ε
+= ε + ε
+
+
+
+/ ( )
+/ ( )
+2 1
+2 1
+0
+2
+0
+π
+ψ π
+both in vacuum and
+in□dielectric.
+92. σ π′ = ε − ε ε +ql r( )/ ( );1 2 1 3 for l → 0 and σ ′ → 0.
+93. σ π′ = ε − εql r( )/ . 1 2 3
+94. E1 0= εPh d/ (between□the□plates), E P2 0 1= − − ε( / ) ,h d / D D p1 2= = h d/ .
+95. ρ α′ = − 2 , i.e., is□independnent□of r.
+96. (a) E P= − ε /3 0.
+97. E E P0 0 3= − ε / .
+98. E E= ε +3 20/( ), P E = ε ε − ε +3 1 20( )/( ).
+99. E P= − ε /2 0.
+100. E E= − ε +2 10/( ); P = ε ε − ε +2 1 10 0E ( )/( ).
+101. C R
+R R
+= ε ε
++ ε −
+4
+1 1
+0 1
+1 2
+π
+( ) /
+.
+102. The□strength□decreased 1 2 1/ ( )ε + times; q C= ε − ε +1 2 1 1/ ( )/( )./c245
+103. (a) C S
+d d
+= ε
+ε + ε
+0
+1 1 2 2/ /
+; (b) σ ′ = ε ε − ε
+ε + ε
+0
+1 2
+1 2 2 1
+V
+d d
+.
+104. (a) C S d= ε ε − ε ε ε0 3 1 2 1( ) / ln ( / ); (b) ρ′ = − ε − ε εq dS( )/ .2 1
+2
+105. C a R R= ε4 0 2 1π /ln ( / ).
+106. When ε = ε1 1 1 2 2 2R E R Em m .
+107. V R E R R R R= + ε ε1 1 2 1 1 2 3 2[ln ( / ) ( / ) ln ( / )].
+108. C b a≈ ε π0 ln ( / ).
+109. C b a≈ ε2 2 0π /ln ( / ).
+110. C a≈ ε ε2 0π . Instruction. When b a>> , the charges can be assumed to be
+distributed□practically□uniformly□over□the□surfaces□of□the□balls.
+111. C a≈ ε4 0π .
+112. (a) C C C Ctotal = + +1 2 3 ; (b) C Ctotal = .
+113. (a) C S d= ε2 30 / ; (b) C S d= ε3 20 / .
+114. V V C C≤ + =1 1 21 9( / ) kV
+Answers | 301
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 306 (Book p.300) ---
+
+115. U = + + =/c245/( )1 3 10 2η η V.
+116. C C Cx = − =( )/ .5 1 2 0.62 Since the chain is infinite, all the links beginning
+with the second can be replaced by the capacitanceC x equal to the sought one.
+117. V q C1 1 10= = / V, V q C2 2 5= = / V, where q C C C CA B= φ − φ + +( ) /( ). /c2451 2 1 2
+118. V C C1 2 1 1 2 1= − +( )/( / ),/c245 /c245 V C C2 1 2 2 1 1= − +( )/( / )./c245 /c245
+119. q C C C C= − +| | /( )./c245 /c2451 2 1 2 1 2
+120. φ − φ = −
++ +
+A B
+C C C C
+C C C C
+/c245 2 3 1 4
+1 2 3 4( )( )
+. In□the□case□when C C C C1 2 3 4/ / . =
+121. q V
+C C C
+=
++ +
+=
+1 1 11 2 3/ / /
+0.06 mC.
+122. q C1 2= /c245, q C C C C2 1 2 1 2= − +/c245 /( ).
+123. q C C C C C1 1 1 2 1 2 24= − + = −/c245( )/( ) , µC
+q C C C C C2 2 1 2 1 2 36= − + = −/c245( )/( ) µC;q C C3 2 1 60= − = +/c245( ) µC.
+124. φ − φ = − + +A B C C C C C( )/( ).2 2 1 1 1 2 3/c245 /c245
+125. φ = + − +
++ +
+1
+2 2 3 3 1 2 3
+1 2 3
+/c245 /c245 /c245C C C C
+C C C
+( ) , φ = + − +
++ +
+2
+1 1 3 3 2 1 3
+1 2 3
+/c245 /c245 /c245C C C C
+C C C
+( ) ,
+φ = + − +
++ +
+3
+1 1 2 2 3 1 2
+1 2 3
+/c245 /c245 /c245C C C C
+C C C
+( )
+126. C C C C C C
+C C C
+total = + +
++ +
+2
+2
+1 2 3 1 2
+1 2 3
+( ) .
+127. (a) W q a= + ε( ) / ;2 4 4 2
+0π (b) W q a= − ε( ) / ;2 4 4 2
+0π (c)
+W q a= − ε 2 42
+0/ . π
+128. W q
+a
+= −
+ε
+2 2
+4 0
+2ln .
+π
+129. W q l= − ε 2
+08 / .π
+130. W q q l= ε1 2 0 4 / .π
+131. ∆W V C C C C= − + = −1 2 2
+1 2 1 2/ /( ) 0.03 mJ.
+132. Q CC C C= +/c2452
+0 02 /( ).
+133. Q C= 1 2 2
+2/ . /c245It□is□remarkable□that□the□result□obtained□is□independent□of /c2451.
+134. W W W W q
+R
+q
+R
+q q
+R
+= + + =
+ε
++ +
+
+ 
+
+1 2 12
+0
+1
+2
+1
+2
+2
+2
+1 2
+2
+1
+4 2 2π
+.
+135. (a) W q R= ε3 202
+0/ ; π (b) W W1 2 1 5/ / . =
+136. W q a b= ε ε − =( / )( / / )2
+08 1 1 27π mJ.
+137. A q R R= ε −( / )( / / ).2
+0 1 28 1 1π
+138. A q q q
+R R
+= +
+ε
+−
+ 
+( / ) .0
+0 1 2
+2
+4
+1 1
+π
+139. F1
+2
+02= εσ / .
+140. A q a b= ε −( / )( / / ).2
+08 1 1π
+141. (a) A q x x S= − ε2
+2 1 0 2( )/ ; (b) A SV x x x x= ε −0
+2
+2 1 1 2 2( )/ .
+142. (a) A CV= − =1 2 1 2 2/ /( ) η η 1.5 mJ.
+(b) A CV= ε ε − ε − ε − =1 2 1 12 2/ ( )/[ ( )]η η 0.8 mJ.
+302 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 307 (Book p.301) ---
+
+143. ∆p V d= ε ε ε − = =0
+2 21 2 7( ) / kPa 0.07 atm.
+144. h g= ε − ε ε( ) . 1 2 2
+0σ ρ
+145. F R V d= ε ε −π 0
+21( ) / .
+146. N R V d= ε − ε( ) / .1 4 0
+2 2
+147. I aEv= ε =2 0π µ 0.5 A.
+148. I rvV d≈ ε ε − =2 1 0π µ( ) / 0.11 A.
+149. (a) α α ηα η= + +( )/( );1 2 1 (b) α α ηα η≈ + +( )/( ).2 1 1
+150. 5 6 / ;R (b) 7 12 / ;R (c) 3 4 / .R
+151. R Rx = − ( ).3 1
+152. R R R R= + + =( / ) / .1 1 4 2 6 2 1 1 Ω Instruction. Since the chain is infinite, all
+the links beginning with the second can be replaced by the resistance equal to
+the□sought□resistance R.
+153. Imagine the voltage V to be applied across the points A and B. Then
+V IR I R= = 0 0 , where I is the current carried by the lead wires, I 0 is the current
+carried□by□the□conductor AB.
+The current I 0 can be represented as a superposition of two currents. If the
+current I flowed into point A and spread all over the infinite wire grid, the
+conductor AB would carry (because of symmetry) the current I / . 4Similarly, if
+the current I flowed into the grid from infinity and left the grid through pointB,
+the conductor AB would also carry the current I / . 4Superposing both of these
+solutions,□we□obtain I I0 = /2. Therefore, R R o= /2.
+154. R l b a= ( / ) ln ( / ).ρ π2
+155. R b a ab= −ρ π( )/ . 4 In□the□case□of b → ∞ R a= ρ π/ . 4
+156. ρ π η= −4 ∆tab b a C/( ) ln .
+157. R a= ρ π/ . 2
+158. (a) j alV r= 2 3/ ;ρ (b) R a= ρ π/ . 4
+159. (a) j lV r l a= / ln ( / );2 2ρ (b) R l a1 = ( ) ln ( / ).ρ/ π
+160. I VC= εε =/ρ µ0 1.5 A.
+161. RC = εε ρ0.
+162. σ α= =D Dn cos ; j D= εε sin / .α ρ 0
+163. I VS d= − = ( )/ ln ( )σ σ σ / σ2 1 2 1 5 nA.
+165. q I= ε −0 2 1( ) .ρ ρ
+166. σ ρ ρ ρ ρ= ε ε − ε +0 2 2 1 1 1 1 2 2V d d( )/( ), σ = 0 if ε = ε1 1 2 2ρ ρ .
+167. q I= ε ε − ε0 2 2 1 1( ).ρ ρ
+168. ρ η η= ε − +2 1 10
+2V d( )/ ( ).
+169. (a) R S1
+22= πα / ; (b) E I S= 2 2πα / .
+170. t RC I V V= − − = ln ( / ) 0 0.6 s.µ
+171. ρ τ = ε ε = × ⋅/ ln0
+122 101.4 m. Ω
+172. I d R e t RC= − −[( )/ ] . /η η1 /c245
+173. V = + =/c245/( )η 1 2.0 V.
+174. φ − φ = − + − = −1 2 1 2 1 1 2 1 4( ) /( ) ./c245 /c245 /c245R R R V
+Answers | 303
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 308 (Book p.302) ---
+
+175. R R R= − 2 1 , ∆φ = 0 in□the□source□of□current□with□internal□resistance R2.
+176. (a) I = α ; (b) φ − φ =A B 0.
+177. φ − φ = − + = −A B R R R( ) /( )/c245 /c2451 2 1 1 2 0.5 V.
+178. I R RR R R R R1 2 1 1 2 2= + + =/c245/( ) 1.2 A, I I R R2 1 1 2= = / 0.8 A.
+179. V V Rx Rl R l x x l= + −0 0 /[ ( ) / ]; for R R>> 0 V V x l≈ 0 / .
+180. /c245 /c245 /c245= + +( )/( ),1 2 2 1 1 2R R R R R R R R R 1 1 2 1 2= + /( ).
+181. I R R RR R R R R= − + + =( )/( )1 2 2 1 1 1 2 2/c245 /c245 0.02 A, the current is directed from
+the□left□to□the□right□(see□Fig.□3.44).
+182. (a) I R R R R R R R R1 3 1 2 2 1 2 1 2 2 3 3 1= − + + + + =[ ( ) ( )]/( )/c245 /c245 /c245 /c245 0.06 A;
+(b) φ − φ = − =A B I R/c2451 1 1 0.9 V.
+183. I R R R R R R R R= + + + +[ ( ) ]/[ ( ) ]./c245 /c2452 3 0 3 2 3 2 3
+184. φ − φ = + − + + + = −A B R R R R R R R R R R R R[ ( ) ( )]/( )/c245 /c2452 3 1 2 1 1 2 3 1 2 2 3 3 1 1.0 V.
+185. I R R R R R R R R1 3 1 2 2 1 3 1 2 2 3 3 1= φ − φ + φ − φ + + =[ ( ) ( )]/( ) 0.2 A.
+186. I V
+R
+R R
+R R R R R R R R R
+= +
++ + +
+−
+
+ 
+
+ =
+2
+1 2
+1 2 4 1 3 1 3 2 41
+1
+[ ( ) ( )]
+1.0 A. The current flows
+from□point C to□point D.
+187. R r r R R rAB = + +( )/( ).3 3
+188. V e t RC= − −1 2 1 2/ ( ). //c245
+189. (a) Q q R t= 4 3 2/ / ; ∆ (b) Q q R t= ⋅1 2 2 2/ ln / . ∆
+190. R R= 3 0.
+192. Q I V= − =( )/c245 0.6 W, P W= − = − 2.0 W.
+193. I V R= / ; 2 P V Rmax / ;= 2 4 η = 1/2.
+194. By 2 2η = %.
+195. T T e V kR kt C− = −0
+21 ( ) / . /
+196. R R R R Rx = + =1 2 1 2 12/( ) . Ω
+197. R R R R R= + 1 2 1 2/( ); Q R R R R R Rmax ( ) / ( ).= + +/c245 /c2451 2 2 1
+2
+1 2 1 24
+198. n Nr R= = / 3.
+199. Q C R R R= + =1 2 60 2
+1 1 2/ /( ) /c245 mJ.
+200. (a) ∆W CV= − − = −1 2 1 2/ /( ) η η 0.15 mJ; (b) A CV= − =1 2 1 2/ /( ) η η 0.15 mJ.
+201. ∆W CV= − ε − = −1 2 1 2/ ( ) 0.5 mJ, A CVmach = ε − =1 2 1 2/ ( ) 0.5 mJ.
+202. h V gd≈ ε ε −1 2 10
+2 2/ ( ) / , ρ where ρ is□the□density□of□water.
+203. (a) q q e= − ε ε
+0
+0τ ρ/ ; (b) Q a b q= − ε ε( / / ) / .1 1 8 0
+2
+0π
+204. (a) q q e RC= − = −
+0 1 ( ) /τ 0.18 mC; (b) Q e q C RC= − = −( ) / /1 2 822
+0
+2τ mJ.
+205. (a) I V R e t RC= −( / ) ; /
+0
+2 (b) Q CV= 1 4 0
+2/ .
+206. e m I r qR/ / = = ×ω 1.8 C/kg.1011
+207. p lIm e= = ⋅ / 0.40 N s.µ
+208. s enl v j= / ~10 7 m, where n is the concentration of free electorns, v is the
+mean□velocity□of□thermal□motion□of□an□electron.
+209. (a) t enlS I= = / 3 ms; (b) F enl I= = ρ 1.0 MN, where ρ is the resistivity of
+copper.
+304 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 309 (Book p.303) ---
+
+210. E I r m eV= ε =( / ) /2 2 320π V /m, ∆φ = ε =( / ) /I m eV4 2 0π 0.80 V.
+211. (a) P x ax( ) / ; /= − ε −4 9 0
+2 3 (b) j a e m= ε4 9 2 0
+3 2/ / . /
+212. n Id e u u VS= + = × + − −/ ( ) .0 0
+8 3102.3 cm
+213. u l V0 0
+2
+02= ω / .
+214. (a) n I eVi sat= = × ⋅ − −/ ; 6 10 9 3 1cm s (b) n n r i= = × −/ . 6 10 7 3cm
+215. t rn i= − =( )/η 1 13 ms.
+216. t U en d i= ε =0
+2η / 4.6 days.
+217. I ev e d= 0
+α .
+218. j e en d
+i= −( ) / .α α1
+219. (a) B I R= =µ µ0 2 / 6.3 T; (b) B R I R x= + =µ µ0
+2 2 2 3 22 / ( ) / 2.3 T.
+220. B n I n R= µ π π0 2tan ( )/ , for n → ∞ B I R= µ0 2 /
+221. B I d= φ =4 0µ π / sin 0.10 mT.
+222. B I R= − φ + φ =( tan ) /π µ π µ 0 2 28 T.
+223. (a) B I
+a b
+= − φ + φ
+ 
+µ
+π
+π0
+4
+2 ; (b) B I
+a b
+= + 
+
+ 
+
+µ
+π
+π0
+4
+3
+4
+2 .
+224. B hI Rr≈ µ π0
+24 / , where r is□the□distance□from□the□cut.
+225. B I R= µ π0
+2/ .
+226. (a) B I R= ( / )( / );µ π π0 4 (b) B I R= +( / )( / ) / ;µ π π0 4 1 3 2
+(c) B I R= +( / )( ) / .µ π π0 4 2
+227. B I l= =( / ) /µ π µ0 4 2 2.0 T.
+228. (a) B I R= + =( / ) /µ π π µ0
+24 4 0.30 T;
+(b) B I R= × + + =( / ) /µ π π π µ0
+24 2 2 0.34 T; (c)
+B I R= =( / ) /µ π µ0 4 2 0.11 T.
+229. (a) B i= µ0 2 / ;(b) B i= µ0 between□the□planes□and B = 0 outside□the□planes.
+230. B jx
+jd= 
+
+µ
+µ
+0
+0
+inside the plate,
+outside the plate.
+231. In the half-space with the straight wire, B I r= µ π0 2 / , r is the distance from the
+wire.□In□the□other□half-space B ≡ 0.
+232. The□given□integral□is□equal□to µ0I.
+233. B
+jr]
+jr
+for
+for= ≤
+≥
+
+
+
+1 2
+1 2
+0
+0
+2 2
+/ [
+/ [ ] /
+,
+.
+µ
+µ R r
+r R
+r R
+234. B jl= 1 2 0/ [ ],µ i.e., field□inside□the□cavity□is□uniform.
+235. j r b r( ) ( / ) ( ) .= + −µ α α
+0
+11
+236. B nI R l= +µ0
+21 2/ ( / ) .
+237. (a) B nI x x R= − +1 2 1 0
+2 2/ ( / ),µ where x > 0
+outside the solenoid and x < 0 inside the
+solenoid;□see□Fig.□23;□(b)
+x R R0 1 2 2 1 5= − − ≈( )/ ( ) .η η η
+Answers | 305
+–2 –1 0 1 2
+0.2
+0.4
+0.6
+0.8
+1.0 B B/ 0
+x R/
+Fig.□23
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 310 (Book p.304) ---
+
+238. B I h h R r R
+I r r R
+= − = <
+>
+
+( / ) ( ( / ) ,
+( / )/ / , .
+µ π
+µ π
+0
+2
+0
+1 2
+4 2
+0.3 mT,
+
+239. η π≈ = ×N / . 8 10 2
+240. Φ = =( / )µ π µ0 4 I 1.0 Wb/m.
+241. Φ = Φ =0 02 / /µ nIS 2, where Φ 0 is the flux of the vector B through the
+cross-section□of□the□solenoid□far□from□its□ends.
+242. Φ = =( / ) lnµ π η µ0 4 2 8INh Wb.
+243. p R Bm = = ⋅2 302
+0π µ / mA m . 2
+244. p NIdm = = ⋅1 2 2/ 0.5 A m . 2
+245. (a) B IN b a
+b a
+=
+−
+=µ µ0
+2
+7ln ( / )
+( )
+T; (b) p lN a ab bm = + + = ⋅1 3 15 2 2/ ( )π mA m .2
+246. (a) B R= 1 2 0/ ; µ σω (b) p Rm = 1 4 4/ . πσω
+247. B R= =2 3 290/ µ σω pT.
+248. p qRm = 1 5 2/ ; ω p M q mm / / . = 2
+249. B = 0.
+250. F F v v cm e/ ( / ) .= ε = = × −µ0 0
+2 2 6 1.00 10
+251. (a) F I R1 0
+2 4= =µ 0.20 mN/m; (b) F I l1 0
+2= =µ π / 0.13 mN/m.
+252. B d RI m= =π σ2 4 8/ , kT where σ m is□the□strength□of□copper.
+253. B gS I= =( / ) tan2 10ρ θ mT, where ρ is□the□density□of□copper.
+254. B mgl NIS= =∆ / 0.4 T.
+255. (a) F II= − =2 4 10 0
+2µ π η µ/ ( ) 0.40 N;
+(b) A aII= + − =( / ) ln [( )/( )]µ π η η µ0 0 2 1 2 1 0.10 J.
+256. R ≈ ε =µ η π0 0/ (ln )/ 0.36 k . Ω
+257. F I R1 0
+2 2= µ π / .
+258. F I I
+b
+b a1
+0 1 2
+4
+2 1= +µ
+π
+ln ( / ).
+259. F B1
+2
+02= / .µ
+260. In all three cases F B B1 1
+2
+2
+2
+02= −( )/ . µ The force is directed to the right. The
+current□in□the□conducting□plane□is□directed□beyond□the□drawing.
+261. ∆p IB a= = / 0.5 kPa.
+262. p I R= µ π0
+2 2 28 / .
+263. p n I= 1 2 0
+2 2/ . µ
+264. I F nRlim .= 2 0lim /µ
+265. P v B d R R d S= + 2 2 2 2 /( / ) ; ρ when R d S= ρ / , the power is
+P P v B dS= = max / / .1 4 2 2 ρ
+266. U I R ne= =1 4 0
+2 2 2/ µ / π 2pV.
+267. n jB eE= = × −/ ; 2.5 m1028 1 almost 1 : 1.
+268. u B0
+21 10= = × ⋅ −/ η 3.2 m /(V s). 2
+269. (a) F = 0; (b) F Ip r m= ( / ) / ,µ π0
+24 2 F B ↑↓ ; (c) F Ip r m= ( / ) / ,µ π0
+24 2
+F r↑↓ .
+306 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 311 (Book p.305) ---
+
+270. F R Ip x R x m= +( / ) /( ) . /µ π π0
+2 2 2 5 24 6
+271. F p p l m m= =3 2 9 0 1 2
+4/ µ / π nN.
+272. I Bx R′ ≈ =2 3
+0
+2/µ 0.5 kA.
+273. B B′ = + µ α α2 2 2sin cos .
+274. (a) H dS R B= ⋅ −∫ π θ µ µµ2
+01cos ( )/ ;
+(b) B rd Bl= −∫ ( ) sin .1 µ θ
+275. (a) I Isur′ = χ ; (b) I Ivol′ = χ ; in□opposite□directions.
+276. See□Fig.□24.
+277. B I
+r
+=
++
+µ µ µ
+µ µ π
+0 1 2
+1 2
+.
+278. B B= +2 10µ µ/( ).
+279. B B= +3 20µ / µ( ).
+280. H NI lc = = / 6 kA /m.
+281. H bB d≈ = /µ π0 0.10 kA /m.
+282. When b R<< , the□permeability□is µ π µ≈ = = ×2 10 0
+3RB NI bB/( ) . 3.7
+283. H = 0.06 kA /m, µmax .≈ ×1.0 10 4
+284. From□the□theorem□on□circulation□of□the□vector H we□obtain
+B NI
+b
+d
+b
+H H≈ − = −µ µ π0 0 1.51 0.987 (kA /m).
+Besides, B and H are interrelated as shown in Fig. 3.76. The required values ofH
+and B must simultaneously satisfy both relations. Solving this system of
+equations by means of plotting, we obtain. H ≈ 0.26 kA /m, B ≈ 1.25 T, and
+µ µ= ≈ ×B H/ . 0
+2104
+285. F SB≈ 1 2 2
+0/ . χ /µ
+286. (a) x am = 1 4 / ; (b) χ µ = = × −
+0 0
+2 4 10F e a vBmax / / . 3.6
+287. A VB≈ 1 2 2
+0/ . χ /µ
+288. /c2451 8= By w a / .
+289. I Bvl R R= + /( ), µ where R R R R Rµ = + 1 2 1 2/( ),
+290. (a) ∆φ = =1 2 2 2/ / ω a m e 3.0 nV; (b) ∆φ ≈ =1 2 20 2/ ω Ba mV.
+291. E r mV.
+A
+C
+d Bd∫ = − = −1 2 10 2/ ω
+292. /c2451 1 2 1= − / ( ) , n Ba tβ where n = 1, 2,/c75 is the number of
+the half-revolution that the loop performs at the given
+moment t. The plot /c245i t( ) is shown in Fig. 25, where
+t nn = 2π β/ .
+293. I rind = α / , where α µ π= 1 2 0/ / . lvI R
+294. /c245i
+I v
+x x a
+=
++
+µ
+π
+α0
+2
+4
+2
+( )
+.
+295. /c245i a B mg t aB= +1 2 2 2 2/ ( sin )/ .ω ω
+296. v mgR
+B l
+= sin .α
+2 2
+Answers | 307
+0
+J
+H
+x
+B
+Fig.□24
+t1 t2 t3 t4 t0
+δl
+Fig.□25
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 312 (Book p.306) ---
+
+297. w g
+l B C m
+=
++
+sin
+/
+.α
+1 2 2
+298. P a B R= 1 2 2 2/ ( ) / .πω
+299. B qR NS= =1 2 / / 0.5 T.
+300. q aI
+R
+b a
+b a
+= +
+−
+µ
+π
+0
+2
+ln , i.e., is□independent□of L.
+301. (a) I I v
+R
+b
+a
+= µ
+π
+0 0
+2
+ln ; (b) F v
+R
+I b
+a
+= 
+ 
+µ
+π
+0 0
+2
+2
+ln .
+302. (a) s v mR l B= 0
+2 2/ , (b) Q mv= 1 2 0
+2/ .
+303. (a) v F
+m
+e t= − −
+α
+α( ),1 where α t B l mR= 2 2 / .
+304. (a) In the round conductor the current flows clockwise, there is no current in
+the connector; (b) in the outside conductor, clockwise; (c) in both round
+conductors, clockwise; no current in the connector, (d) in the left-hand side of
+the□figure□eight,□clockwise.
+305. I B a b= − =1 4 0/ ( )/ω ρ 0.5 A.
+306. /c245im = 1 3 2
+0/ . π ωa N B
+307. /c2451
+23 2 12= =/ wlBt mV
+308. E nIr
+nIa r
+r a
+r a= <
+>
+
+
+
+1 2
+1 2
+0
+0
+2
+/ /c38
+/ /c38
+for
+for
+,
+.
+µ
+µ
+309. I nSdI= =1 4 2 0/ /c38/µ ρ mA, where ρ is□the□resistivity□of□copper.
+310. E ab= − +1 2 1 1/ ( )/( ).η η
+311. ω = − q
+m
+t
+2
+B( ).
+312. F a V
+rRlb
+1
+0
+2 2
+24
+max .= µ
+313. Q a R= 1 3 2 3/ / . τ
+314. I b a h= −1 4 2 2/ ( ) / . β ρ
+315. l l L= = 4 0 0π µ / 1.10 km.
+316. L mR
+l
+= µ
+π ρρ
+0
+04
+, where ρ and ρ0 are□the□resistivity□and□the□density□of□copper.
+317. t L
+R
+= − − = ln ( )1 η 1.5s.
+318. τ µ
+π ρρ
+= = 0
+04
+m
+l
+0.7 ms, where ρ is□the□resistivity, ρ0 is□the□density□of□copper.
+319. L1
+0
+2
+= =µµ
+π
+µln 0.26 H/m.
+320. L V a a
+b
+= + 
+ 
+µ
+π
+µ0 2
+2
+1/ ln .
+321. L h b1 0 25= =µ / nH/m.
+322. L1
+0≈ µ
+π
+ηln .
+323. (a) I a B L= π 2 / ; (b) A a B L= 1 2 2 4 2/ / .π
+308 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 313 (Book p.307) ---
+
+324. I I= + =0 1 2( ) η A.
+325. I aB
+a
+b
+=
+−
+ 
+
+=π
+µ0
+8 2
+50
+ln
+A.
+326. I
+R
+e t R L= + − −/c245[ ( ) ]. /1 1 η η
+327. I
+R
+e TR L= − −/c245( ). /1 2
+328. I L
+R L L
+1
+2
+1 2
+=
++
+/c245
+( )
+, I L
+R L L
+2
+1
+1 2
+=
++
+/c245
+( )
+329. L b a
+l
+12
+0
+2
+1= + 
+ 
+µ
+π
+ln .
+330. L kN b
+a
+12
+0
+2
+= µ µ
+π
+ln .
+331. (a) L a b12 0
+21 2≈ / / ;µ π (b) Φ =21 0
+21 2 / / .µ π a I b
+332. p aRq Nm = 2 0/ .µ
+333. L a l12 0
+4 31 2≈ / / .µ π
+334. I aL
+R
+e tR L
+2
+12 1 2= − −( ). /
+335. Q L
+R R R
+=
++
+=/c2452
+2
+02 1
+3
+( / )
+µJ.
+336. W N I= Φ =1 2 / 0.5 J.
+337. W BH a b= = π2 2 2.0 J, where H NI b= 1 2 / / . π
+338. (a) W W b dgap m/ / ≈ =µ π 3.0; (b) L SN
+b d
+≈
++
+=µ
+π µ
+0
+2
+/
+0.15 H.
+339. W a1 0
+2 2 2 8= µ λ ω π / .
+340. E B= ε = ×/ 0 0
+83 10µ V /m.
+341. w w a lm e/ / = ε = × −
+0 0
+2 4 2 15 10µ ω 1.1
+343. (a) L Ltotal = 2 ; (b) L Ltotal = / . 2
+344. L L L12 1 2= .
+346. W a
+b
+I I12
+0
+2
+1 2
+2
+= µ π θcos .
+347. (a) j j;d = − (b) I q pd = ε ε/ .0
+348. The displacment current should be taken into account in addition to the
+conduction□current.
+349. E I Sm m= ε =/ 0 7ω V /cm.
+350. H H t m= + cos ( ).ω α where H rV
+d
+m
+m= + ε ε
+2
+2
+0
+2σ ω ( ) and α is determined
+from□the□formula tan .α ω/ σ= ε ε0
+351. j Br
+BR r
+r R
+R Rd = 
+
+
+<
+>
+1 2
+1 2 2
+/ /c38 /c38
+/ /c38 /c38 /
+for
+for
+,
+.
+Here /c38 /c38 sin .B nI t m= µ ω ω0
+2
+Answers | 309
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 314 (Book p.308) ---
+
+352. (a) j q
+r
+d = 2
+4 3
+v
+π
+; (b) j v
+d
+q
+r
+= −
+4 3π
+.
+353. xm = 0, j qv
+a
+d max .=
+4 3π
+354. H vr= q
+r
+[ ] .
+4 3π
+355. (a) If B( ),t then ∇ × = − ∂ ∂ ≠E B / t 0. The spatial derivatives of the field E,
+however, may not be equal to zero( )∇ × ≠ E 0 only in the presence of an electric
+field.
+(b) If B( ),t then ∇ × = − ∂ ∂ ≠E B / t 0.But□in□the□uniform□field ∇ × = E 0.
+(c) It is assumed that E a= f t( ), where a is a vector which is independent of the
+coordinates, f t( ) is an aribitrary function of time. Then−∂ ∂ = ∇ × =B E/ t 0,that
+is the field B does not vary with time. Generally speaking, this contradicts the
+equation ∇ × = ∂ ∂H D / t for in this case its left-hand side does not depend on
+time whereas its right-hand side does. The only exception is the case whenf t( )
+is□a□linear□function.□In□this□case□the□uniform□field□E can□be□time-dependent.
+356. Let us find the divergence of the two sides of the equation ∇ × = + ∂ ∂H j D / t.
+Since the divergence of a rotor is always equal to zero, we get
+0 = ∇ ⋅ + ∂
+∂
+⋅j V D
+t
+( ). It□remains□to□take□into□account□that V D⋅ = ρ .
+357. Let us consider the divergence of the two sides of the first equation. Since the
+divergence of a rotor is always equal to zero, ∇ ⋅ ∂ ∂ =( )B/ t 0 or ∂
+∂
+∇ ⋅ =
+t
+( ) . B 0
+Hence, ∇ ⋅ =B const. which□does□not□contradict□the□second□equation.
+358. ∇ × = −E B [ ].ω
+359. E vB′ =[ ].
+360. σ = ε =0vB 0.40 pC/m .2
+361. ρ ω= − ε = −2 B 0.08 nC/m , 3 σ ω= ε =0 2a B pC/m . 2
+362. B vr= µ
+π
+0
+34
+q
+r
+[ ] .
+364. E r′ =b r/ 2, where r is□the□distance□from□the z′axis.
+365. B rv′ = a
+c r
+[ ] ,2 2 where r is□the□distance□from□the z′axis.
+367. (a) E E′ = −
+−
+=1
+1
+9
+2 2
+2
+β α
+β
+cos kV /m; tan tan ,α α
+β
+′ =
+−1 2
+whence α ≈ °51 ;
+(b) B E
+c
+′ =
+−
+=β α
+β
+µsin
+1
+14
+2
+T.
+368. (a) E B
+c
+′ =
+−
+=β α
+β
+sin
+1 2
+1.4 nV /m; (b) B B′ = −
+−
+=1
+1
+2 2
+2
+β α
+β
+cos 0.9 T, α′ ≈ °51 .
+370. B B E cB′ = − ≈1 2( / ) 0.15 mT.
+371. Suppose the charge q moves in the positive direction of the x axis of the
+reference frame K. Let us pass into the frame K ′at whose origin of cooridnates
+this charge is at rest (thex and x′axes of the two frames coincide and they and
+310 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 315 (Book p.309) ---
+
+y ′axes are parallel). In the frame K ′the field of the charge has the simplest
+from: E q
+r
+′ =
+ε ′
+′1
+4 0
+3π
+r , with□the□following□components□in□the□plane x,□y
+E q
+r
+xx′ =
+ε ′
+′1
+4 0
+3π
+, E q
+r
+yy′ =
+ε ′
+′1
+4 0
+3π
+.
+Now let us make the reverse transition to the initial frame K. As the moment
+when the chargeq passes through the origin of coordinates of the frameK, the x
+and y projections of the vector r are related to the x′and y ′projections of the
+vector r′as
+x r x v c= = ′ −cos ( / ) ,θ 1 2 y r y= = ′sin .θ
+Besides□in□accordance□with□the□formulas□that□are□reciprocal□to□Eqs.□(3.6i),
+E Ex x= ′ , E E v cy y= ′ − / ( / )1 2 .
+Solving□simultaneously□all□these□equations,□we□obtain
+E E i E j qr
+r
+x y= + +
+ε
+−
+−
+1
+4
+1
+10
+3
+2
+2 2 3 2π
+β
+β θ( sin )
+./
+Note□that□in□this□case (v = const.) the□vector E is□collinear□with□the□vector r.
+372. v ale m= = 9 2 163 / / km/s.
+373. tan .α = al m
+eV
+2
+34 2
+374. (a) x E a= 2 0/ ; (b) w qE m= 0/ .
+375. t T T m C
+ceE
+= + =( ) 2 0
+2
+3.0 ns.
+376. w eE
+m T m c
+=
++0 0
+2 31 ( / )
+.
+377. (a) tan ( / ) .θ = − eEt
+m v
+v c
+0 0
+0
+21 where e and m0 are the charge and the mass of a
+proton;□(b) v v v c eEt m cx = + −0 0
+2 2
+0
+2 21 1/ ( / )( / ) .
+378. α = 
+
+ 
+
+ = °arcsin dB q
+mV2
+30 .
+379. (a) v reB m= = / 100 km/s, T m eB= =2π µ/ 6.5 s;
+(b) v e m e reB e= + =/ ( / ) ,1 0
+2 0.51 T m
+eB v c
+=
+−
+=2
+1
+0
+2
+π
+( / )
+4.1 ns
+380. (a) p qrB= ; T m c qrB m c= + −0
+2
+0
+21 1( ( / ) ); (c) w e
+r m c qrB
+=
++
+2
+0
+21 [ ( / ) ]
+.
+381. T m c= η 0
+2, 5□keV□and□9□MeV□respectively.
+382. ∆l mV eB= =2 2 2π α / cos 2.0 cm.
+383. q m V
+l B B
+/
+( )
+.=
+−
+8 2
+2
+2 1
+2
+π
+384. r = φ2 2ρ |sin ( / )|, where ρ α= mv
+eB
+sin , φ = leB
+mv cos
+.
+α
+385. r ae v b
+max
+/ ,= 0 where b c
+m
+I= µ
+π
+0
+2
+.
+Answers | 311
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 316 (Book p.310) ---
+
+386. v V
+rB b a
+=
+ln ( / )
+, q
+m
+V
+r B b a
+= 2 2 ln ( / )
+.
+387. (a) y mEn
+qB
+n = 2 2 2
+2
+π ; (b) tan .α
+π
+= v B
+En
+0
+2
+388. z l qB
+mE
+y= tan ;
+2
+2
+for z << 1 this□equation□reduces□to y mE ql B z= ( / ) .2 2 2 2
+389. F mEI qB= = / 20 µN.
+390. ∆l mE
+eB
+= φ =2 62
+π tan cm.
+391. q
+m
+a a b B
+E x
+= +( ) .2
+2
+2
+∆
+392. (a) x a t t= − ( sin );ω ω y a t= −( cos ),1 ω
+where a mE qB= / , 2 ω = qB m/ . The
+trajectory is a cycloid (Fig. 26). The
+motion of the particle is the motion of a
+point located at the rim of a circle of
+radius a rolling without slipping along
+the x axis so that its centre travels with
+the□velocity v E B= / ; (b) s mE gB= 8 2/ ; (c) v E Bx = / .
+393. V e
+m
+I a
+b
+= 
+ 
+2
+4
+0
+2
+µ
+π
+ln .
+394. B b
+b a
+m
+e
+V≤
+−
+2 2
+2 2 .
+395. y a t t=
+2ω
+ωsin , x a t t t= −
+2 2ω
+ω ω ω(sin cos ), where a qE mm= / . The trajectory
+has□the□form□of□unwinding□spiral.
+396. V mr r e≥ =2 2 2π ν ∆ / 0.10 MV.
+397. (a) T erB
+m
+= =( ) 2
+2
+12 MeV; (b) v
+r
+T
+m
+min = =1
+2
+20
+π
+MHz.
+398. (a) t mr
+eV
+= =π ν µ
+2 2
+17 s; (b) s mr
+eV
+≈ =4
+3
+2 2 2π ν 0.74 km.
+Instruction. Here s v n n
+n
+N
+~ ~ ,
+=
+∑ ∑
+1
+where v n is the velocity of the particle
+after the nth passage across the accelerating gap. Since N is large,
+n n dn
+N N
+1 0∑ ∫≈ .
+399. n W eBc= =2 9 2πν / .
+400. ω ω = +0 1 / , at where ω 0 = qB m/ , a qB W m c= ∆ / .π 2 2
+401. v rqB m= 1 2 / / , ρ = r /2.
+402. N W e= Φ = ×/ 5 10 6 revolutions, s rN= = ×2 8 10 2π km.
+403. On□the□one□hand,
+dp
+dt
+eE e
+r
+d
+dt
+= = Φ
+2π
+,
+312 | Answers
+ω
+x0
+y
+2a
+Fig.□26
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 317 (Book p.311) ---
+
+where p is the momentum of the electron, r is the radius of the orbit, Φ is the
+magnetic□flux□acting□inside□the□orbit.
+On the other hand,dp dt/ can be found after differentiating the relation p erB=
+for r = const. It follows from the comparison of the expressions obtained that
+dB dt d B dt0 1 2/ / / .= In particular, this condition will be satisfied if
+B B0 1 2= / .
+404. r B a0 0 2 3= / .
+405. dE dr B r B/ /c38 ( ) / /c38 .= − = 0 1 2 0
+406. ∆ ∆W r eB t= =2 2π / 0.10 keV.
+407. (a) W reB m c m c= + −( ( / ) ) ;1 1 0
+2
+0
+2 (b) s W t reB= ∆ / .
+Oscillations□and□Waves
+1. (a) See□Fig.□27; (b) ( / ) ( / )v a x ax ω 2 2 1+ = and ω ωx x= − 2 .
+2. (a) The□amplitude□is□equal□to a/2, and□the□period□is T = π /ω , See□Fig.□28a;
+(b) v x a xx
+2 2 4= −ω ( ) ,□see□Fig.□28b.
+3. x a t= + = −cos ( )ω α 29 cm, v x = − 81 cm/s, where a x v x= + 0
+2
+0
+2( ) , /ω
+α /ω= −arctan ( ).v xx 0 0
+4. ω = − −( )/( ),v v x x1
+2
+2
+2
+2
+2
+1
+2 a v x v x v v= − −( )/( ).1
+2
+2
+2
+2
+2
+1
+2
+1
+2
+2
+2
+5. (a) v a T= =3 / 0.50 m/s; (b) v a T= =6 / 1.0 m/s.
+6. (a) v ax = 2 2
+3π
+ω ; (b) | | ;v a = 2 2
+3π
+ω (c) v a= −2 4 2
+3
+( ) .
+π
+ω
+7. s a n t n n
+a n t n n= + − −
++ −
+[ cos ( / )],
+[ sin ( / )],
+1 2
+2
+ω π
+ω π
+is even,
+is odd.
+
+
+Here, n is□a□whole□number□of□the□ratio 2ω πt / .
+8. s = 0.6 m.
+9. dP dx a x/ / = −1 2 2π
+Answers | 313
+π 2π
+ω t
+x
+0
+vx
+x0
+(a) (b)
+Fig.□28
+ω t
+xvxω x
+π 2πO
+Fig.□27
+Telegram @unacademyplusdiscounts

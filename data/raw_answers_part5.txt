@@ -1,0 +1,1241 @@
+
+--- PDF Page 329 (Book p.323) ---
+
+222. P S e m/ ( / ) / .= 2 2
+0
+2 6µ π
+223. P S e m/ ( / )
+( )
+.=
+−
+µ
+π
+ω
+ω ω
+0
+2 2 2 4
+0
+2 2 26
+224. R P c M c= ≈3 16 / π γρ µ 0.6 m.
+Optics
+1. (a) 3 and 9 mW; (b) Φ = + Φ =1 2 1 2/ ( ) /V V A e 1.6 lm, where
+A = 1.6 mW /lm, V1 and V2 are the values of relative spectral response of an eye
+for□the□given□wavelengths.
+2. E A r Vm
+2
+0 0
+22= ε Φµ π λ/ / , hence E m = 1.1 V /m, H m = 3.0 mA /m. Here
+A = 1.6 mW /lm, Vλ is the relative spectral response of an eye for the given
+wavelength.
+3. (a) E E= 1 2 0/ ; (b) E R l
+R l
+I
+R
+= − −
+−
+=1 1
+1
+50
+2
+2
+( / )
+/
+lx.
+4. M L= 2 3 0/ . π
+5. (a) Φ = π θL S∆ sin ;2 (b) M L= π .
+6. h R≈ , E LS R= = /4 402 lx.
+7. I I= 0
+3cos , θ Φ = = ×πI R h0
+2 2 2 3 10/ lm.
+8. E ES Rmax ( / ) /= =9 16 3 2π ρ 0.21 lx, at□the□distance R / 3 from□the□ceiling.
+9. E L= π .
+10. E L= π .
+11. M E h R= + = ×0
+2 2 2 21 7 10( / ) , lm/m
+12. E LR h0
+2 2 25= =π / lx.
+13. e e en n.′ = − 2( )
+14. Suppose n1, n2, n3 are the unit vectors of the normals to the planes of the given
+mirrors, and e 0, e1, e2, e3 are the unit vectors of the incident ray and the rays
+reflected from the first, second and the third mirror. Then (see the answer to the
+foregoing problem); e e e n n1 0 0 1 1 2= − ( ) , e e e n n2 1 1 2 2 2= − ( ) ,
+e e e n n3 2 2 3 3 2= − ( ) . Summing termwise the left-hand and right-hand sides of
+these□expressions,□it□can□be□readily□shown□thate e3 0= − .
+15. θ1 53= = °arctan n .
+16. n n1 2
+21 1/ / = − = η 1.25.
+17. x n d= − − − =[ ( sin )/( sin )] sin1 1 2 2 2θ θ θ 3.1 cm.
+18. h hn n′ = −( cos )/( sin ) /2 3 2 2 3 2θ θ
+21. Θ = °83 .
+22. From□37□to□58°□.
+23. α = °8.7 .
+24. ∆ Θ
+Θ
+∆α =
+−
+= °2 2
+1 2 2 2
+sin ( / )
+sin ( / )
+.
+n
+n 0.44
+27. (a) f l= − =β β/( )1 10 2 cm; (b) f l= − =β β β β1 2 2 1/( ) 2.5cm.
+Answers | 325
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 330 (Book p.324) ---
+
+28. I I f f s′ = − = ×ρ 0
+2 2 3 10( ) 2.0 cd.
+29. Suppose S is a point source of light and S ′its image (Fig. 38). According to
+Fermat’s principle the optical paths of all rays originating atS and converging at
+S ′are equal. Let us draw circles with the centres at S and S ′and radii SO and
+S M′ . Consequently,□the□optical□paths ( )DM and ( )OB must□be□equal:
+n DM n OB⋅ = ′⋅ . …(*)
+However, in the case of paraxial rays DM AO OC≈ + , where AO h s≈ − 2 2 /( )
+and OC h R≈ ′ 2 2 / . Besides, OB OC BC h R h s= − ≈ ′ − ′ ′ 2 22 2/ / . Substituting
+these expressions into (*) and taking into account that h h′ ≈ , we obtain
+n s n s n n R′ ′ − = ′ −/ / ( )/ .
+30. x nf
+n
+n r
+n f
+=
++
+− − +
+−
+
+
+
+
+
+1
+1 1 1
+1
+2
+2
+( )
+( )
+, r f n nmax ( )/( ).= − + 1 1
+31. 6.3□cm.
+32. (a) β = − − = −1 1 d n nR( )/ 0.20; (b) E n D L d= =π 2 2 2 4 42/ lx.
+33. (a) Φ = Φ − − =0 0 1( )/( )n n n 2.0 D, f f n′ = − = Φ = 0 85/ cm;
+(b) Φ = Φ − − − =1 2 2 1 10 0/ ( )/( ) n n n 6.7 D, f = Φ ≈1 15/ cm.
+f n′ = φ =0 20/ cm. Here n and n0 are□the□refractive□indices□of□glass□and□water.
+35. ∆ ∆x lf l f≈ − = 2 2( ) 0.5 mm.
+36. (a) f l l l= − =[ ( ) ]/2 2 4 20∆ cm; (b) f l= + =η η/( )1 20 2 cm.
+37. h h h= ′ ′ ′ = 3.0 mm.
+38. E LD f= − =( ) /1 4 15 2 2α π lx.
+39. (a) Is□independent□of D; (b) is□proportional□to D2.
+40. f n R n n= − =0 1 22 35/ ( ) cm, where n0 is□refractive□index□of□water.
+41. f R n= − =/ ( )2 2 1 10 cm.
+42. (a) To□the□right□of□the□last□lens□at□the□distance□3.3□cm□from□it; (b) l = 17 cm.
+43. (a) 50□and□5□cm; (b) by□a□distance□of□0.5□cm.
+44. Γ = D d/ .
+45. ψ ψ η= ′ = ′/ . 0.6
+46. Γ Γ′ = + −
+−
+− =( )
+( )
+1
+1
+10
+0
+n n
+n n
+3.1, where n0 is□the□refractive□index□of□water.
+47. Γ ≤ =D d/ 0 20.
+48. Γ = 60.
+49. (a) Γ = =2 0 0α l d/ 15, where l 0 is□the□distance□of□the□best□vision□(25□cm);
+(b) Γ ≤ 2 0 0α l d/ .
+326 | Answers
+h′
+h
+A O B C
+S′S
+D
+R
+n′
+n
+– s s′
+M
+Fig.□38
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 331 (Book p.325) ---
+
+50. The principal planes coincide with the centre of the lens. The focal lengths in
+air and water: f = − Φ = −1 11/ cm, f n′ = Φ = +0 15/ cm. Here
+Φ = − −( )/ ,2 1 0n n R where n and n0 are the refractive indices of glass and
+water. The nodal points coincide are located in water at the distance
+x f f= ′ + = 3.7 cm from□the□lens.
+51. See□Fig.□39.
+54. (a) The optical power of the system is Φ = Φ + Φ − Φ Φ = +1 2 1 2 4d D, the focal
+length is 25 cm. Both principal planes are located in front of the converging
+lens: the front one at a distance of 10 cm from the converging lens, and the rear
+one at a distance of 10 cm from the diverging lens ( /x d= Φ Φ2 and
+x d′ = − Φ Φ1 / ); (b) d = 5cm; about□4/3.
+55. The optical power of the given lens is Φ = Φ + Φ − Φ Φ1 2 1 2 ( / ) ,d n
+x d n= Φ Φ =2 / 5.0 cm, x d n′ = − Φ Φ =1 / 2.5cm, i.e., both principal planes are
+located□outside□the□lens□from□the□side□of□its□convex□surface.
+56. f f f
+f f d
+=
++ −
+1 2
+1 2
+. The lens should be positioned in the front principal plane of
+the□system, i.e., at□a□distance□of x f d f f d= + −1 1 2/( ) from□the□first□lens.
+57. Φ = Φ′ − Φ′ =2 2 2
+0l n/ 3.0 D, where Φ′ = − −( )/ ,2 1 0n n R n and n0 are the
+refractive□indices□of□glass□and□water.
+58. (a) d n R n= − =∆ /( ) 1 4.5cm; (b) d = 3.0 cm.
+59. (a) Φ = − >d n nR( ) / ,1 02 2 the principal planes are located on the side of the
+convex surface at a distance ofd from each other, with the front principal plane
+being removed from the conves surface of the lens by a distance of R n/( );− 1
+(b) Φ = − × − <( / / ) ( )/ ;1 1 1 02 1R R n n both principal planes pass through the
+common□curvature□centre□of□the□surfaces□of□the□lens.
+60. d n R R n= + − =1 2 1 1 2/ ( )/( ) 9.0 cm, Γ = =R R1 2/ 5.0.
+61. Φ = − =2 1 372 2( )/n n R D.
+63. ρ = ×3 10 7 m; | | .∇ = × − −n 1.6 m10 7 1
+65. 1.9□a.
+66. Let□us□represent□the kth□oscillation□in□the□complex□form
+ξ ω ω
+k
+i t k
+k
+i ta a e= = + − φe ( ( ) ) * ,1
+where a ak
+i k* ( )= − φe 1 is the complex amplitude. Then the complex amplitude of
+the□resulting□oscillation□is
+A a a i k
+k
+N i i i N* [ ] ( ) ( )= = + + + + =− φ
+=
+φ φ − φ
+∑ e e e e1
+1
+2 11 /c75
+= − − φ φa i N i( )/( ).e e 1 1
+Answers | 327
+H H ′
+F F′
+HH′
+F F′
+H H′
+F F′
+(a) (b) (c)
+F
+Fig.□39
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 332 (Book p.326) ---
+
+Multiplying A * by the complex conjugate values and extracting the square
+root,□we□obtain□the□real□amplitude.
+A a N a N= − φ
+− φ
+= φ
+φ
+1
+1
+2
+2
+cos
+cos
+sin ( / )
+sin ( / )
+.
+67. (a) cos ( / ) / ,θ π λ= − φk d 2 k = ± ±0 1, , ; 2, /c75
+(b) φ = π /2, d k/ / ,λ = + 1 4 k = 0 1 , , 2,/c75
+68. ∆φ = − +2π λ ω α[ ( / ) sin ( )],k d t where k = 0,± 1,± 2,/c75
+69. λ η µ= − =2 1∆ ∆x h l/ ( ) 0.6 m.
+71. (a) ∆ x b r r= + =λ α( )/2 1.1 mm, 9 maxima; (b) the shift is
+δ δx b r l= =( / ) 13 mm; (c) the fringe pattern is still sharp when δx x≤ ∆ /2,
+hence δ λ α µmax ( / ) /= + =1 4 43r b m.
+72. λ α µ= =2 ∆ x 0.64 m.
+73. (a) ∆ x f a= =λ / 0.15 mm, 13 maxima; (b) the fringes are still sufficiently
+sharp when δx x≤ ∆ /2, where δx is the shift of the fringes from the extreme
+elements□of□the□slit,□hence, δ λ µmax /= = f ab2 2 37 m.
+74. λ θ µ= − + =2 1a n x a b( ) /( ) ∆ 0.6 m.
+75. ∆ Θx n n≈ − ′ =λ / ( )2 0.20 mm.
+76. The fringes are displaced toward the covered slit over the distance
+∆ x hl n d= − =( )/ 1 2.0 mm .
+77. n n N l′ = + = λ / 1.000377.
+78. (a) Let, E, E′, and E′ ′be the electric field vectors in the incident reflected and
+transmitted waves. Select the x-, y-axes at the interface so that they coincide in
+direction□with E and H in□the□incident□wave.
+The□continuity□of□the□tangential□components□across□the□interface□yields
+E E E+ ′ = ′ ′ .
+The□minus□sign□before H appears□because H H′ ↓ ↑ .
+Rewrite the second equation taking into account that H ∝ nE. Solving the
+obtained□and□the□first□equation□find:
+E E′ ′ = +2 1 1 2n n n/( ).
+Hence,□we□see□that E ′′and E are□collinear□that□is,□cophasal.
+(b) E E′ = − +( )/( ),n n n n1 2 1 2
+that is atn n2 1> and E E′ ↓ ↑ the phase abruptly changes byπ at the interface. If
+n n2 1< the□phase□jump□does□not□occur.
+79. d k n k= + − = +1 4 1 2 1 2 2 2
+1/ ( )/ sin ( )λ θ µ 0.14 m. where k = 0 1 , , 2,/c75
+80. d min = 0.65 m.µ
+81. d k n= +1 4 1 2/ ( )/ ,λ where k = 0 1 , , 2,/c75
+82. d n= −
+⋅
+=λ θ
+θ δθ
+µ
+2 2
+2
+15sin
+sin
+m.
+83. λ ≈ −
+−
+d r r
+nl i k
+i k( )
+( )
+.
+2 2
+24
+84. ∆ x
+n
+=
+−
+λ θ
+α θ
+cos
+sin
+.1
+2 2
+12
+85. (a) Θ ∆= = ′1 2 3/ / ;λ n x (b) ∆λ / λ ∆ ≈ =x l/ 0.014.
+328 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 333 (Book p.327) ---
+
+86. ∆ r R r≈ 1 4 / / .λ
+87. r r R h′ = − =2 2 ∆ 1.5 mm.
+88. r r k R= + − =0
+2 1 2( / ) λ 3.8 mm, where k = 6.
+89. λ µ= − − =1 4 2
+2
+1
+2
+2 1/ ( )/ ( )d d R k k 0.50 m, where k1 and k2 are the number of the
+dark□rings.
+90. Φ = − − =2 1 2 1 2( )( ) /n k d λ 2.4 D, where k is□the□number□of□the□bright□ring.
+91. (a) r k n= − Φ =2 1λ( ) 3.5 mm, where k = 10;(b) r r n′ = =/ 0 3.0 mm. where
+n0 is□the□refractive□index□of□water.
+92. r k R n= + =1 2 1 2 2/ ( ) / λ 1.3 mm, where k = 5.
+93. kmin / /( ) .= − =1 2 1401 2 1λ λ λ
+94. The transition from one sharp pattern to another occurs if the following
+condition□is□met□:
+( ) ,k k+ =1 1 2λ λ
+where k is a certain integer. The corresponding displacement∆ h of the mirror is
+determined□from□the□equation 2 2∆ h k= λ . From□these□two□equations□we□get
+∆
+∆
+h =
+−
+≈ =λ λ
+λ λ
+λ
+λ
+1 2
+2 1
+2
+2 2( )
+0.3 mm.
+95. (a) The condition for maxima : 2d kcos ;θ λ = hence, the order of interferencek
+diminishes as the angleθ, i.e., the radius of the rings, increases (see Fig. 5.18). (b)
+Differenting both sides of the foregoing equation and taking into account that
+on transition from one maximum to another the value ofk changes by unity, we
+obtain δθ λ θ= 1 2 / / sin ;d this shows that the angular width of the fringes
+decreases with an increase of the angle θ, i.e., with a decrease in the order of
+interference.
+96. (a) k dmax / ,= = ×2 10 5λ 1.0 (b) ∆λ λ λ= = =/ /k d 2 2 5 pm.
+97. I
+bN
+I r rdr0 0
+2=
+∞
+∫λ
+( ) .
+98. b ar k a r= − =2 2/( )λ 2.0 m.
+99. λ µ= − + =( ) ( )/r r a b ab2
+2
+1
+2 2 0.60 m.
+100. (a) I I≈ 4 0, I I≈ 2 0; (b) I I≈ 0,
+101. (a) I ≈ 0; (b) I I≈ 0/2.
+102. (a) I I5 0 9 16≈ / , I I2 0 1 4= / , I I3 0 1 16= / , I I4 2= , I I≈ − φ( / ) ;1 2 2
+0π
+(b) I I5 0 25 16≈ / , I I6 0 9 4≈ / , I I7 0 49 16≈ / , I I8 6= , I I≈ + φ( / ) .1 2 2
+0π Here φ is the
+angle□covered□by□the□screen.
+103. (a) h k n k= + − = +λ µ( / )/( ) ( / )3 8 1 3 8 1.2 m; (b) h k= +1.2 m,( / ) 7 8 µ
+(c) h k= 1.2 or 1.2 m.( / )k + 3 4 µ Here k = 0, 1 2 , ,/c75
+104. h k n= + −λ( / )/( ),3 4 1 where k = 0 1 , , 2,/c75 (b) I Imax .≈ 8 0
+105. h k nmin ( / )/( )≈ + − =λ µ 5 8 1 2.5 m, where k = 2.
+106. r k fb b f k= − =λ /( ) 0.90 mm, where k = 1 3 5 , , ,/c75
+107. b b′ = =/ η2 1.0 m.
+108. (a) y yb a′ = = / 9 mm; (b) h ab D a bmin / ( )≈ + =λ 0.10 mm.
+109. f ab a b= + =/( ) 0.6 m. This value corresponds to the principal focal point,
+apart□from□which□there□are□other□points□as□well.
+Answers | 329
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 334 (Book p.328) ---
+
+110. (a) h k= +0.60 m;( )2 1 µ (b) h k= +0.30 m.( )2 1 µ Here k = 0 1 , , 2,/c75
+111. (a) I Imax min/ ≈ 1.7, (b) λ µ= − =2 2
+2 1
+2( ) / ( )∆ x b v v 0.7 m, where v1 and v2 are
+the□corresponding□values□of□the□parameter□along□Cornu’s□spiral.
+112. I Icentre edge 2.6./ ≈
+113. λ µ= − =( ) / ( )∆ h b v v2
+2 1
+22 0.55 m, where v1 and v2 are the corresponding values
+of□the□parameter□along□Cornu’s□spiral.
+114. h k n≈ + −λ( / )/( ),3 4 1 where k = 0, 2, 1,/c75
+115. I I2 1/ ≈ 1.9.
+116. I I≈ 2.8 0.
+117. I I I1 2 3 1 4 7: : : : . ≈
+118. I I≈ 0.
+119. I θ α α∝ (sin )/ ,2 2 where α π λ θ= ( / ) sin ;b b k sin ,θ λ = k = 1, 2, 3,/c75
+120. The condition for a maximum leads to the transcendental equation tan ,α α =
+where α π λ θ= ( / ) sin .b The solution of this equation (by means of plotting or
+selection) provides the following root values: α π1 = 1.43 , α π2 6= 2.4 ,
+α π3 = 3.47 . Hence b sin ,θ λ1 = 1.43 b sin ,θ λ2 = 2.46 b sin .θ λ3 = 3.47
+121. b k(sin sin ) ;θ θ λ− = 0 for k = + 1and k = − 1the anglesθ are equal to 33° and 27°
+respectively.
+122. (a) ∆θ θ θ= − = °arcsin 7.9 ;( sin )n (b) from the condition
+b n(sin sin )θ θ λ1 − = ± we□obtain ∆θ θ θ= − = °+ −1 1 7.3 .
+123. λ α α µ≈ − =( ) /2
+0
+2 2d k 0.6 m.
+125. 55°.
+126. d = 2.8 m.µ
+127. λ θ θ µ= − =( sin )/ cosd ∆ ∆ 5 4 0.54 m.
+128. (a) 45°; (b) –65°.
+129. x R n d= − − =2 1 1 8 2/( ) ( / ) λ cm.
+130. From the condition d n k k[ sin sin ( )]θ θ θ λ− + =
+we obtain θ0 = − °18.5 , θ + = °1 0 ; kmax ,= + 6
+θ + = + °6 78.5 . See□Fig.□40.
+131. h k nk = − −λ( / )/( ),1 2 1 where k = 1, ;2, /c75
+a sin /θ λ1 = 2.
+132. v f x= =λν / ∆ 1.5 km/s.
+133. Each star produces its own diffraction pattern in
+the objective’s focal plane, with their zeroth
+maxima being separated by an angle ψ (Fig. 41).
+As the distance d decreases the angle θ between
+the neighbouring maxima in each diffraction
+pattern increases, and when θ becomes equal to
+2ψ , the first deterioration of visibility occurs: the
+maxima of one system of fringes coincide with
+the minima of the other system. Thus, from the
+condition θ ψ= 2 and the formula sin /θ λ = d we
+obtain ψ λ = ≈ ′′/ .2d 0.06
+330 | Answers
+θ
+k = 1
+k = 0
+k =max 6
+Fig.□40
+θ
+ψd
+Fig.□41
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 335 (Book p.329) ---
+
+134. (a) D k d k d= − =/ ( / )1 2λ 6.5ang. min/nm,□where k = 2;
+(b) D k d k d= − − =/ ( / sin )1 13 0
+2λ θ ang. min/nm,□where k = 4.
+135. d dθ λ θ λ/ (tan )/ .=
+136. ∆θ λ λ= − = ′ ′2 1 11 2/ ( / ) .Nd k d
+139. θ = °46 .
+140. (a) In□the□fourth□order; (b) δλ λmin /≈ =2 7l pm.
+141. (a) d = 0.05 mm; (b) l = 6 cm.
+142. (a) 6□and□12 µm; (b) not□in□the□first□order,□yes□in□the□second□order.
+143. According to Rayleigh’s criterion the maximum of the line of wavelength λ
+must coincide with the first minimum of the line of wavelength λ δλ + . Let us
+write both conditions for the least deviation angle in terms of the optical path
+differences□for□the□extreme□rays□(see□Fig.□5.28):
+bn DC CE− + =( ) , 0 b n n DC CE( ) ( ) .+ − + = +δ λ δλ
+Hence, b nδ λ ≈ . What□follows□is□obvious.
+144. (a) λ /δλ λ= 2 3bB / ;1.2 × 104 and 0.35 × 104 (b) 1.0□cm.
+145. About□20□cm.
+146. R = ×7 10 4, ∆ y min ≈ 4 cm.
+147. About□50□m.
+148. Suppose ∆ψ and ∆ψ′ are the minimum angular separations resolved by the
+telescope’s objective and the eye respectively ( / ,∆ψ λ= 1.22 D ∆ψ λ′ =1.22 / ).d 0
+Then the sought magnification of the telescope isΓ ∆ ∆min / /= ′ = =ψ ψ D d 0 13.
+149. d min /sin= =0.61 1.4 m.λ α µ
+150. Suppose d min is the minimum separation resolved by the microscope’s
+objective, ∆ψ is the angle subtended by the eye at the object over the distance of
+the best visibility l 0 (25 cm), and ∆ψ′ is the minimum angular separation
+resolved by the eye ( ).∆ψ λ′ =1.22 d 0 Then the sought magnification of the
+microscope□is Γ min = ∆ ∆ψ ψ α′ = =/ ( / ) sin .2 300 0l d
+151. 26,□60,□84,□107□and□134°.
+152. a = 0.28 nm, b = 0.41 nm.
+153. Suppose α , β, and γ are the angles between the direction to the diffraction
+maximum and the directions of the array along the periods a, b and c
+respectively. Then the values of these angles can be found from the following
+conditions : a k( cos ) ,1 1− = α λ b kcos ,β λ= 2 and c kcos .γ λ= 3 Recalling that
+cos cos cos ,2 2 2 1α β γ+ + = we□obtain
+λ =
++ +
+2 1
+1
+2
+2
+2
+3
+2
+k a
+k a k b k c
+/
+( / ) ( / ) ( / )
+.
+154. λ
+ρ
+α= =2
+2
+2443
+k
+m sin pm, where k = 2, m is□the□mass□of□a□NaCl□molecule.
+155. d k k k k= + − =λ
+α
+α
+2 2
+2 21
+2
+2
+2
+1 2
+sin ( / )
+cos ( / ) 0.28 pm, where k1 and k2 are the
+orders□of□reflection.
+156. r l= = tan 2α 3.5cm, where α is the glancing angle found from the condition
+2d ksin .α λ =
+Answers | 331
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 336 (Book p.330) ---
+
+157. I 0 4 / .
+158. (a) I 0; (b) 2 0I .
+159. E = Φ =π /ω0 0.6 mJ.
+160. η = φ = −1/2 0.12.(cos ) ( )2 1N
+161. I I0 3 4
+2/
+cos
+=
+φ
+≈
+τ
+60.
+162. O I P Ppol not 0.3./ /( ) = − = 1
+163. P = − − φ =( )/( cos )η η 1 1 2 0.8.
+164. (a) Let us represent the natural light as a sum of two mutually perpendicular
+components with intensities I 0. Suppose that each polarizer transmits in its
+plane the fractionα 1 of the light with oscillation plane parallel to the polarizer’s
+plane, and the fractionα 2 with oscillation plane perpendicular to the polarizer’s
+plane. The intensity of light transmitted through the system of two polarizers is
+then□equal□to
+I I I| | ,= +α α1
+2
+0 2
+2
+0
+when□their□planes□are□parallel,□and□to
+I I I⊥ = +α α α α1 2 0 2 1 0 ,
+when□their□planes□are□perpendicular;□according□to□the□condition, I I| | |/ . = η
+On the other hand, the degree of polarization produced separately by each
+polarizer□is
+P0 1 2 1 2= − +( )/( ).α α α α
+Eliminating α 1 and α 2 from□these□equations,□we□get
+p0 1 1= − + =( )/( )η η 0.905.
+(b) P = − =1 1 2/ η 0.995.
+165. The□relative□intensity□variations□of□both□beams□in□the□cases A and B are
+( / ) cot ( / ) ,∆ I I A = φ ⋅ φ4 2 δ ( / ) tan ( / ) .∆ I I B = φ ⋅ φ4 2 δ
+Hence,
+η = = φ( / ) /( / ) cot ( / ),∆ ∆I I I IA B
+2 2 φ = °11.5 .
+166. 90°.
+167. (a) ρ = − + =1 2 1 12 2 2 2/ ( ) /( )n n 0.074;
+(b) P n n
+n n
+= − = + −
++ +
+=ρ ρ/( ) ( )
+( )
+1 1 4
+1 4
+2 2 2
+2 2 2 0.080. Here n is the refractive index of
+glass.
+168. I I n I= − =0 01 ( )/ ,ρ 0.721 where n is□the□refractive□index□of□water.
+169. ρ = − + φ =[( )/( )] sinn n2 2 2 1 1 0.038, where n is□the□refractive□index□of□water.
+170. P P1 3 1= = , P2
+1
+=
+−
+=ρ
+ρ
+0.087, P4
+2 1
+1 2 1
+= −
+− −
+=ρ ρ
+ρ ρ
+( )
+( )
+0.17.
+171. (a) In this case the coefficient of reflection from each surface of the plate is
+equal toρ = − +( ) /( ) ,n n2 2 2 21 1 and therefore I I I n n4 0
+2
+0
+4 2 21 16 1= − = +( ) /( )ρ
+= 0.725I 0;
+332 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 337 (Book p.331) ---
+
+(b) P n n
+n n
+= − − ′
++ − ′
+= + −
++ +
+≈1 1
+1 1
+1 16
+1 16
+2
+2
+2 4 4
+2 4 2
+( )
+( )
+( )
+( )
+ρ
+ρ
+0.16, where ρ′ is the coefficient of
+reflection for the component of light whose electric vector oscillates at right
+angles□to□the□incidence□plane.
+172. (a) P N N= − +( )/( ),1 1 4 4α α where α = +2 1 2n n/( ), n is the refractive index of
+glass;□(b) 0.16,□0.31,□0.67□and□0.92□respectively.
+173. (a) ρ = − + =( ) /( )n n 1 12 2 0.040; (b) ∆Φ Φ = − − =/ ( ) 1 1 2ρ N 0.34, where N is
+the□number□of□lenses.
+175. (a) 0.83; (b) 0.044.
+176. See□Fig.□42,□where o and e are□the□ordinary□and□extraordinary□rays.
+177. δ ≈ °11 .
+178. For□the□right-handed□system□of□coordinates:
+(1) circular anticlockwise polarization, when observed toward the incoming
+wave;
+(2) elliptical clockwise polarization, when observed toward the incoming
+wave;□the□major□axis□of□the□ellipse□coincides□with□the□straight□line y x= ;
+(3) plane□polarization,□along□the□straight□line y x= − .
+179. (a) 0.490□mm; (b) 0.475□mm.
+180. λ = +4 2 1d n k∆ /( ); 0.58,□0.55□and□0.51 µm□respectively□at k = 15, 16□and□17,
+181. Four.
+182. 0.69□and□0.43 µm
+183. d k n= − =( / ) 1 2 1λ / ∆ 0.25 mm, where k = 4.
+184. ∆ Θ∆n x= ′ =λ / 0.009.
+185. Let us denote the intensity of transmitted light by I ⊥ in the case of the crossed
+Polaroids,□and□by I| |in□the□case□of□the□parallel□Polaroids.□Then
+I I⊥ = φ ⋅1 2 2 20
+2 2/ sin sin ( / ), δ
+I I| | / [ sin sin ( / )].= − φ ⋅1 2 1 2 20
+2 2 δ
+The□conditions□for□the□maximum□and□the□minimum:
+Polaroids I max I min
+⊥ ∆ = + φ = ( / ) , /k 1 2 4λ π ∆ k = λ , for□any φ
+| | ∆ = kλ, for□any φ ∆ = + ( / ) ,k 1 2 λ φ = π /4
+Here ∆ is the optical path difference for the ordinary and extraordinary rays,
+k = 0 1 , , 2,/c75
+Answers | 333
+e o eo e o
+(a) (b) (c)
+Fig.□42
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 338 (Book p.332) ---
+
+187. (a) The light with right-hand circular polarization (from the observer’s
+viewpoint) becomes plane polarized on passing through a quarter -wave plate.
+In this case the direction of oscillations of the electric vector of the
+electromagnetic wave forms an angle of +45° with the axis OO ′of the crystal
+(Fig. 43a); in the case of left-hand polarization this angle will be equal to –45°
+(Fig.□43b).
+(b) If for any position of the plate the rotation of the Polaroid (located behind
+the plate) does not bring about any variation in the intensity of the transmitted
+light, the intial light is natural; if the intensity of the transmitted light varies and
+drops to zero, the initial light is circularly polarized; if it varies but does not
+drop to zero, then the initial light is composed of natural and circularly
+polarized□light.
+188. (a) ∆ Θx n n e= −1 2 0/ ( ) ,λ (b) d n n n n xo e e o( ) ( ) .′ − ′ = − − <2 0 Θ δ
+189. ∆ n = = × −αλ / π 0.71 10 4, where α is□the□rotational□constant.
+190. α π = =/ tan∆ Θx 21 ang. deg/mm, I x x x( ) ~cos ( / ),2 π ∆ where x is the distance
+from□the□maximum.
+191. d min ( / )= 1 α arcsin 2η = 3.0 mm.
+192. 8.7□mm.
+193. [ ]α = 72 ang.deg./(dm g⋅ /cm3).
+194. (a) E Blmin /= =1 4 10.6 kV /cm; (b) 2.2 × 108 interruptions□per□second.
+195. ∆ n cHV= 2 / , ω where c is□the□velocity□of□light□in□vacuum.
+196. V lH= φ − φ =1 2 1 2/ ( )/ 0.015ang. min/A.
+197. If one looks toward the transmitted beam and counts the positive direction
+clockwise, then φ = −( ) ,α VNH l where N is the number of times the beam
+passes□through□the□substance□(in□Fig.□5.35□the□number□is N = 5).
+198. H Vlmin /= =π 4 4.0 kA /m, where V is the Verdet constant. The direction along
+which□the□light□is□transmitted□changes□to□the□opposite.
+199. t mc I= = ω / λ0 12 hours. Although the effect is very small, it was observed both
+for□visible□light□and□the□SHF□radiation.
+200. (a) a eE m= = × −
+0
+2 16 10/ , ω 5.0 cm where E I c0 0 2= ε / , v a= = ω 1.7 cm/s;
+(b) F Fm e/ = × −2.9 10 11
+201. (a) ε = − ε1 2
+0
+2n e me / , ω v c n e mc= + ε1 4 0
+2 2
+0
+2
+0
+2( / ) π λ
+202. n m e n0
+2 2
+0
+2 2 7 34 1 10= ε − = × −( / )( ) .π ν 2.4 cm
+334 | Answers
+O
+O′
+O
+O′
+(a) (b)
+Fig.□43
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 339 (Book p.333) ---
+
+203. ( ) / ,n n e mc− = − ε = − × −1 8 10 0
+2 2 2
+0
+2 7λ π 5.4 where n0 is the concentration of
+electrons□in□carbon.
+204. (a) x a t= + φcos ( ),ω where a and φ are□defined□by□the□formulas
+a eE m=
+− +
+0
+0
+2 2 2 2 2 4
+/
+( )
+,
+ω ω β ω
+tan .φ =
+−
+2
+2
+0
+2
+βω
+ω ω
+Here, β γ = / , 2m ω 0
+2 = k m/ , m is□the□mass□of□an□electron.
+(b) P m eE m=
+− +
+β ω
+ω ω β ω
+( / )
+( )
+,0
+2 2
+0
+2 2 2 2 2 4
+P m eE
+mmax = 
+ 
+4
+0
+2
+β
+for ω ω = 0.
+205. Let us write the wave equation in the form A A e t t kx= −
+0
+( ) ,ω where k = 2π λ/ . If
+n n ix′ = + , then k n= ′( )2 0π / λ and A A e e xx i t nx= −
+0
+2 2 0 0π λ ω π λ/ ( / ) ,
+or□in□the□real□form A A e t k xx x= − ′ ′
+0 cos ( ),ω
+i.e., the light propagates as a plane wave whose amplitude depends onx. When
+x < 0, the amplitude diminished (the attenuation of the wave due to
+absorption).□When n ix′ = , then
+A A e t x x= ′
+0 cos .ω
+This is a standing wave whose amplitude decreases exponentially (if x < 0). In
+this case the light experiences total internal reflection in the medium (without
+absorption).
+206. n mc e0
+2
+0
+2 2
+0
+2 9 34 10= ε = × −π λ / . 2.0 cm
+208. (a) u v= 3 2 / ; (b) u v= 2 ; (c) u v= 1 3 / .
+209. ε = +1 2A /ω ,□where A is□a□constant.
+210. v c n= = ×/ 1.83 m/s, 108 u n dn d c n= + = ×[ ( )( / )] /1 10 8λ λ 1.70 m/s.
+211. It is sufficient to discuss three harmonic components of the train of waves (most
+easily□with□the□help□of□a□plot).
+212. I I e xl= φ1 2 0
+2/ sin , where φ = VlH.
+213. (a) I I I= − + + + = − −0
+2 2 4
+0
+2 21 1 1 1( ) ( ) ( ) /( );ρ ρ ρ ρ ρ /c75
+(b) I I= − + + + =0
+2 2 2 4 41 1( ) ( ...)ρ σ σ ρ σ ρ I 0
+2 2 21 1σ ρ σ ρ( ) /( ),− −
+where σ = −exp ( ).xd
+214. x
+d d
+=
+−
+= −ln ( / )τ τ1 2
+2 1
+10.35cm .
+215. x
+lN
+N
+= − = −1 1 2
+1ln ( ) .ρ
+τ
+0.034 cm
+216. τ ρ= − − +( ) exp [ / ( ) ].1 1 2 2
+1 2x x l
+217. I I e e
+x x l
+x l x l
+= − −
+−
+− −
+0
+2
+2 1
+1
+1 2
+( )
+( )
+.ρ
+218. ∆λ λ η α= 2 0 (ln )/ . d
+219. I
+b
+e x b a= Φ − − −
+4
+12
+2
+π
+ρ( ) . ( )
+220. Will□decrease□exp ( )µd = ×0.6 10 2 times.
+221. d = 0.3 mm.
+222. d = =(ln )/ 2 8µ mm.
+Answers | 335
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 340 (Book p.334) ---
+
+223. N = =(ln )/lnη 2 5.6.
+224. c lz n n= − = ×2 10 2 1
+8( ) 3.0 m/s.
+225. First of all note that when v c<< , the time rate is practically identical in the
+reference frames fixed to the source and to the receiver. Suppose that the source
+emits short pulses with the intervalsT 0.Then in the reference frame fixed to the
+receiver the distance between two successive pulses is equal toλ = −cT v T r0 0 ,
+when measured along the observation line. Here v r is the projection of the
+source velocity on the observation line ( cos ).v vr = θ The frequency of
+received pulses ν λ ν= = −c v c r/ /( / ), 0 1 where ν0 0 1= / .T Hence
+( )/ ( / ) cos .ν ν ν θ− = 0 0 v c
+226. ∆λ λ θ= − = − 2 26 2T mc/ cos nm.
+227. T R c= =4 25π λ δλ days,□where R is□the□radius□of□the□Sun.
+228. d c m= = ×( ) /∆λ / λ τ π 3 10 7 km, m c m= = ×( ) /∆λ / λ τ πγ3 3 29 2 10 2.9 kg, where γ is
+the□gravitational□constant.
+229. ω ω β β= + −0 1 1( )/( ), where β = V c/ ; ω ω ≈ +0 1 2( / ). V c
+230. v = ≈1 2 900/ λ ν ∆ km□per□hour.
+231. Substituting the expressions fort ′and x′(from the Lorentz transformation) into
+the□equation ω ωt kx t k x− = ′ ′ − ′ ′ , we□obtain
+ω ω β β= ′ + −( )/ ,1 1 2 k k= ′ + −( )/ ,1 1 2β β
+where β = V c/ . Here□it□is□taken□into□account□that ω′ = ′ck .
+232. From□the□formula ω ω β β′ = − +( )/( )1 1 we□get β = =v c/ 0.26.
+233. v c= ′ −
+′ +
+= ×( )
+( )
+λ / λ
+λ / λ
+2
+2
+41
+1
+107.1 km/s.
+234. ω ω = 0 3 7 / .
+235. ∆λ λ = =T m c/ 0
+2 0.70 nm, where m0 is□the□mass□of□the□atom.
+236. (a) ω ω β= − = × −
+0
+2 10 11 10/ ; 5.0 s (b) ω ω β= − = × −
+0
+2 10 11 10 1.8 s . Here,
+β = v c/ .
+237. The charge of an electron and the positive charge induced in the metal form a
+dipole. In the reference frame fixed to the electron the electric dipole moment
+varies with a period T d v′ = ′ / , where d d v c′ = − 1 2( / ) . The corresponding
+“natural” frequency is ν′ = ′v d/ . Due to the Doppler effect the observed
+frequency□is
+ν ν
+θ θ
+= ′ −
+−
+=
+−
+1
+1 1
+2( / )
+( / ) cos
+/
+( / ) cos
+.v c
+v c
+v d
+v c
+The corresponding wavelength is λ ν θ= = −c d c v/ ( / cos ). When θ = °45 and
+v c≈ the□wavelength□is λ µ≈ 0.6 m.
+238. (a) Let v x be the projection of the velocity vector of the radiating atom on the
+observation direction. The number of atoms with projections falling within the
+interval v x, v dvx x+ is
+n v dv mv kT dvx x x x( ) ~exp ( / ) . − ⋅ 2 2
+The frequency of light emitted by the atoms moving with velocity v x is
+ω ω = +0 1 ( / ).v cx From the expression the frequency distribution of atoms can
+336 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 341 (Book p.335) ---
+
+be found: n d n v dv x x( ) ( ) .ω ω = And finally it should be taken into account that
+the□spectral□radiation□intensity I nω ω~ ( ). (b) ∆ω/ω 0
+22 2 2= ( ln ) / . kT mc
+239. u c n V
+V cn
+= +
++
+/
+/
+.
+1
+If V c<< , then u c
+n
+V
+n
+≈ + + 
+ 
+1 1
+2 .
+240. v c= =1 2 30/ δθ km/s.
+242. θ′ = °8 .
+243. The field induced by a charged particle moving with
+velocity V excites the atoms of the medium turning
+them into sources of light waves. Let us consider two
+arbitrary points A and B along the path of the particle.
+The light waves emitted from these points when the
+particle passes them reach the point P (Fig. 44)
+simultaneously and amplify each other provided the
+time taken by the light wave to propagate from the point
+A to the point C is equal to that taken by the particle to
+fly over the distance AB. Hence, we obtain cos / ,θ = v V
+where v c n= / is the phase velocity of light. It is evident that the radiation is
+possible only if V v> , i.e., when the velocity of the particle exceeds the phase
+velocity□of□light□in□the□medium.
+244. T n n mcmin ( / ) ;= − − 2 2 1 1 0.14 MeV and 0.26 GeV respectively. For muons,
+245. T n
+n
+mc=
+−
+−
+
+
+
+
+
+
+
+ =cos
+cos
+θ
+θ2 2
+2
+1
+1 0.23 MeV.
+247. T bT b T2 1 1= + = /( ) ∆λ 1.75 kK.
+248. λ µm = 3.4 m.
+249. 5 10 9× kg /s, about 1011 years.
+250. T cR M= = ×3 2 103 7ρ σ/ K, where R is the universal gas constant M is the
+molar□mass□of□hydrogen.
+251. t c d T= − =( ) /η ρ σ3
+0
+31 18 3 hours, where c is the specific heat capacity of
+copper, ρ is□its□density.
+252. T T d l2 1 2= = / 0.4 kK.
+253. (a) C U T T V cV V= ∂ ∂ = =( / ) / 16 3 3σ nJ /K, where U T V c= 4 4σ / ;
+(b) S T V c= =16 3 3σ / 1.0 nJ /K.
+254. (a) ω pr T a= = × −3 10 14 1/ ; 7.85 s (b) λ π µpr ca T= =2 5 / 1.44 m.
+255. (a) u kT cω π ω= ( / ) ; 2 3 2 (b) u c e kT
+ω
+ωπ ω= −( / ) . //c104 /c1042 3 3
+256. u
+c e kTν π ν
+π ν=
+−
+16
+1
+2
+3
+3
+2
+/c104
+/c104 / , u c
+e c kTλ π λ
+π λ=
+−
+−16
+1
+2 5
+2
+/c104
+/c104 /
+257. ∆ ∆P c T b e c kb= − =4 12 2 5 5 2 2π λ π/c104 /c104/ ( ) , / 0.31 W /cm where b is the constant in
+Wien’s□displacement□law.
+258. (a) 1.1 m;µ (b) 0.37; (c) P P T T y y2 1 2 1
+4
+2 11 1/ ( / ) ( )/( )= − − = 4.9.
+259. n d
+c
+d
+e ktω ω /ω
+π
+ω ω=
+−
+1
+12 3
+2
+/c104 , n d d
+c kTλ π λλ πλ λ=
+−
+−8
+3 1
+4
+2 /c104 / .
+260. (a) j P c r= = × − −λ π/ ;8 6 102 2 13 2 1/c104 cm s (b) r P n c= = λ π/ /2 2 9/c104 m.
+Answers | 337
+θ
+G
+BA V
+P
+Fig.□44
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 342 (Book p.336) ---
+
+261. dp dt c e/ / . = Φ
+262. p E d c= + ≈4 1 50 2( ) / ρ π τ atm.
+263. p E c= + + = ⋅( / ) cos1 2 2 352ρ ρ θ nN s.
+264. p I c= + =( / ) ( ) cos1 2ρ θ 0.6 nN/cm .2
+265. F R I c= =π µ2 / 0.18 N.
+266. F P c= + / ( ).2 1 2η
+267. (a) ∆ p
+c
+= −
+−
+2 1
+1
+2/c104 ω β
+β
+; (b) ∆ p
+c
+=
+−
+2 1
+1
+/c104 ω
+β
+. Here β = V c/ . It is evident that in
+the reference frame fixed to the mirror the latter obtains the smaller
+momentum.
+268. sin ( / ) / ,θ 2 ≈ E mc gl θ = °0.5 .
+269. ∆ω/ω 0 1 0
+2
+= − − < −( ) , /e YM Rc i.e., the□frequency□of□the□photon□decreases.
+270. V c e= − =2 1 1 16π η λ/c104 ( / )/ ∆ kV.
+271. V c ed= =π α/c104 / sin 31 kV
+272. λ π γmin / ( )= − =2 1/c104 mc 2.8 pm, where γ = −1 1 2/ ( / ) . v c
+273. 332□nm, 6.6 m/s.× 105
+274. A c= −
+−
+=2
+1
+2
+2 1
+2
+2π η λ / λ
+λ η
+/c104 ( )
+( )
+1.9 eV.
+275. φ =max 4.4 V.
+276. T A tmax ( )= + − =/c104 ω ω0 0.38 eV.
+277. w c J e= =2π λ/c104 / 0.020.
+278. v max = ×6.4 m/s105
+279. 0.5 V; the polarity of the contact potential difference is opposite to that of
+external□voltage.
+280. /c104 / ,mc the□Compton□wavelength□for□the□given□particle.
+281. Let us write the energy and momentum conservation laws in the reference
+frame fixed to the electron for the moment preceding the collision with the
+photon; /c104 ω + =m c mc0
+2 2 , /c104 ω / ,c mv= where m m v c= − 0
+21 ( / ) . From this it
+follows□that v = 0 or v c= . The□results□have□no□physical□meaning.
+282. (a) Light is scattered by the free electrons; (b) the increase of the number of
+electrons that turn free (the free electrons have the binding energy much lower
+than the energy transferred to them by the photons); (c) the presence of a
+non-displaced component is due to scattering by the strongly bound electrons
+and□the□nuclei.
+283. λ πλ θ η θ η= − − =4 2 2 1 2 1c [sin ( / ) sin ( / )]/( ) 1.2 pm.
+284. T = + =/c104 ωη η/( )1 0.20 MeV.
+285. (a) ω π λ π′ = + = ×2 2 10 20c mc/( / ) /c104 2.2 rad /s;
+(b) T c
+mc
+=
++
+=2
+1 2
+60π λ
+λ π
+/c104
+/c104
+/
+/
+keV.
+286. /c104 /c104
+/c104
+ω ω
+ω θ
+′ =
++
+=
+1 2 2 2( / ) sin ( / )mc
+0.144 MeV.
+287. sin ( / ) ( )/ .θ 2 2= − ′ ′mc p p pp Hence θ = °120 .
+338 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 343 (Book p.337) ---
+
+288. /c104 ω θ= + + =[ / sin ( / )] /1 1 2 2 2 2 2mc T T 0.68 MeV.
+289. λ π= + − =( / )( / ) max2 1 2 1 2/c104 mc mc T 3.7 pm.
+290. tan /
+/
+,φ = −
++
+4 1
+1 2
+π λ
+ω
+/c104
+/c104
+mc
+mc
+∆ φ = °31 .
+291. ρ η η
+η
+= +
++
+=2 1
+1 2
+( )
+( )
+mc
+eB
+3.4 cm.
+292. ∆λ θ= =( / ) sin ( / )4 2 2/c104 mc 1.2 pm.
+Atomic□and□Nuclear□Physics
+1. r e E= =3 22 / 0.16 nm, λ π µ= =( / )2 3c e mr 0.24 m.
+2. b = 0.73 pm.
+3. (a) rmin = 0.59 pm; (b) r Ze T m mmin ( / )( / )= + =2 1 2
+α Li 0.034 pm.
+4. (a) ρ θmin ( / ) cot ( / )= =Ze T2 2 2 0.23 pm;
+(b) r Ze Tmin [ ( / )] /= + =1 2 2cosec 0.56 pm.θ
+5. p mT bT Ze≈ +2 2 1 2 2 2/[ ( / ) ].
+6. T m e m b Te p e= = 4 2 4/ eV.
+7. b Rn
+n n
+=
++ −
+sin ( / )
+cos ( / )
+,θ
+θ
+2
+1 2 2 2 where n U T= + 1 0/ .
+8. (a) cos ( / ) /( );θ 2 = +b R r (b) dP d= 1 2 / sin ;θ θ (c) P = 1/2.
+9. 3.3 × −10 5.
+10. d Jr T nIZ e= =( / ) sin ( / ) ,4 22 2 2 4 4 θ µ 1.5 m where n is the concentration of nuclei.
+11. Z Z A APt Ag Pt Ag 78.= = η /
+12. (a) 1.6 × 106; (b) N nd Ze T I= = ×π θ τ( / ) cot ( / ) ,2 2 2
+0 0
+72 10 2.0 where n is the
+concentration□of□nuclei.
+13. P nd Ze mv= =π ( / )2 2 2 0.006, where n is□the□concentration□of□nuclei.
+14. ∆ N N nZ e T/ / tan ( / )= − =1 2 2 4 2 2
+0π θ 0.6.
+15. ∆ N N e
+T
+Z
+M
+Z
+M
+/ = + 
+
+ 
+
+π 4
+2
+1
+2
+1
+2
+2
+24
+0.7 0.3 ρ θdN A cot2 3
+2
+10= × −1.4 , where Z1 and Z2
+are the atomic numbers of copper and zinc,M1 and M2 are their molar masses,
+N A is□Avogadro’s□number.
+16. ∆σ π θ= = ( / ) cot ( / )Ze T2 2 2
+0 2 0.73 kb.
+17. (a) 0.9□MeV; (b) d dσ σ π θ/ / sin ( / )Ω ∆ = = 4 2 4 0.64 kb/sp.
+18. t mc e= =( / ) ln3 2 153 2 2 ω η ns.
+19. t m c r e≈ ≈ 2 3 3 4 4 13/ ps.
+21. r n mn = /c104 / , ω E nn = /c104 ω , where n k m= =1, ..., / .2, ω
+22.
+r1, pm v, 106 m/s T, eV Eb, eV φi, V φ1, V λ, nm
+H 52.9 2.18 13.6 13.6 13.6 10.2 121.5
+He + 26.5 4.36 54.5 54.5 54.5 40.8 30.4
+Answers | 339
+Telegram @unacademyplusdiscounts

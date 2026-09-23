@@ -1,0 +1,976 @@
+
+--- PDF Page 290 (Book p.284) ---
+
+379. F m c a= 0
+2 / .
+380. (a) In two cases: F v| | and F v;⊥ (b) F w⊥ = −m0
+21 β ,F w /| |
+/( ) ,= −m0
+2 3 21 β
+where β = v c/ .
+382. ε′ = ε − +( )/( ),1 1 β β where β = V c/ , V c= 3 5 / .
+383. E p c m c2 2 2
+0
+2 4− = , where m0 is□the□rest□mass□of□the□particle.
+384. (a) ~ ( / )T m c T m c= + − =2 1 2 1 7770
+2
+0
+2 MeV, ~ / ;p m T c= = 1 2 9400 MeV /
+(b) V c T T m c= + = × /( ) 2 100
+2 8 2.12 m/s.
+385. M m T m c c0 0 0
+22 2= + ( )/ , V c T T m c= + /( ). 2 0
+2
+386. T T T m c m c′ = + = ×2 2 10 0
+2
+0
+2 3( )/ 1.43 MeV.
+387. E m m m m
+m
+c1
+0
+2
+1
+2
+2 3
+2
+0
+2
+2
+max
+( ) .= + − + The particle m1 has the highest energy
+when the energy of the system of the remaining two particlesm2 and m3 is the
+lowest, i.e., when□they□move□as□a□single□whole.
+388. v
+c
+m m
+m m
+u c
+u c= −
++
+1
+1
+0
+2
+0
+2
+( / )
+( / )
+.
+/
+/ Use the momentum conservation law (as solving problem
+178)□and□the□relativistic□formula□for□velocity□transformation.
+Thermodynamics□and□Molecular□Physics
+1. m V p p= =ρ ∆ / 0 30 g where p0 is□the□standard□atomspheric□pressure.
+2. p p T T p= − =1 2 1 2 1/ ( / ) ∆ 0.10 atm.
+3. m m a M a M1 2 2 1 1 1/ ( / )/( / )= − − = 0.50, where a mRT pV= / .
+4. ρ = +
++
+=p m m
+RT m M m M
+0 1 2
+1 1 2 2
+( )
+( / / )
+1.5g /l.
+5. (a) p RT V= + + =( ) /ν ν ν1 2 3 2.0 atm;
+(b) M M M M= + + + + =( )/( )ν ν ν ν ν ν1 1 2 2 3 3 1 2 3 36.7 g /mol.
+6. T T= ′ − ′ − =0
+2 2 1 1η η η η( )/ ( ) 0.42 K.
+7. n
+V V
+=
++
+ln
+ln ( / )
+.η
+1 ∆
+8. p p e Ct V= −
+0
+/ .
+9. t V C= ⇒ =( / ) ln η 1.0 min.
+10. ∆ ∆T mg p S l R= + =( ) / 0 0.9 K.
+11. (a) T p R pmax / ( / ) / ;= 2 3 3 0 0 α (b) T p e Rmax / .= 0 β
+12. p R Tmin .= 2 0α
+13. dT dh Mg R/ / = − = − 33 mK/m.
+14. dT dh Mg n nR/ ( )/ .= − − 1
+15. 0.5□and□2□atm.
+16. (a) h RT Mg= = / 8.0 km; (b) h RT Mg≈ =η / 0.08 km.
+17. m e p S g Mgh RT= − −( ) / . /1 0
+18. hc h dh dh RT Mg= =
+∞ ∞
+∫ ∫0 0
+ρ ρ / .
+286 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 291 (Book p.285) ---
+
+19. (a) p p ah n= − 0 1 ( ) , h a< 1/ ; (b) p p ah n= + 0 1 /( ) . Here n Mg aRT= / . 0
+20. p p e M r RT= 0
+22 2ω / .
+21. p RT Mid = =ρ / 280 atm; p RT M b a M= − − =ρ ρ ρ/( ) / 2 2 80 atm.
+22. (a) T a V b RV V b= − + + =( )( )/ ( )1 133η η K;
+(b) p RT V b a V= − − =/( ) / 2 9.9 atm.
+23. a V T p T p T T= − − = ⋅2
+1 2 2 1 2 1 185( )/( ) atm l /mol , 2 2
+b V R T T p p= − − − =( )/( )2 1 2 1 0.042 l/mol.
+24. x V V b RTV a V b= − − −2 2 2 2 2( ) /[ ( ) ].
+25. T a bR> / .
+26. U pV= − = /( )γ 1 10 mJ
+27. ∆T Mv R= −1 2 1 2/ ( )/ . γ
+28. T T T p V p V p V T p V T= + +1 2 1 1 2 2 1 1 2 2 2 1( )/( ); p p V p V V V= + +( )/( ).1 1 2 2 1 2
+29. ∆ ∆U p V T T= − − = −0 0 1/ ( ) γ 0.25 kJ,Q U′ = − ∆ .
+30. Q A= − =γ γ/( ) 1 7 J.
+31. A R T= = ∆ 0.60 kJ, ∆ ∆U Q R T= − = 1.00 kJ, γ = − =Q Q R T/( ) ∆ 1.6.
+32. Q RT n= − =ν 0 1 1( / ) 2.5 kJ.
+33. γ
+ν γ γ ν γ γ
+ν γ ν γ
+=
+− + −
+− + −
+=1 1 2 2 2 1
+1 2 2 1
+1 1
+1 1
+( ) ( )
+( ) ( )
+1.33.
+34. c V = ⋅0.42 J /(g K), c p = ⋅0.65 J /(g K).
+35. A RT n n= − − ( ln ).1
+36. A p V′ = + 0 0
+21 4ln [( ) / ].η η
+37. γ ν= + − − =1 1 0( )/( / ln )n Q RT n 1.4.
+38. See Fig. 13 where V is an isochore, p is an isobaric line, T is an isothermal line,
+and S is□an□adiabatic□line.
+39. (a) T T= = −
+0
+1η γ γ( )/ 0.56 K; (b) A RT′ = − − = −
+0
+1 1 1( )/( )( )/η γγ γ 5.6 kJ
+40. The work in the adiabatic process is n = − − =−( )/( ) lnη γ ηγ 1 1 1 1.4 times
+greater.
+41. T T= + −
+0
+2 1 21 4[( ) / ] . ( )/η η γ
+42. v RT M= − =2 1γ γ /( ) 3.3 km/s.
+43. Q R T= − −∆ ( )/( ).2 1 γ γ
+45. C R n nn = − − −( )/( )( );γ γ 1 1 C n < 0 for 1 < <n γ.
+46. C R n n= − − − = − ⋅( )/( )( ) ( ),γ γ 1 1 4.2 J / K mol where n = ln /ln .β α
+Answers | 287
+O
+p
+V
+T Sp
+T(a) (b) T
+p
+V
+S
+V T
+Fig.□13
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 292 (Book p.286) ---
+
+47. (a) Q R n T n= − − − =( ) /( )( )γ γ∆ 1 1 0.11 kJ;
+(b) A R T n= − − =∆ /( ) 1 0.43 kJ.
+48. (a) ∆U V= − −α η γ0
+2 2 1 1( )/( ); (b) A V= −1 2 1 0
+2 2/ ( );α η
+(c) C R= + −1 2 1 1/ ( )/( ).γ γ
+49. (a) C R= − − /( );γ 1 (b) TV ( )/γ − =1 2 const; (c) A RT= − − −2 1 10
+1 2( )/( ). ( )η γ γ
+50. (a) A R T= −( ) ;1 α ∆ (b) C R R= − + −/( ) ( );γ α 1 1 C < 0 for α γ γ> − /( ). 1
+51. (a) A U= −∆ ( )/ ;γ α 1 Q U= + −∆ [ ( )/ ];1 1 γ α (c) C R R= − +/( ) / .γ α 1
+52. (a) C C R VV= + / ;α (b) C C R VV= + + /( ).1 α
+53. (a) C R R p V= − +γ γ α/( ) / ;1 0 (b) ∆U p V V= − −0 2 1 1( )/( ); γ
+A p V V V V= − +0 2 1 2 1( ) ln ( / ); α Q p V V V V= − − +γ γ α0 2 1 2 1 1( )/( ) ln ( / ).
+54. (a) C C RT Vp= + 0/α ; (b) Q C V V RT V Vp= − +α ( ) ln ( / ).2 1 0 2 1
+55. (a) Ve T R− =α / const; (b) Te R V/β = const; (c) V aT− = const.
+56. (a) A RT= − − −α η η γln ( )/( ); 0 1 1 (b) pV e pVγ α γ( )/− =1 const.
+57. A RT V b
+V b
+a
+V V
+= −
+−
++ − 
+ 
+ln , 2
+1 2 1
+1 1 where a and b are□Van□der□Waals□constants.
+58. (a) ∆U a V a V= − =/ /1 2 0.11 kJ; (b) Q RT V b
+V b
+= −
+−
+=ln 2
+1
+3.8 kJ.
+59. (a) T V b R CV( ) /− = const; (b) C C R
+a V b RTV
+p V− =
+− −1 2 2 3( ) /
+.
+60. ∆T aV
+RV V V
+= − −
++
+= −ν γ 2
+1 1 2
+1( )
+( )
+3.0 K.
+61. Q a V V V V= − =ν2
+2 1 1 2( )/ 0.33 kJ.
+62. n p kT= = × −/ ; 1 10 5 3cm l = 0.2 mm.
+63. p mRT MV= + =( ) /1 η 1.9 atm, where M is□the□mass□of□an N2 mole.
+64. n p kT m m m= − − = × −( / / )/( / ) ,ρ 2 1 2
+19 31 10 1.6 cm where m1 and m2 are the
+masses□of□helium□and□nitrogen□molecules.
+65. p nmv= =2 2 2cos θ 1.0 atm, where m is□the□mass□of□a□nitrogen□molecule.
+66. i v p= − =2 1 2/( / )ρ 5.
+67. v v i isq/ ( )/ ;= + 2 3 (a) 0.75; (b) 0.68
+68. ε = −
+−
+( )
+( / )
+3 3
+3 5 2
+N kT
+N kT
+for volume molecules.
+for linear molecules.
+
+
+1 2 1/ ( )N − and 1 2 5 3/( / )N −
+respectively.
+69. (a) C RV = 7 2 / , γ = 9 7 / ;(b) C N RV = −( / ) ,3 5 2 γ = − −( )/( );6 3 6 5N N
+(c) C N RV = −3 1( ) , γ = − −( / )/( ).N N 2 3 1
+70. A
+Q
+N
+N= −
+−
+1 3 2
+1 3 3 2
+/( )
+/( / )
+for volume molecules,
+for linear molecules.
+
+
+For□monoatomic□molecules A Q/ / = 2 5.
+71. M R c c p V= − =/( ) 32 g /mol, i c c p V= − =2 1/( / ) 5.
+72. (a) i C R P= − =2 1 5( / ) ; (b) i C R n= + − =2 1 1 3[ / /( )] , where n = 1 2 /is the
+polytropic□index.
+73. γ ν ν ν ν= + +( )/( ).5 7 3 51 2 1 2
+288 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 293 (Book p.287) ---
+
+74. Increases□by ∆p p Mv iRT/ / ,= = 2 2.2% where i = 5 .
+75. (a) v RT Meq = = 3 / 0.47 km/s, ε = = × −3 2 10 21/ kT 6.0 J;
+(b) v kt deq = =3 2 3/ πρ 0.15 m/s.
+76. η i = 7.6 times.
+77. Q imRT M= − =1 2 1 102/ ( ) /η kJ.
+78. ω sq kT I= = ×2 10 12/ 6.3 rad /s.
+79. ε = = × −
+rot 0.7 J.kT i
+0
+2 20 10η /
+80. Decreases η( )/i i+ 1 times,□where t = 5.
+81. Decreases η( )/( )i i− − =1 2 2.5times.
+82. C R i R= + =1 2 1 3/ ( ) .
+83. v ppr = = 2 / ρ 0.45 km/s, v = 0.51 km/s, v sq = 0.55 km/s.
+84. (a) δ π δηN N e/ ( / ) ;= = −8 1 1.66% (b) δ π δηN N e/ / /= = −12 3 2 3 2 1.85%.
+85. (a) T m v
+k
+=
+−
+=( )
+( )
+∆ 2
+23 2
+380 K; (b) T mv
+k
+= =
+2
+2
+340 K.
+86. (a) T m v v
+k v v
+= − =( )
+ln ( / )
+2
+2
+1
+2
+2 14
+330 K; (b) v kT
+m
+=
+−
+3
+1
+0 η η
+η
+ln .
+87. T m v
+k m m
+=
+−
+=N
+N
+0.37 K.( )
+( / )
+∆ 2
+0
+22 1
+88. v kT m m
+m m
+=
+−
+=3 2 1
+2 1
+ln ( / ) 1.61 km/s.
+89. T mv k= 1 3 2/ / .
+90. dN N m
+kT
+e v dv dvmv kT
+x/ .
+/
+/= 
+ 
+
+−
+⊥ ⊥
+2
+2
+3 2
+22
+π
+π
+91. v x = 0, | | / .v kT mx = 2 π
+92. v kT mx
+2 = / .
+93. v n v= 1 4 / , where v kT m= 8 / . π
+94. p mv v dn v nkTx x x= ⋅ =
+∞
+∫ 2
+0
+( ) , where dn v m kT n e dvx
+mv kT
+x
+x( ) ( / ) . / /= ⋅ −2 1 2 2 2
+π
+95. 1 2 4/ / .v m kT v= = π π
+96. dN N kT e d kT/ ( ) ; / /= ε ε − −2 3 2π π π ε =pr kT1 2 / ; no.
+97. δ π δηN N e/ /= = −3 6 3 2 0.9%.
+98. ∆N
+N kT
+e d kT= ε ε
+ε
+∞ −ε
+∫
+2
+3 2 0
+π
+π( )
+./
+/
+The principal contribution to the value of the integral is provided by the
+smallest values of ε, namely ε ≈ ε 0. The slowly varying factor ε can be taken
+from□under□the□radical□sign□if□ascribed□the□constant□value ε0.□Then
+∆N N kT e kT/ /= ε −ε2 0
+0/ π
+99. (a) v kT mpr = 3 / ; (b) ε =pr kT .
+Answers | 289
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 294 (Book p.288) ---
+
+100. d dn d v n kT m dν π θ π θ θ θ
+τ
+= =
+=
+∞
+∫ 0
+1 24 2( / ) cos ( / ) sin cos . /Ω
+101. d dn d m kT e v dv mv hTν π ν θ π π
+θ
+π
+= =
+=
+−
+∫ 0
+2 3 2 2 24 2
+2/ / /( / ) cos ( / )Ω .
+102. F kT h= = × −( / ) ln∆ η 0.9 N.10 19
+103. N RT d ghA = ≈ × −( / ) ln6 10 3 23 1π ρ η∆ 6.4 mol
+104. η / η 0
+2 1= = −e M M gh RT( ) / 1.39.
+105. h kT n n
+m m g
+=
+−
+ln ( / )
+( )
+.2 1
+2 1
+106. Will□not□change.
+107. U kT= . Does□not□depend.
+108. w RT Ml g≈ ≈η / . 70
+109. M RT
+r r
+=
+− −
+2
+0 2
+2
+1
+2 2
+ρ η
+ρ ρ ω
+ln
+( )( )
+.
+110. ω η= = ( / ) ln2 280 2RT Ml rad /s.
+111. (a) dN n e r dr ar kT= −
+0
+22
+4/ ;π (b) r kT apr = / ;
+(c) dN N a kT e r dr ar kT/ ( / ) ; / /= −π π 3 2 2 2
+4 (d) Will□increase η3 2 /-fold.
+112. (a) dN n a e U dU U kt= −( / ) ; / /2 0
+3 2π (b) U kTpr = 1 2 / .
+113. In□the□latter□case.
+114. (a) η γ= − = −1 1n 0.25; (b) η γ= − = −1 1 1n / 0.18.
+115. ε = − =( )/ .1 9 η η
+116. η = − +1 2 3 1 2T T T/( ).
+117. η η γ= − = −1 60 1 %.
+118. η γ= − − −1 1 1n ( / )
+119. η γ γ= − + −1 1 ( )/( )n n
+120. In□both□cases η = −
+−
+1
+1
+ln .n
+n
+121. In□both□cases η = − −1 1n
+n nln
+.
+122. η = − −1 1n
+n nln
+.
+123. (a) η γ γ= − −
+−
+1 1
+1
+n
+n
+; (b) η
+γ
+γ
+γ= − −
+− −1 1
+1 1
+n
+n n( )
+124. (a) η γ
+γ
+= − −
+− + −
+1 1
+1 1
+( )
+( ) ln
+;n
+n n n
+(b) η γ
+γ
+= − − + −
+−
+1 1 1
+1
+n n
+n
+( ) ln
+( )
+.
+125. η τ ν
+τ ν τ γ
+= −
++ − −
+( ) ln
+ln ( )/( )
+.1
+1 1
+126. η τ
+τ τ γ γ
+= −
++ − −
+( ) ln
+ln ( ) /( )
+.1
+1 1
+n
+n
+127. η γ τ
+γ τ
+= − +
++ +
+1 2
+1 1( )( )
+.
+290 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 295 (Book p.289) ---
+
+128. The inequality δ δQ
+T
+Q
+T
+1
+1
+2
+2
+0∫ ∫ − ′≤ becomes even stronger when T1 is replaced
+by T max and T2 by T min. Then Q T Q T1 2 0/ / .max min− ′ <
+Hence, Q Q
+Q
+T T
+T
+1 2
+1
+− ′ < −max min
+max
+, or η η < Carnot.
+129. According to the Carnot theorem δ δA Q dT T/ / . 1 =
+Let us find the expressions for δA and δQ1. For an
+infinitesimal Carnot cycle (e.g., parallelogram 1234
+shown□□in□Fig.□14)
+δA dp dV p T dT dV V= ⋅ = ∂ ∂ ⋅ ( / ) ,
+δQ dU p dV U V p dV r1 12= + = ∂ ∂ + [( / ) ] .
+It remains to substitute the two latter expressions
+into□the□former□one.
+130. (a) ∆S R n=
+−
+= ⋅ln
+γ 1
+19 J /(K mol); (b) ∆S R n=
+−
+= ⋅γ
+γ
+ln
+1
+25 J /(K mol).
+131. n e S vts= = ∆ / 2.0.
+132. ∆S vR n= = ln 20 J /K.
+133. ∆S m
+M
+R n= −
+−
+= −γ
+γ 1
+10ln J /K
+134. ∆S R= − − = −( ln ln ) /( )γ α β ν γ 1 11 J /K.
+135. S S R2 1
+1
+− = −
+−
+
+
+ 
+
+ =ν α β
+γ
+ln ln 1.0 J /K.
+136. ∆S n R
+n
+= −
+− −
+( )
+( )( )
+ln .γ
+γ
+τ
+1 1
+137. ∆S R= +
+−
+=ν γ
+γ
+α( ) ln1
+1
+46 J /K.
+138. V pm = +γ α γ0 1 / ( ).
+139. T T R a V V= + 0 0 ( / ) ln ( / ).
+140. ∆S R V b V b= − −ln [( )/( )].2 1
+141. ∆S C T T R V b V bV= + − −ln ( / ) ln [( )/( )].2 1 2 1
+142. S aT= 3 3 / .
+143. ∆S m a T T b T T= + − =[ ln ( / ) ( )]2 1 2 1 2.0 kJ /K.
+144. C S n= / ; C < 0 for n < 0.
+145. T T e S S C= −
+0
+0( )/ . See□Fig.□15.
+146. (a) C T= − α / ; (b) Q T T= α ln ( / );1 2
+(c) A T T C T T V= + −α ln ( / ) ( ).1 2 1 2
+147. (a) η = −( )/ ;n n 1 2 (b) η = − +( )/( ).n n 1 1
+148. ∆S R n= =ν ln 20 J /K.
+149. ∆U RT= − − −( ) /( ),2 1 11
+0
+γ γ ∆ S R= ln 2.
+150. The□pressure□will□be□□higher□after□the□fast□expansion.
+151. ∆S R n R n= + + + =ν ν1 2 1 1 1ln ( ) ln ( / ) 5.1 J /K.
+Answers | 291
+δA
+δQ1
+p+dp
+p
+1 2
+34
+V+dVV
+Fig.□14
+C >0
+C <0
+T0
+S0
+0
+S
+T
+Fig.□15
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 296 (Book p.290) ---
+
+152. ∆S m c T T m c T T= + =1 1 1 2 2 2ln ( / ) ln ( / ) 4.4 J /K, where
+T m c T m c T m c m c= + +( ) /( ),1 1 1 2 2 2 1 1 2 2 c1 and c2 are the specific heat
+capacities□of□copper□and□water.
+153. ∆S C T T
+T T
+V= + >ln ( ) .1 2
+2
+1 24
+0
+154. (a) P N= 1 2 / ; (b) N t= ≈log ( / )
+log
+,τ
+2
+80 where τ ≈ −10 5 s is the mean time which
+takes a helium atom to cover distances of the order of the vessel’s dimensions.
+155. Ω pr N N= = !/[( / ) !] 2 2 252. PN pr
+N
+/ /2 2= =Ω 24.6%.
+156. P N
+n N n
+n N=
+−
+!
+! ( ) !
+;
+2
+1/32,□5/32,□10/32,□10/32,□5/32,□1/32□respectively.
+157. P N
+n N n
+P pn
+n N n=
+−
+− −!
+! ( ) !
+( ) ,1 where p V V= / . 0
+158. d n= = 6 0
+23 / π η µ 0.4 m, where n0 is Loschmidt’s number;
+n = = ×1 102 6/ .η 1.0
+159. Will□increase Ω / Ω ∆0 0
+2 101 10
+21
+= + = ×( / ) /T T iN A 1.31 times.
+160. (a) ∆p d= =4 13α / atm; (b) ∆p d= = × −8 10 3α / 1.2 atm.
+161. h gd= =4 21α /ρ cm.
+162. α ρ η η= − −1 8 1 10
+3 2/ ( / )/( ).d n
+163. p p gh d= + + =0 4ρ α / 2.2 atm.
+164. h p n n d g= − + − =[ ( ) ( )/ ]/0
+3 2 1 4 1 5α ρ m.
+165. ∆h d d d d g= − =4 11 2 1 1 2α θ ρ|cos |( )/ mm.
+166. R gh= =2α ρ/ 0.6 mm.
+167. x l p d= + =/( / )1 4 0 α 1.4 cm.
+168. α ρ θ= + −[ /( )] / cos .gh p l l h d0 4
+169. h g d d= − =4 6 2 1α ρ/ ( ) cm.
+170. h a gx= φ2 cos θ/ρ δ
+171. V d gl n d
+n
+1
+2
+4
+31 4 2 4 1
+1
+= − −
+−
+=/ ( )/π α ρ 0.9 cm /s.
+172. R R gh2 1
+31 8− ≈ = / / ρ α 0.20 mm.
+173. m R n gh≈ − =2 1 2 2π α θ |cos |( )/ 0.7 kg.
+174. F m h≈ =2 2α ρ / 1.0 N
+175. F R h= =2 2π α / 0.6 kN.
+176. F l gd= =2 132 2α ρ / N.
+177. t l R r= 2 4 4η α / .
+178. Q g= 2 2πα ρ/ .
+179. (a) F d= =πα µ2 3 J; (b) F d= =2 10 2πα µ J.
+180. ∆F d= − = − −2 2 1 2 1 3πα µ ( ) / 1.5 J.
+181. A F pV p p′ = + ln ( / ), 0 where F R= 8 2π α , p p R= + 0 4α / , V R= 4 3 3/ . π
+292 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 297 (Book p.291) ---
+
+182. C C R p rp− = + 1 2 1 3 8 0/ /( / / ). α
+184. (a) ∆ ∆S d dT= − 2( / ) ;α σ (b) ∆ ∆U Td dT= − ×2( / ) .α α σ
+185. A mRT M= =∆ / 1.2 J.
+186. m V mV V Vv i v i= − ′ ′ − ′ =( )/( ) 20 g, Vv = 1.0 l. Here Vl ′is the specific volume of
+water.
+187. m Mp V V RTl ≈ − = 0 0( )/ 2.0 g, where p0 is□the□standard□atmospheric□pressure.
+188. η = − −( )/( );n N 1 1 η = +1 1/( ).N
+189. ∆S mq T= = / 6.0 kJ /K; ∆U m q RT M= − =( / ) 2.1 mJ, where T = 373 K.
+190. h Q mc T
+p S qM RT
+≈ −
++
+=( )
+( / )
+∆
+0 1
+20 cm, where c is the specific heat capacity of water,
+∆T = 100 K, q is the specific heat of vaporization of water, T is its boiling
+temperature.
+191. A mc T T RT qM= − = ( ) / 0 25 J,where c is the specific heat capacity of water,T
+is the initial vapour temperature equal to the water boiling temperature, as is
+seen□from□the□hypothesis, q is□the□specific□heat□of□vapour□condensation.
+192. d M RT≈ =4α ηρ µ/ 0.2 m, where ρ is□the□density□of□water.
+193. µ η π= = ⋅p M RT0 2 / 0.35g /(s cm ), 2 where p0 is the standard atmospheric
+pressure.
+194. p RT M= =µ π2 / . 0.9 nPa
+195. ∆p a V M= = ×/ 2 4 101.7 atm.
+196. p qi ≈ ρ . About 2 10 4× atm.
+198. a R T p cr cr= = ⋅27 64 2 2/ / 3.6 atm l /mol , 2 2 b RT p cr cr= =1 8 / / 0.043 l/mol.
+199. V RT Mpcr cr cr′ = =3 8 3/ / 4.7 cm /g.
+200. ( / )( ) ,π ν ν τ+ − =3 3 1 82 τ = 1.5.
+201. (a) V bm Mmax /= =3 5.0 l; (b) p a bmax /= = 27 2302 atm.
+202. T a bRcr = =3 27 / / 0.30 kK, ρcr M b= =1 3 3/ / . 0.34 g /cm
+203. η ρ= =8 3 / /Mp RTcr cr 0.25, whereρ is the density of ether at room temperature.
+204. Let□us□apply□Eq.□(2.4e)□to□the□reversible□isothermic□cycle□1-2-3-4-5-3-1:
+T dS dU p dV∫ ∫ ∫= + .
+Since the first two integrals are equal to zero, p dV =∫ 0 as well. The latter
+equality□is□possible□only□when□areas□I□and□II□are□equal.
+Note that this reasoning is inapplicable to the cycle 1-2-3-1, for example. It is
+irreversible since it involves the irreversible transition at point 3 from a
+single-phase□to□a□diphase□state.
+205. η = =c t q| |/ 0.25, where q is□the□specific□heat□of□melting□of□ice;□at t = − °80 C.
+206. ∆ ∆ ∆T T V q p= − ′ = −( / ) 7.5 mK, where q is□the□specific□heat□of□melting□of□ice.
+207. V q T T psv ′ ≈ =∆ ∆ / 1.7 m /kg, 3 where q is the specific heat of vaporization,
+T = 373 K.
+208. p p qM T RTsv ≈ + =0
+21 ( / ) ∆ 1.04 atm where q is the specific heat of
+vaporization, p0 is□the□standard□atmospheric□pressure, ∆T = 1.1 K.
+209. ∆ ∆m m qM RT T T/ ( / ) /= − = 1 5%.
+Answers | 293
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 298 (Book p.292) ---
+
+210. p p qM
+R T T
+= − 
+ 
+
+
+
+
+0
+0
+1 1exp . These assumptions are admissible in the case of a
+vapour□narrow□temperature□interval,□far□below□the□critical□temperature.
+211. η ≈ ′ =cpT V q∆ / 2 0.03, where c is the specific heat capacity of ice,T ≈ 273 K, q
+is□the□specific□heat□of□melting.
+212. (a) 216□K,□5.1□atm; (b) 0.78,□0.57,□and□0.21□kJ/g.
+213. ∆S m c T T q T≈ + =[ ln ( / ) / ]2 1 2 7.2 kJ /K.
+214. ∆s q T c T T q Tm≈ + + = ⋅/ ln ( / ) /1 2 1 0 2 8.6 J /(g K).
+215. ∆S mc T T= = − ln ( / ) 1 10 J /K, where c is the specific heat capacity of copper,
+T = 273 K (under□these□conditiosn□only□a□part□of□the□ice□will□melt).
+216. (a) When m c t m q2 2 2 1 < , not□all□the□ice□will□melt□and
+∆S m c T
+T
+T
+T
+= − − 
+ 
+ =2 2
+2
+1
+2
+1
+1 ln 9.2 J /K;
+(b) When m c t m q2 2 2 1 > , the□ice□will□melt□completely□and
+∆S m q
+T
+c m T
+T
+m T
+T
+= + − 
+ 
+ =1
+1
+2 1
+1
+2
+2 18ln ln J /K.
+where T m T m T m q c
+m m
+= + −
++
+1 1 2 2 1 2
+1 2
+/
+217. ∆S mq
+T T
+mc T
+T
+T
+T
+= − 
+ 
+ + − − 
+ 
+ =1 1 1
+1 2
+2
+1
+2
+1
+ln 0.48 J /K.
+218. C C qM Tp= − = − ⋅ / 74 J /(K mol), where C Rp = − γ γ/( ). 1
+219. ∆S qM T C T T p= + / ln ( / ).2 2 1
+220. (a) η ≈ 0.37; (b) η ≈ 0.23.
+221. λ η= ∆ l /ln .
+222. (a) P e t= −α ; (b) t = 1/ .α
+223. (a) λ µ= 0.06 m, τ = 0.13 ns; (b) λ = 6 mm, τ = 3.8 hours.
+224. 18□times.
+225. λ π π= =( / ) ( / ) /2 3 2 84 2 3
+0 0N b kT pA nm.
+226. ν π γ= = d p N MRTA
+2
+0 0 2 / 5.5GHz.
+227. (a) 0.7□Pa; (b) 2 10 14 3× −cm , 0.2 m.µ
+228. (a) ν π= = × −2 102 10 1d n v 0.74 s ;
+(b) ν π= = × ⋅ − −1 2 2 10 2 2 29 1 3/ , d n v 1.0 s cm where n p kT= 0 0/ ,
+v RT M= 8 / . π
+229. (a) λ = const, ν ∝ T ; (b) λ ∝ T , λ ∝ 1/ . T
+230. (a) λ = const, ν increases n times; (b) λ decreases n times, ν increases n
+times.
+231. (a) λ ∝ V, ν ∝ −V 6 5 /; (b) λ ∝ −p 5 7 /, ν ∝ p6 7 /; (c) λ ∝ −T 5 2 /, ν ∝ T 2.
+232. (a) λ ∝ V, ν ∝ − +V n( )/ ;1 2 (b) λ ∝ −p n1/ , ν ∝ +p n n( )/ ;1 2
+(c) λ ∝ −T n1 1 /( ) , ν ∝ + −T n n( )/ ( )1 2 1
+233. (a) C R i= + = ⋅1 4 1 2 23/ ( ) J /(K mol); (b) C R i= + = ⋅1 2 2 29/ ( ) J /(K mol).
+294 | Answers
+Telegram @unacademyplusdiscounts
+
+--- PDF Page 299 (Book p.293) ---
+
+234. n n e t c= −
+0
+/ , where τ = 4V S v/ , v RT M= 8 / . π
+235. Increases ( )/( )1 1+ +η n times.
+236. Increases α /β2 2= times.
+237. (a) D increases n times, η = const;
+(b) D increases n3 2 /times, η increases n times.
+238. D decreases n4 5 / ≈ 6.3 times, η increases n1 5 / ≈ 1.6 times.
+239. (a) n = 3; (b) n = 1; (c) n = 1.
+240. 0.18□nm.
+241. d dAr He 1.7./ =
+242. N R R1
+32≈ πηω / ∆ ; p kT d n R= = 2 2/ π ∆ 0.7 Pa.
+243. η πω= −( / / ) / .1 1 41
+2
+2
+2
+1R R N
+244. N a h= 1 2 4/ / .πηω
+245. N a p M RT= 1 3 2 4/ / .ω π
+246. µ π
+η
+= −a M
+RT
+p P
+l
+4
+2
+2
+1
+2
+16
+| | .
+247. T x T l x T l x l x l= + +( / / )/( / / ).1 1 1 2 2 2 1 1 2 2
+248. x l l l x l x= + +( )( / / ).1 2 1 1 2 2
+249. T x T T T x t( ) ( / ) ; /= 1 2 1 q l T T= ( / ) ln ( / ).α 2 1
+250. ∆ ∆T T e t= −( ) , 0
+α where α = +( / / ) / .1 1 1 2C C Sx l
+251. T T x l T T= + −1 2 1
+3 2 2 31 1{ ( / ) [( / ) ]} , / / where x is the distance from the plate
+maintained□at□the□temperature T1.
+252. q iR T T
+ld N MA
+= − =2
+9
+40
+3 2
+2
+3 2
+1
+3 2
+3 2 2
+2
+/ / /
+/
+( ) ,
+π
+W /m where i = 3, d is the effective diameter of
+helium□atom.
+253. λ = 23 mm > l, consequently, the gas is ultra-thin;
+q p v t t T= − − =( )/ ( ) ,2 1
+26 1 22γ W /m where v RT M= 8 / , π
+T T T= +1 2 1 2/ ( ).
+254. T T T T
+R R
+r
+R
+= + −
+1
+2 1
+2 1 1ln ( / )
+ln .
+255. T T T T
+R R R r
+= + −
+−
+−
+ 
+1
+2 1
+1 2 11 1
+1 1
+/ /
+.
+256. T T R r w x= + −0
+2 2 4( ) / .
+257. T T R r w x= + −0
+2 2 6( ) / .
+Electrodynamics
+1. The ratio F Fcl gr/ is equal to 4 10 42× and 1 10 26× respectively;
+q m/ = × −0.86 C/kg.10 10
+2. About 2 10 15× N.
+3. dq dt a mg l/ / / .= ε3 2 2 0π
+Answers | 295
+Telegram @unacademyplusdiscounts

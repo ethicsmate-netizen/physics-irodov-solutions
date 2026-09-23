@@ -1,0 +1,167 @@
+=== 5.127 ===
+T: Diffraction of Light (Problem 127)
+Q: Find the wavelength of monochromatic light falling normally on a diffraction grating with period d = 2.2 m\mu  if the angle between the directions to the Fraunhofer maxima of the first and the second order is equal to \Delta θ = 15^{\circ}.
+A: λ θ θ \mu = − =( sin )/ cosd \Delta  \Delta  5 4 0.54 m.
+
+=== 5.128 ===
+T: Diffraction of Light (Problem 128)
+Q: Light with wavelength 530 nm falls on a transparent diffraction grating with period 1.50 \mu m. Find the angle, relative to the grating normal, at which the Fraunhofer maximum of highest order is observed provided the light falls on the grating 
+(a) at right angles; 
+(b) at the angle 60^{\circ} to the normal.
+A: (a) 45^{\circ}; 
+(b) -65^{\circ}.
+
+=== 5.129 ===
+T: Diffraction of Light (Problem 129)
+Q: Light with wavelength λ \mu = 0.60 m falls normally on a diffraction grating inscribed on a plane surface of a plano-convex cylindrical glass lens with curvature radius R = 20 cm. The period of the grating is equal tod = 6.0 m\mu . Find the distance between the principal maxima of first order located symmetrically in the focal plane of that lens.
+A: x R n d= − − =2 1 1 8 2/( ) ( / ) λ cm.
+
+=== 5.130 ===
+T: Diffraction of Light (Problem 130)
+Q: A plane light wave with wavelength λ \mu = 0.50 m falls normally on the face of a glass wedge with an angleθ = 30^{\circ}. On the opposite face of the wedge a transparent diffraction grating with period d = 2.00 m\mu  is inscribed, whose lines are parallel to the wedge's edge. Find the angles that the direction of incident light forms with the directions to the principal Fraunhofer maxima of the zero and the first order. What is the highest order of the spectrum? At what angle to the direction of incident light is it observed?
+A: From the condition d n k k[ sin sin ( )]θ θ θ λ− + = we obtain θ0 = − 18^{\circ}.5, θ + = 1^{\circ} 0; kmax,= + 6 θ + = + 6^{\circ} 78.5. See Fig. 40.
+
+=== 5.131 ===
+T: Diffraction of Light (Problem 131)
+Q: A plane light wave with wavelength λ falls normally on a phase diffraction grating whose side view is shown in. The grating is cut on a glass plate with refractive index n. Find the depth h of the lines at which the intensity of the central Fraunhofer maximum is equal to zero. What is in this case the diffraction angle corresponding to the first maximum?
+A: h k nk = − −λ( / )/( ),1 2 1 where k = 1,;2, \dots a sin /θ λ1 = 2.
+
+=== 5.132 ===
+T: Diffraction of Light (Problem 132)
+Q: Figure 5.27 illustrates an arrangement employed in observations of diffraction of light by ultrasound. A plane light wave with wavelength λ \mu = 0.55 m passes through the water-filled tankT in which a standing ultrasonic wave is sustained at a frequencyν = 4.7 MHz. As a result of diffraction of light by the optically inhomogeneous periodic structure a diffraction spectrum can be observed in the focal plane of the objective O with focal length f = 35 cm. The separation between neighbouring maxima is \Delta x = 0.60 mm. Find the propagation velocity of ultrasonic oscillations in water.
+A: v f x= =λν / \Delta  1.5 km/s.
+
+=== 5.133 ===
+T: Diffraction of Light (Problem 133)
+Q: To measure the angular distance ψ between the components of a double star by Michelson's method, in front of a telescope's lens a diaphragm was placed, which had two narrow parallel slits separated by an adjustable distanced. While diminishing d, the first smearing of the pattern was observed in the focal plane of the objective at d = 95 cm. Find ψ, assuming the wavelength of light to be equal to λ \mu = 0.55 m. h λ a a OT
+A: Each star produces its own diffraction pattern in the objective's focal plane, with their zeroth maxima being separated by an angle ψ (Fig. 41). As the distance d decreases the angle θ between the neighbouring maxima in each diffraction pattern increases, and when θ becomes equal to 2ψ, the first deterioration of visibility occurs: the maxima of one system of fringes coincide with the minima of the other system. Thus, from the condition θ ψ= 2 and the formula sin /θ λ = d we obtain ψ λ = \approx  ''/.2d 0.06 θ k = 1 k = 0 k =max 6 Fig. 40 θ ψd Fig. 41
+
+=== 5.134 ===
+T: Diffraction of Light (Problem 134)
+Q: A transparent diffraction grating has a period d = 150.\mu m. Find the angular dispersion D (in angular minutes per nanometres) corresponding to the maximum of highest order for a spectral line of wavelength λ = 530 nm of light falling on the grating 
+(a) at right angles; 
+(b) at the angle θ0 45= ^{\\circ} to the normal.
+A: (a) D k d k d= − =/ ( / )1 2λ 6.5ang. min/nm, where k = 2; 
+(b) D k d k d= − − =/ ( / sin )1 13 0 2λ θ ang. min/nm, where k = 4.
+
+=== 5.135 ===
+T: Diffraction of Light (Problem 135)
+Q: Light with wavelength λ falls on a diffraction grating at right angles. Find the angular dispersion of the grating as a function of diffraction angle θ.
+A: d dθ λ θ λ/ (tan )/.=
+
+=== 5.136 ===
+T: Diffraction of Light (Problem 136)
+Q: Light with wavelength λ = 589.0 nm falls normally on a diffraction grating with period d = 25.\mu m comprising N = 10000, lines. Find the angular width of the diffraction maximum of second order.
+A: \Delta θ λ λ= − = ''2 1 11 2/ ( / ).Nd k d
+
+=== 5.137 ===
+T: Diffraction of Light (Problem 137)
+Q: Demonstrate that when light falls on a diffraction grating at right angles, the maximum resolving power of the grating cannot exceed the value l /,λ where l is the width of the grating andλ is the wavelength of light.
+A: See analytical proof in step-by-step solution.
+
+=== 5.138 ===
+T: Diffraction of Light (Problem 138)
+Q: Using a diffraction grating as an example, demonstrate that the frequency difference of two maxima resolved according to Rayleigh's criterion is equal to the reciprocal of the difference of propagation times of the extreme interfering oscillations, i.e., δν δ= 1/.t
+A: See analytical proof in step-by-step solution.
+
+=== 5.139 ===
+T: Diffraction of Light (Problem 139)
+Q: Light composed of two spectral lines with wavelengths 600.000 and 600.050 nm falls normally on a diffraction grating 10.0 m wide. At a certain diffraction angle θ these lines are close to being resolved (according to Rayleigh's criterion). Find θ.
+A: θ = 46^{\circ}.
+
+=== 5.140 ===
+T: Diffraction of Light (Problem 140)
+Q: Light falls normally on a transparent diffraction grating of width l = 6.5 cm with 200 lines per millimeter. The spectrum under investigation includes a spectral line with λ = 670.8 mm consisting of two components differing by δλ = 0.015 nm. Find: 
+(a) in what order of the spectrum these components will be resolved; 
+(b) the least difference of wavelengths that can be resolved by this grating in a wavelength region λ \approx  670 nm.
+A: (a) In the fourth order; 
+(b) δλ λmin /\approx  =2 7l pm.
+
+=== 5.141 ===
+T: Diffraction of Light (Problem 141)
+Q: With light falling normally on a transparent diffraction grating 10 mm wide, it was found that the components of the yellow line of sodium (589.0 and 589.6 nm) are resolved beginning with the fifth order of the spectrum. Evaluate: 
+(a) the period of this grating; 
+(b) what must be the width of the grating with the same period for a doublet λ = 460.0 nm whose components differ by 0.13 nm to be resolved in the third order of the spectrum.
+A: (a) d = 0.05 mm; 
+(b) l = 6 cm.
+
+=== 5.142 ===
+T: Diffraction of Light (Problem 142)
+Q: A transparent diffraction grating of a quartz spectrograph is 25 mm wide and has 250 lines per millimetre. The focal length of an objective in whose focal plane a photographic plate is located is equal to 80 cm. Light falls on the grating at right angles. The spectrum under investigation includes a doublet with components of wavelengths 310.154 and 310.184 nm. Determine: 
+(a) the distances on the photographic plate between the components of this doublet in the spectra of the first and the second order; 
+(b) whether these components will be resolved in these orders of the spectrum.
+A: (a) 6 and 12 \mu m; 
+(b) not in the first order, yes in the second order.
+
+=== 5.143 ===
+T: Diffraction of Light (Problem 143)
+Q: The ultimate resolving power λ /δλ of the spectrograph's trihedral prism is determined by diffraction of light at the prism edges (as in the case of a slit). When the prism is oriented to the least deviation angle in accordance with Rayleigh's criterion, λ /δλ λ= b dn d| / |, where b is the width of the prism's base (), and dn d/ λ is the dispersion of its material. Derive this formula.
+A: According to Rayleigh's criterion the maximum of the line of wavelength λ must coincide with the first minimum of the line of wavelength λ δλ +. Let us write both conditions for the least deviation angle in terms of the optical path differences for the extreme rays (see ): bn DC CE− + =( ), 0 b n n DC CE( ) ( ).+ − + = +δ λ δλ Hence, b nδ λ \approx . What follows is obvious.
+
+=== 5.144 ===
+T: Diffraction of Light (Problem 144)
+Q: A spectrograph's trihedral prism is manufactured from glass whose refractive index varies with wavelength asn A B= + /,λ2 where A and B are constants, with B being equal to 0.010 m\mu  2. Making use of the formula from the foregoing problem, find: 
+(a) how the resolving power of the prism depends on λ; calculate the value of λ δλ/ in the vicinity of λ1 434= nmand λ2 656= nmif the width of the prism's base is b = 5.0 cm; 
+(b) the width of the prism's base capable of resolving the yellow doublet of sodium (589.0 and 589.6 nm).
+A: (a) λ /δλ λ= 2 3bB /;1.2 \times  104 and 0.35 \times  104 
+(b) 1.0 cm.
+
+=== 5.145 ===
+T: Diffraction of Light (Problem 145)
+Q: How wide is the base of a trihedral prism which has the same resolving power as a diffraction grating with 10000 lines in the second order of the spectrum if| / |?dn dλ \mu = −0.10 m 1
+A: About 20 cm.
+
+=== 5.146 ===
+T: Diffraction of Light (Problem 146)
+Q: There is a telescope whose objective has a diameter D = 5.0 cm. Find the resolving power of the objective and the minimum separation between two points at a distance l = 3.0 km from the telescope, which it can resolve (assume λ \mu = 0.55 m).
+A: R = \times 7 10^{4}, \Delta  y min \approx  4 cm.
+
+=== 5.147 ===
+T: Diffraction of Light (Problem 147)
+Q: Calculate the minimum separation between two points on the Moon which can be resolved by a reflecting telescope with mirror diameter 5 m. The wavelength of light is assumed to be equal to λ \mu = 0.55 m.
+A: About 50 m.
+
+=== 5.148 ===
+T: Diffraction of Light (Problem 148)
+Q: Determine the minimum multiplication of a telescope with diameter of objective D = 5.0 cmwith which the resolving power of the objective is totally employed if the diameter of the eye's pupil is d0 = 4.0 mm. A D C E B
+A: Suppose \Delta ψ and \Delta ψ' are the minimum angular separations resolved by the telescope's objective and the eye respectively ( /,\Delta ψ λ= 1.22 D \Delta ψ λ' =1.22 / ).d 0 Then the sought magnification of the telescope isΓ \Delta  \Delta min / /= ' = =ψ ψ D d 0 13.
+
+=== 5.149 ===
+T: Diffraction of Light (Problem 149)
+Q: There is a microscope whose objective's numerical aperture is sin α = 0.24, whereα is the half-angle subtended by the objective's rim. Find the minimum separation resolved by this microscope when an object is illuminated by light with wavelength λ \mu = 0.55 m.
+A: d min /sin= =0.61 1.4 m.λ α \mu 
+
+=== 5.150 ===
+T: Diffraction of Light (Problem 150)
+Q: Find the minimum magnification of a microscope, whose objective's numerical aperture issin α = 0.24, at which the resolving power of the objective is totally employed if the diameter of the eye's pupil is d0 = 4.0 mm.
+A: Suppose d min is the minimum separation resolved by the microscope's objective, \Delta ψ is the angle subtended by the eye at the object over the distance of the best visibility l 0 (25 cm), and \Delta ψ' is the minimum angular separation resolved by the eye ( ).\Delta ψ λ' =1.22 d 0 Then the sought magnification of the microscope is Γ min = \Delta  \Delta ψ ψ α' = =/ ( / ) sin.2 300 0l d
+
+=== 5.151 ===
+T: Diffraction of Light (Problem 151)
+Q: A beam of X-rays with wavelengthλ falls at a glancing angle 60.0^{\circ} on a linear chain of scattering centres with period a. Find the angles of incidence corresponding to all diffraction maxima if λ = 2 5a/.
+A: 26, 60, 84, 107 and 134^{\circ}.
+
+=== 5.152 ===
+T: Diffraction of Light (Problem 152)
+Q: A beam of X-rays with wavelength λ = 40 pm falls normally on a plane rectangular array of scattering centres and produces a system of diffraction maxima () on a plane screen removed from the array by a distance l = 10 cm. Find the array periodsa and b along the x and y axes if the distances between symmetrically located maxima of second order are equal to\Delta x = 60 mm(along the x axis) and \Delta y = 40 mm(along the y axis).
+A: a = 0.28 nm, b = 0.41 nm.
+
+=== 5.153 ===
+T: Diffraction of Light (Problem 153)
+Q: A beam of X-rays impinges on a three-dimensional rectangular array whose periods are a, b, and c. The direction of the incident beam coincides with the direction along which the array period is equal toa. Find the directions to the diffraction maxima and the wavelengths at which these maxima will be observed.
+A: Suppose α, β, and γ are the angles between the direction to the diffraction maximum and the directions of the array along the periods a, b and c respectively. Then the values of these angles can be found from the following conditions: a k( cos ),1 1− = α λ b kcos,β λ= 2 and c kcos.γ λ= 3 Recalling that cos cos cos,2 2 2 1α β γ+ + = we obtain λ = + + 2 1 1 2 2 2 3 2 k a k a k b k c / ( / ) ( / ) ( / ).
+
+=== 5.154 ===
+T: Diffraction of Light (Problem 154)
+Q: A narrow beam of X-rays impinges on the natural facet of a NaCl single crystal, whose density is ρ = 2.16 g/cm3 at a glancing angle α = 60^{\circ}.0. The mirror reflecting from this facet produces a maximum of second order. Find the wavelength of radiation.
+A: λ ρ α= =2 2 2443 k m sin pm, where k = 2, m is the mass of a NaCl molecule.
+
+=== 5.155 ===
+T: Diffraction of Light (Problem 155)
+Q: A beam of X-rays with wavelength λ = 174 pmfalls on the surface of a single crystal rotating about its axis which is parallel to its surface and perpendicular to the direction of the incident beam. In this case the directions to the maxima of second and third order from the system of planes parallel to the surface of the single crystal form an angleα = 60^{\circ} between them. Find the corresponding interplanar distance.
+A: d k k k k= + − =λ α α 2 2 2 21 2 2 2 1 2 sin ( / ) cos ( / ) 0.28 pm, where k1 and k2 are the orders of reflection.
+
+=== 5.156 ===
+T: Diffraction of Light (Problem 156)
+Q: On transmitting a beam of X-rays with wavelength λ = 17.8 pm through a polycrystalline specimen a system of diffraction rings is produced on a screen located at a distance l = 15 cm from the specimen. Determine the radius of the bright ring corresponding to second order of reflection from the system of planes with interplanar distance d = 155 pm.. 5.29 5.4 Polarization of Light ● Degree of polarization of light: P I I I I = − + max min max min. …(5.4a) ● Malus's law: I I= φ0 2cos. …(5.4b) ● Brewster's law: tan /.θB n n= 2 1 …(5.4c) ● Fresnel equations for intensity of light reflected at the boundary between two dielectrics: I I\perp  \perp ' = − + sin ( ) sin ( ), 2 1 2 2 1 2 θ θ θ θ I I| | | | tan ( ) tan ( ),' = − + 2 1 2 2 1 2 θ θ θ θ …(5.4d) where I\perp  and I| |are the intensities of incident light whose electric vector oscillations are respectively perpendicular and parallel to the plane of incidence. ● A crystalline plate between two polarizersP and P'. If the angle between the plane of polarizer P and the optical axis OO'of the plate is equal to 45^{\circ}, the intensity I'of light which passes through the polarizer P'turns out to be either maximum or minimum under the following conditions: Polarizers P and P' δ π = 2 k δ π= +( )2 1k parallel crossed I| | max' = I\perp  ' =min I| | min' = I\perp  ' =max Here δ π λ= −2 0( ) /n n d e is the phase difference between the ordinary and extraordinary rays, k = 0 1,, 2,\dots ● Natural and magnetic rotation of the plane of polarization: φ =nat lα, φ =magn VlH, …(5.4f) where α is the rotation constant, V is Verdet's constant.
+A: r l= = tan 2α 3.5cm, where α is the glancing angle found from the condition 2d ksin.α λ =

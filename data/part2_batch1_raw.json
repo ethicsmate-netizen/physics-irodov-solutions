@@ -1,0 +1,307 @@
+[
+  {
+    "id": "2.1",
+    "statement": "A vessel of volume V = 30 l contains ideal gas at the temperature 0°C. After a portion of the gas has been let out, the pressure in the vessel decreased by ∆p = 078.atm (the temperature remaining constant). Find the mass of the released gas. The gas density under the normal conditions ρ = 13.g/l.",
+    "raw_answer": "33."
+  },
+  {
+    "id": "2.2",
+    "statement": "Two identical vessels are connected by a tube with a valve letting the gas pass from one vessel into the other if the pressure difference ∆p ≥ 110.atm. Initially there was a vacuum in one vessel while the other contained ideal gas at a temperature t1 27= °C and pressure p1 100=. atm. Then both vessels were heated to a temperature t2 = °107 C. Up to what value will the pressure in the first vessel (which had vacuum initially) increase?",
+    "raw_answer": "p p T T p= − =1 2 1 2 1/ ( / ) ∆ 0.10 atm."
+  },
+  {
+    "id": "2.3",
+    "statement": "A vessel of volumeV = 20 l contains a mixture of hydrogen and helium at a temperature t = 20°C and pressure p = 20.atm. The mass of the mixture is equal to m = 50.g. Find the ratio of the mass of hydrogen to that of helium in the given mixture.",
+    "raw_answer": "0 K."
+  },
+  {
+    "id": "2.4",
+    "statement": "A vessel contains a mixture of nitrogen (m1 70=. g) and carbon dioxide (m2 11= g) at a temperature T = 290 K and pressure p0 10=. atm. Find the density of this mixture, assuming the gases to be ideal. Thermodynamics and Molecular Physics 2",
+    "raw_answer": "ρ = +\n+\n=p m m\nRT m M m M\n0 1 2\n1 1 2 2\n( )\n( / / )"
+  },
+  {
+    "id": "2.5",
+    "statement": "A vessel of volume V = 75.l contains a mixture of ideal gases at a temperature T = 300 K: v1 010=. mole of oxygen, v2 020=. mole of nitrogen, and v3 030=. mole of carbon dioxide. Assuming the gases to be  ideal, find: \n(a) the pressure of the mixture; \n(b) the mean molar mass M of the given mixture which enters its equation of state pV m M RT= ( / ), where m is the mass of the mixture.",
+    "raw_answer": "(a) p RT V= + + =( ) /ν ν ν1 2 3 2.0 atm;\n(b) M M M M= + + + + =( )/( )ν ν ν ν ν ν1 1 2 2 3 3 1 2 3 36.7 g /mol."
+  },
+  {
+    "id": "2.6",
+    "statement": "A vertical cylinder closed from both ends is equipped with an easily moving piston dividing the volume into two parts, each containing one mole of air. In equilibrium atT0 300= K the volume of the upper part is η = 40.times greater than that of the lower part. At what temperature will the ratio of these volumes be equal to η′ =30.?",
+    "raw_answer": "T T= ′ − ′ − =0\n2 2 1 1η η η η( )/ ( ) 0.42 K."
+  },
+  {
+    "id": "2.7",
+    "statement": "A vessel of volume V is evacuated by means of a piston air pump. One piston stroke captures the volume ∆V. How many strokes are needed to reduce the pressure in the vesselη times? The process is assumed to be isothermal, and the gas ideal.",
+    "raw_answer": "n\nV V\n=\n+\nln\nln ( / )\n.η\n1 ∆"
+  },
+  {
+    "id": "2.8",
+    "statement": "Find the pressure of air in a vessel being evacuated as a function of evacuation time t. The vessel volume is V, the initial pressure is p0. The process is assumed to be isothermal, and the evacuation rate equal to C and independent of pressure. Note. The evacuation rate is the gas volume being evacuated per unit time, with that volume being measured under the gas pressure attained by that moment.",
+    "raw_answer": "p p e Ct V= −\n0\n/ ."
+  },
+  {
+    "id": "2.9",
+    "statement": "A chamber of volume V = 87 l is evacuated by a pump whose evacuation rate (see Note to the foregoing problem) equals C = 10 l/s. How soon will the pressure in the chamber decrease by η = 1000 times?",
+    "raw_answer": "t V C= ⇒ =( / ) ln η 1.0 min."
+  },
+  {
+    "id": "2.10",
+    "statement": "A smooth vertical tube having two different sections is open from both ends and equipped with two pistons of different areas (). Each piston slides within a respective tube section. One mole of ideal gas is enclosed between the pistons tied with a non-stretchable thread. The cross-sectional area of the upper piston is ∆S = 10 2cm greater than that of the lower one. The combined mass of the two pistons is equal to m = 50.kg. The outside air pressure is p0 10=. atm. By how many kelvins must the gas between the pistons be heated to shift the pistons through l = 50.cm?",
+    "raw_answer": "∆ ∆T mg p S l R= + =( ) / 0 0.9 K."
+  },
+  {
+    "id": "2.11",
+    "statement": "Find the maximum attainable temperature of ideal gas in each of the following processes: \n(a) p p V= − 0 2α; \n(b) p p e V= − 2 β where p0, α and β are positive constants, and V is the volume of one mole of gas. p0 p0",
+    "raw_answer": "(a) T p R pmax / ( / ) / ;= 2 3 3 0 0 α (b) T p e Rmax / .= 0 β"
+  },
+  {
+    "id": "2.12",
+    "statement": "Find the minimum attainable pressure of ideal gas in the process T T V= +0 2α, where T0 and α are positive constants, and V is the volume of one mole of gas. Draw the approximate p vs V plot of this process.",
+    "raw_answer": "p R Tmin .= 2 0α"
+  },
+  {
+    "id": "2.13",
+    "statement": "A tall cylindrical vessel with gaseous nitrogen is located in a uniform gravitational field in which the free-fall acceleration is equal tog. The temperature of the nitrogen varies along the heighth so that its density is the same throughout the volume. Find the temperature gradient dT dh/.",
+    "raw_answer": "dT dh Mg R/ / = − = − 33 mK/m."
+  },
+  {
+    "id": "2.14",
+    "statement": "Suppose the pressure p and the density ρ of air are related as p n/ρ = const regardless of height ( n is a constant here). Find the corresponding temperature gradient.",
+    "raw_answer": "dT dh Mg n nR/ ( )/ .= − − 1"
+  },
+  {
+    "id": "2.15",
+    "statement": "Let us assume that air is under standard conditions close to the Earth’s surface. Presuming that the temperature and the molar mass of air are independent of height, find the air pressure at the height 5.0 km over the surface and in a mine at the depth 5.0 km below the surface.",
+    "raw_answer": "0.5□and□2□atm."
+  },
+  {
+    "id": "2.16",
+    "statement": "Assuming the temperature and the molar mass of air, as well as the free-fall acceleration, to be independent of the height, find the difference in heights at which the air densities at the temperature 0°C differ \n(a) e times, \n(b) by η = 1.0%.",
+    "raw_answer": "(a) h RT Mg= = / 8.0 km; (b) h RT Mg≈ =η / 0.08 km."
+  },
+  {
+    "id": "2.17",
+    "statement": "An ideal gas of molar mass M is contained in a tall vertical cylindrical vessel whose base area isS and height h. The temperature of the gas is T, its pressure on the bottom base isp0. Assuming the temperature and the free-fall acceleration g to be independent of the height, find the mass of gas in the vessel.",
+    "raw_answer": "m e p S g Mgh RT= − −( ) / . /1 0"
+  },
+  {
+    "id": "2.18",
+    "statement": "An ideal gas of molar mass M is contained in a very tall vertical cylindrical vessel in the uniform gravitational field in which the free-fall acceleration equalsg. Assuming the gas temperature to be the same and equal to T, find the height at which the centre of gravity of the gas is located.",
+    "raw_answer": "hc h dh dh RT Mg= =\n∞ ∞\n∫ ∫0 0\nρ ρ / .\n286 | Answers\nTelegram @unacademyplusdiscounts"
+  },
+  {
+    "id": "2.19",
+    "statement": "An ideal gas of molar mass M is located in the uniform gravitational field in which the free-fall acceleration is equal to g. Find the gas pressure as a function of height h, if p p= 0 at h = 0, and the temperature varies with height as \n(a) T T ah= −0 1 ( ); \n(b) T T ah= +0 1 ( ), where a is a positive constant.",
+    "raw_answer": "(a) p p ah n= − 0 1 ( ) , h a< 1/ ; (b) p p ah n= + 0 1 /( ) . Here n Mg aRT= / . 0"
+  },
+  {
+    "id": "2.20",
+    "statement": "A horizontal cylinder closed from one end is rotated with a constant angular velocityω about a vertical axis passing through the open end of the cylinder. The outside air pressure is equal top0, the temperature to T, and the molar mass of air toM. Find the air pressure as a function of the distance r from the rotation axis. The molar mass is assumed to be independent of r.",
+    "raw_answer": "p p e M r RT= 0\n22 2ω / ."
+  },
+  {
+    "id": "2.21",
+    "statement": "Under what pressure will carbon dioxide have the densityρ = 500 g/l at the temperatureT = 300 K? Carry out the calculations both for an ideal and for Van der Waals gas.",
+    "raw_answer": "p RT Mid = =ρ / 280 atm; p RT M b a M= − − =ρ ρ ρ/( ) / 2 2 80 atm."
+  },
+  {
+    "id": "2.22",
+    "statement": "One mole of nitrogen is contained in a vessel of volume V = 100. l. Find: \n(a) the temperature of the nitrogen at which the pressure can be calculated from an ideal gas law with an error η = 10% (as compared with the pressure calculated from the Van der Waals equation of state); \n(b) the gas pressure at this temperature.",
+    "raw_answer": "(a) T a V b RV V b= − + + =( )( )/ ( )1 133η η K;\n(b) p RT V b a V= − − =/( ) / 2 9.9 atm."
+  },
+  {
+    "id": "2.23",
+    "statement": "One mole of a certain gas is contained in a vessel of volumeV = 0.250 l. At a temperature T1 300= K the gas pressure is p1 90= atm, and at a temperature T2 350= K the pressure is p2 110= atm. Find the Van der Waals parameters for this gas.",
+    "raw_answer": "a V T p T p T T= − − = ⋅2\n1 2 2 1 2 1 185( )/( ) atm l /mol , 2 2\nb V R T T p p= − − − =( )/( )2 1 2 1 0.042 l/mol."
+  },
+  {
+    "id": "2.24",
+    "statement": "Find the isothermal compressibility of a Van der Waals gas as a function of volume V at temperature T. Note. By definition, x V V p = − ∂ ∂ 1.",
+    "raw_answer": "x V V b RTV a V b= − − −2 2 2 2 2( ) /[ ( ) ]."
+  },
+  {
+    "id": "2.25",
+    "statement": "Making use of the result obtained in the foregoing problem, find at what temperature the isothermal compressibility x of a Van der Waals gas is greater than that of an ideal gas. Examine the case when the molar volume is much greater than the parameter b. 2.2 The first Law of Thermodynamics. Heat Capacity ● The first law of thermodynamics: Q U A= +∆, …(2.2a) where ∆U is the increment of the internal energy of the system. ● Work performed by gas: A p dV= ∫. …(2.2b) ● Internal energy of an ideal gas: U m M C T m M RT pV V= = − = −γ γ 1 1. …(2.2c) ● Molar heat capacity in a polytropic process (pV n = constant): C R R n n R n = − − − = − − −γ γ γ1 1 1 1 ( ) ( )( ). …(2.2d) ● Internal energy of one mole of a Van der Waals gas: U C T a V V M = −. …(2.2e)",
+    "raw_answer": "T a bR> / ."
+  },
+  {
+    "id": "2.26",
+    "statement": "Demonstrate that the internal energy U of the air in a room is independent of temperature provided the outside pressure p is constant. Calculate U, if p is equal to the normal atmospheric pressure and the room’s volume is equal to V = 40 3m.",
+    "raw_answer": "U pV= − = /( )γ 1 10 mJ"
+  },
+  {
+    "id": "2.27",
+    "statement": "A thermally insulated vessel containing a gas whose molar mass is equal to M and the ratio of specific heats C Cp V/ = γ moves with a velocity v. Find the gas temperature increment resulting from the sudden stoppage of the vessel.",
+    "raw_answer": "∆T Mv R= −1 2 1 2/ ( )/ . γ"
+  },
+  {
+    "id": "2.28",
+    "statement": "Two thermally insulated vessels 1 and 2 are filled with air and connected by a short tube equipped with a valve. The volumes of the vessels, the pressures and temperatures of air in them are known (,V1 p1,T1 and V2, p2,T2). Find the air temperature and pressure established after the opening of the valve.",
+    "raw_answer": "T T T p V p V p V T p V T= + +1 2 1 1 2 2 1 1 2 2 2 1( )/( ); p p V p V V V= + +( )/( ).1 1 2 2 1 2"
+  },
+  {
+    "id": "2.29",
+    "statement": "Gaseous hydrogen contained initially under standard conditions in a sealed vessel of volume V = 5.0 l was cooled by ∆T = 55 K. Find how much the internal energy of the gas will change and what amount of heat will be lost by the gas.",
+    "raw_answer": "∆ ∆U p V T T= − − = −0 0 1/ ( ) γ 0.25 kJ,Q U′ = − ∆ ."
+  },
+  {
+    "id": "2.30",
+    "statement": "What amount of heat is to be transferred to nitrogen in the isobaric heating process for that gas to perform the work A = 2.0 J?",
+    "raw_answer": "Q A= − =γ γ/( ) 1 7 J."
+  },
+  {
+    "id": "2.31",
+    "statement": "As a result of the isobaric heating by ∆T = 72 K one mole of a certain ideal gas obtains an amount of heat Q = 1.60 kJ. Find the work performed by the gas, the increment of its internal energy, and the value of γ = C Cp V/.",
+    "raw_answer": "A R T= = ∆ 0.60 kJ, ∆ ∆U Q R T= − = 1.00 kJ, γ = − =Q Q R T/( ) ∆ 1.6."
+  },
+  {
+    "id": "2.32",
+    "statement": "Two moles of a certain ideal gas at a temperature T0 300= K were cooled isochorically so that the gas pressure reduced n = 2.0 times. Then, as a result of the isobaric process, the gas expanded till its temperature got back to the initial value. Find the total amount of heat absorbed by the gas in this process.",
+    "raw_answer": "Q RT n= − =ν 0 1 1( / ) 2.5 kJ."
+  },
+  {
+    "id": "2.33",
+    "statement": "Calculate the value of γ = C Cp V/ for a gaseous mixture consisting of v1 = 2.0 moles of oxygen and ν2 = 3.0 moles of carbon dioxide. The gases are assumed to be ideal.",
+    "raw_answer": "γ\nν γ γ ν γ γ\nν γ ν γ\n=\n− + −\n− + −\n=1 1 2 2 2 1\n1 2 2 1\n1 1\n1 1\n( ) ( )\n( ) ( )"
+  },
+  {
+    "id": "2.34",
+    "statement": "Find the specific heat capacities cV and c p for a gaseous mixture consisting of 7.0 g of nitrogen and 20 g of argon. The gases are assumed to be ideal.",
+    "raw_answer": "c V = ⋅0.42 J /(g K), c p = ⋅0.65 J /(g K)."
+  },
+  {
+    "id": "2.35",
+    "statement": "One mole of a certain ideal gas is contained under a weightless piston of a vertical cylinder at a temperature T. The space over the piston opens into the atmosphere. What work has to be performed in order to increase isothermally the gas volume under the piston n times by slowly raising the piston? The friction of the piston against the cylinder walls is negligibly small.",
+    "raw_answer": "A RT n n= − − ( ln ).1"
+  },
+  {
+    "id": "2.36",
+    "statement": "A piston can freely move inside a horizontal cylinder closed from both ends. Initially, the piston separates the inside space of the cylinder into two equal parts each of volume V0, in which an ideal gas is contained under the same pressure p0 and at the same temperature. What work has to be performed in order to increase isothermally the volume of one part of gas η times compared to that of the other by slowly moving the piston?",
+    "raw_answer": "A p V′ = + 0 0\n21 4ln [( ) / ].η η"
+  },
+  {
+    "id": "2.37",
+    "statement": "Three moles of an ideal gas being initially at a temperatureT0 273= K were isothermally expanded n = 5.0 times its initial volume and then isochorically heated so that the pressure in the final state became equal to that in the initial state. The total amount of heat transferred to the gas during the process equalsQ = 80 kJ. Find the ratioγ = C Cp V/ for this gas.",
+    "raw_answer": "γ ν= + − − =1 1 0( )/( / ln )n Q RT n 1.4."
+  },
+  {
+    "id": "2.38",
+    "statement": "Draw the approximate plots of isochoric, isobaric, isothermal, and adiabatic processes for the case of an ideal gas, using the following variables: \n(a) p, T; \n(b) V, T.",
+    "raw_answer": "See Fig. 13 where V is an isochore, p is an isobaric line, T is an isothermal line,\nand S is□an□adiabatic□line."
+  },
+  {
+    "id": "2.39",
+    "statement": "One mole of oxygen being initially at a temperature T0 290= K is adiabatically compressed to increase its pressureη = 10.0 times. Find: \n(a) the gas temperature after the compression; \n(b) the work that has been performed on the gas.",
+    "raw_answer": "(a) T T= = −\n0\n1η γ γ( )/ 0.56 K; (b) A RT′ = − − = −\n0\n1 1 1( )/( )( )/η γγ γ 5.6 kJ"
+  },
+  {
+    "id": "2.40",
+    "statement": "A certain mass of nitrogen was compressed η = 5.0 times (in terms of volume), first adiabatically, and then isothermally. In both cases the initial state of the gas was the same. Find the ratio of the respective works expended in each compression.",
+    "raw_answer": "The work in the adiabatic process is n = − − =−( )/( ) lnη γ ηγ 1 1 1 1.4 times\ngreater."
+  },
+  {
+    "id": "2.41",
+    "statement": "A heat-conducting piston can freely move inside a closed thermally insulated cylinder with an ideal gas. In equilibrium the piston divides the cylinder into two equal parts, the gas temperature being equal toT0. The piston is slowly displaced. Find the gas temperature as a function of the ratio η of the volumes of the greater and smaller sections. The adiabatic exponent of the gas is equal to γ.",
+    "raw_answer": "T T= + −\n0\n2 1 21 4[( ) / ] . ( )/η η γ"
+  },
+  {
+    "id": "2.42",
+    "statement": "Find the rate v with which helium flows out of a thermally insulated vessel into vacuum through a small hole. The flow rate of the gas inside the vessel is assumed to be negligible under these conditions. The temperature of helium in the vessel is T = 1000, K.",
+    "raw_answer": "v RT M= − =2 1γ γ /( ) 3.3 km/s."
+  },
+  {
+    "id": "2.43",
+    "statement": "The volume of one mole of an ideal gas with the adiabatic exponentγis varied according to the law V a T= /, where a is a constant. Find the amount of heat obtained by the gas in this process if the gas temperature increased by ∆T.",
+    "raw_answer": "Q R T= − −∆ ( )/( ).2 1 γ γ"
+  },
+  {
+    "id": "2.44",
+    "statement": "Demonstrate that the process in which the work performed by an ideal gas is proportional to the corresponding increment of its internal energy is described by the equationpV n = const,where n is a constant.",
+    "raw_answer": "NO_ANSWER_IN_PDF"
+  },
+  {
+    "id": "2.45",
+    "statement": "Find the molar heat capacity of an ideal gas in a polytropic process pV n = const if the adiabatic exponent of the gas is equal to γ. At what values of the polytropic constant n will the heat capacity of the gas be negative?",
+    "raw_answer": "C R n nn = − − −( )/( )( );γ γ 1 1 C n < 0 for 1 < <n γ."
+  },
+  {
+    "id": "2.46",
+    "statement": "In a certain polytropic process the volume of argon was increased α = 4.0 times. Simultaneously, the pressure decreased β = 8.0 times. Find the molar heat capacity of argon in this process, assuming the gas to be ideal.",
+    "raw_answer": "C R n n= − − − = − ⋅( )/( )( ) ( ),γ γ 1 1 4.2 J / K mol where n = ln /ln .β α\nAnswers | 287\nO\np\nV\nT Sp\nT(a) (b) T\np\nV\nS\nV T\nFig.□13\nTelegram @unacademyplusdiscounts"
+  },
+  {
+    "id": "2.47",
+    "statement": "One mole of argon is expanded polytropically, the polytropic constant being n = 1.50. In the process, the gas temperature changes by ∆T = − 26 K. Find: \n(a) the amount of heat obtained by the gas; \n(b) the work performed by the gas.",
+    "raw_answer": "(a) Q R n T n= − − − =( ) /( )( )γ γ∆ 1 1 0.11 kJ;\n(b) A R T n= − − =∆ /( ) 1 0.43 kJ."
+  },
+  {
+    "id": "2.48",
+    "statement": "An ideal gas whose adiabatic exponent equalsγis expanded according to the law p V= α,whereα is a constant. The initial volume of the gas is equal to V0. As a result of expansion the volume increases η times. Find: \n(a) the increment of the internal energy of the gas; \n(b) the work performed by the gas; \n(c) the molar heat capacity of the gas in the process.",
+    "raw_answer": "(a) ∆U V= − −α η γ0\n2 2 1 1( )/( ); (b) A V= −1 2 1 0\n2 2/ ( );α η\n(c) C R= + −1 2 1 1/ ( )/( ).γ γ"
+  },
+  {
+    "id": "2.49",
+    "statement": "An ideal gas whose adiabatic exponent equalsγis expanded so that the amount of heat transferred to the gas is equal to the decrease of its internal energy. Find: \n(a) the molar heat capacity of the gas in this process; \n(b) the equation of the process in the variables T, V; \n(c) the work performed by one mole of the gas when its volume increases η times if the initial temperature of the gas is T0.",
+    "raw_answer": "(a) C R= − − /( );γ 1 (b) TV ( )/γ − =1 2 const; (c) A RT= − − −2 1 10\n1 2( )/( ). ( )η γ γ"
+  },
+  {
+    "id": "2.50",
+    "statement": "One mole of an ideal gas whose adiabatic exponent equalsγundergoes a process in which the gas pressure relates to the temperature as p aT= α, where a and α are constants. Find: \n(a) the work performed by the gas if its temperature gets an increment ∆T; \n(b) the molar heat capacity of the gas in this process; at what value ofα will the heat capacity be negative?",
+    "raw_answer": "(a) A R T= −( ) ;1 α ∆ (b) C R R= − + −/( ) ( );γ α 1 1 C < 0 for α γ γ> − /( ). 1"
+  },
+  {
+    "id": "2.51",
+    "statement": "An ideal gas with the adiabatic exponent γ undergoes a process in which its internal energy relates to the volume as U aV= α, where a and α are constants. Find: \n(a) the work performed by the gas and the amount of heat to be transferred to this gas to increase its internal energy by ∆U; \n(b) the molar heat capacity of the gas in this process.",
+    "raw_answer": "(a) A U= −∆ ( )/ ;γ α 1 Q U= + −∆ [ ( )/ ];1 1 γ α (c) C R R= − +/( ) / .γ α 1"
+  },
+  {
+    "id": "2.52",
+    "statement": "An ideal gas has a molar heat capacityCV at constant volume. Find the molar heat capacity of this gas as a function of its volumeV, if the gas undergoes the following process: \n(a) T T V= 0e α; \n(b) p p V= 0e α, where T0, p0, and α are constants.",
+    "raw_answer": "(a) C C R VV= + / ;α (b) C C R VV= + + /( ).1 α"
+  },
+  {
+    "id": "2.53",
+    "statement": "One mole of an ideal gas whose adiabatic exponent equalsγundergoes a process p p V= +0 α /, where p0 and α are positive constants. Find: \n(a) heat capacity of the gas as a function of its volume; \n(b) the internal energy increment of the gas, the work performed by it, and the amount of heat transferred to the gas, if its volume increased from V1 to V2.",
+    "raw_answer": "(a) C R R p V= − +γ γ α/( ) / ;1 0 (b) ∆U p V V= − −0 2 1 1( )/( ); γ\nA p V V V V= − +0 2 1 2 1( ) ln ( / ); α Q p V V V V= − − +γ γ α0 2 1 2 1 1( )/( ) ln ( / )."
+  },
+  {
+    "id": "2.54",
+    "statement": "One mole of an ideal gas with heat capacity at constant pressure Cp undergoes the processT T V= +0 α,whereT0 andα are constants. Find: \n(a) heat capacity of the gas as a function of its volume; \n(b) the amount of heat transferred to the gas, if its volume increased from V1 to V2.",
+    "raw_answer": "(a) C C RT Vp= + 0/α ; (b) Q C V V RT V Vp= − +α ( ) ln ( / ).2 1 0 2 1"
+  },
+  {
+    "id": "2.55",
+    "statement": "For the case of an ideal gas find the equation of the process (in the variables T, V) in which the molar heat capacity varies as: \n(a) C C TV= + α; \n(b) C C VV= + β; \n(c) C C apV= +, where α,β, and a are constants.",
+    "raw_answer": "(a) Ve T R− =α / const; (b) Te R V/β = const; (c) V aT− = const."
+  },
+  {
+    "id": "2.56",
+    "statement": "An ideal gas has an adiabatic exponent γ. In some process its molar heat capacity varies as C T= α /, where α is a constant, Find: \n(a) the work performed by one mole of the gas during its heating from the temperature T0 to the temperature η times higher; \n(b) the equation of the process in the variables p, V.",
+    "raw_answer": "(a) A RT= − − −α η η γln ( )/( ); 0 1 1 (b) pV e pVγ α γ( )/− =1 const."
+  },
+  {
+    "id": "2.57",
+    "statement": "Find the work performed by one mole of a Van der Waals gas during its isothermal expansion from the volume V1 to V2 at a temperature T.",
+    "raw_answer": "A RT V b\nV b\na\nV V\n= −\n−\n+ − \n \nln , 2\n1 2 1\n1 1 where a and b are□Van□der□Waals□constants."
+  },
+  {
+    "id": "2.58",
+    "statement": "One mole of oxygen is expanded from a volumeV1 = 1.00 l to V2 = 5.0 l at a constant temperature T = 280 K. Calculate: \n(a) the increment of the internal energy of the gas: \n(b) the amount of the absorbed heat. The gas is assumed to be a Van der Waals gas.",
+    "raw_answer": "(a) ∆U a V a V= − =/ /1 2 0.11 kJ; (b) Q RT V b\nV b\n= −\n−\n=ln 2\n1"
+  },
+  {
+    "id": "2.59",
+    "statement": "For a Van der Waals gas find: \n(a) the equation of the adiabatic curve in the variables T, V; \n(b) the difference of the molar heat capacities C Cp V− as a function of T and V.",
+    "raw_answer": "(a) T V b R CV( ) /− = const; (b) C C R\na V b RTV\np V− =\n− −1 2 2 3( ) /\n."
+  },
+  {
+    "id": "2.60",
+    "statement": "Two thermally insulated vessels are interconnected by a tube equipped with a valve. One vessel of volumeV1 10= l contains ν = 2.5, moles of carbon dioxide. The other vessel of volume V2 100= l is evacuated. The valve having been opened, the gas adiabatically expanded. Assuming the gas to obey the Van der Waals equation, find its temperature change accompanying the expansion.",
+    "raw_answer": "∆T aV\nRV V V\n= − −\n+\n= −ν γ 2\n1 1 2\n1( )\n( )"
+  },
+  {
+    "id": "2.61",
+    "statement": "What amount of heat has to be transferred to ν = 3.0 moles of carbon dioxide to keep its temperature constant while it expands into vacuum from the volumeV1 = 5.0 l to V2 10= l? The gas is assumed to be a Van der Waals gas. 2.3 Kinetic Theory of Gases. Boltzmann’s Law and Maxwell’s Distribution ● Number of collisions exercised by gas molecules on a unit area of the wall surface per unit time: ν = 1 4 n v, …(2.3a) where n is the concentration of molecules, and v is their mean velocity. ● Equation of an ideal gas state: p nkT=. …(2.3b) ● Mean energy of molecules: ε = i kT 2, …(2.3c) where i is the sum of translational, rotational, and the double number of vibrational degrees of freedom. ● Maxwellian distribution: dN v N m kT e dvx mv kT x x( ), / /=     − 2 1 2 22 π …(2.3d) dN v N m kT e v dvmv kt( ). / /=     − 2 4 3 2 2 22 π π …(2.3e) ● Maxwellian distribution in a reduced form: dN u N e u du u( ),= −4 2 2 π …(2.3f) where, u v v p= /, v p is the most probable velocity. ● The most probable, the mean, and the root mean square velocities of molecules: v kT m p = 2, v kT m = 8 π, v kT m eq = 3 …(2.3g) ● Boltzmann’s formula: n n e U U kT= − − 0 0( )/, …(2.3h) where U is the potential energy of a molecule.",
+    "raw_answer": "Q a V V V V= − =ν2\n2 1 1 2( )/ 0.33 kJ."
+  }
+]

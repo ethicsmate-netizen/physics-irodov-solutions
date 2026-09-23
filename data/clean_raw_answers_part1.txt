@@ -1,7 +1,3 @@
-
---- PDF Page 275 (Book p.269) ---
-
-Physical□Fundamentals□of□Mechanics
 1. v l= =/2τ 3.0 km per□hour.
 2. v v v v v v v= + + +2 20 1 2 0 1 2( )/( ).
 3. ∆t v t= − =τ ω1 4 15 / s.
@@ -78,7 +74,6 @@ Fig.□1
 Telegram @unacademyplusdiscounts
 
 --- PDF Page 276 (Book p.270) ---
-
 17. CD l= − / . η2 1
 18. See.□Fig.□1b.
 19. (a) v R= =π τ/ 50 cm/s; (b) | | /v R = =2 32τ cm/s;
@@ -174,7 +169,6 @@ Fig.□2
 Telegram @unacademyplusdiscounts
 
 --- PDF Page 277 (Book p.271) ---
-
 37. w a n= + =1 4 2 2( ) .π 0.8 m/s
 38. (a) v v v t R v e R= + = −
 0 0 0
@@ -257,7 +251,6 @@ Fig.□3
 Telegram @unacademyplusdiscounts
 
 --- PDF Page 278 (Book p.272) ---
-
 64. w g .2 1= − − + =( sin cos )/( )η α α η k 0.05g
 65. When t t≤ 0, the accelerations
 w w at m m1 2 1 2= = + /( ); whent t≥ 0w kgm m1 2 1= / ,
@@ -360,7 +353,6 @@ Fig.□4
 Telegram @unacademyplusdiscounts
 
 --- PDF Page 279 (Book p.273) ---
-
 93. (a) Let us examine a small element of the thread in
 contact with the pulley (Fig. 5). Since the element is
 weightless, dT dF kdFfr n= = and dF T dn = α .
@@ -448,7 +440,6 @@ Fig.□5
 Telegram @unacademyplusdiscounts
 
 --- PDF Page 280 (Book p.274) ---
-
 113. F m r v rcor = + =2 1 2
 0
 2ω /ω ( ) 2.8 N.
@@ -524,7 +515,6 @@ Fig.□7
 Telegram @unacademyplusdiscounts
 
 --- PDF Page 281 (Book p.275) ---
-
 145. r g= =( / ) tanω θ2 0.8 cm,T mg= = /cos θ 5 N.
 146. (a) F mg l gfr = + = [sin ( / ) cos ]α ω α 2 6 N.
 (b) ω α α<< − + =g k l k( tan )/ ( tan ) 1 2 rad /s.
@@ -623,7 +613,6 @@ Answers | 277
 Telegram @unacademyplusdiscounts
 
 --- PDF Page 282 (Book p.276) ---
-
 178. Suppose that at a certain momentt the rocket has the massm and the velocityv
 relative to the referene frame employed. Consider the inertial reference frame
 moving with the same velocity as the rocket has at a given moment. In this
@@ -692,7 +681,6 @@ revolution□around□the□Sun.□Hence, τ = =T /4 2 65days.
 Telegram @unacademyplusdiscounts
 
 --- PDF Page 283 (Book p.277) ---
-
 204. Will□not□change.
 205. l M T= γ π ( / ) .2 23
 206. (a) U m m r= − γ 1 2 / ; (b) U mM l l a= − +γ( / ) ln ( / ); 1 F mM a a l= +γ / ( ).
@@ -814,7 +802,6 @@ Fig.□10
 Telegram @unacademyplusdiscounts
 
 --- PDF Page 284 (Book p.278) ---
-
 δ γ δU m m R= − / . Summing over all elements and taking into account that each
 pair of interacting elements appears twice in the result, we obtain
 U vm R= − 2 2 / ;
@@ -906,7 +893,6 @@ point□of□the□side BC.
 Telegram @unacademyplusdiscounts
 
 --- PDF Page 285 (Book p.279) ---
-
 240. I mR= 1 4 2/ .
 241. I mR= = ⋅( / ) .37 72 2 2 0.15 kg m
 242. I mR= 2 3 2/ .
@@ -1029,7 +1015,6 @@ Answers | 281
 Telegram @unacademyplusdiscounts
 
 --- PDF Page 286 (Book p.280) ---
-
 275. (a) v M m gl= ( / ) / sin ( / );2 3 2 α (b) ∆p M gl= 1 6 2/ sin ( / ); α (c) z l≈ 2 3 / .
 276. (a) ω ω= +( / ) ;1 2 0m M (b) A m R m M= +1 2 1 2 0
 2 2/ ( / ).ω
@@ -1124,7 +1109,6 @@ Fig.□11
 Telegram @unacademyplusdiscounts
 
 --- PDF Page 287 (Book p.281) ---
-
 302. λ = Fl EI3 48 / .
 303. (a) λ ρ= 3 2 4 2/ / ; gl Eh (b) λ ρ= 5 2 4 2/ / . gl Eh Here ρ is□the□density□of□steel.
 304. λ βρ= 9 5 5 2/ / , l Eh where ρ is□the□density□of□steel.
@@ -1220,7 +1204,6 @@ Answers | 283
 Telegram @unacademyplusdiscounts
 
 --- PDF Page 288 (Book p.282) ---
-
 335. The additional head ∆h = 5cm at the left-hand end of the tube imparts kinetic
 energy to the liquid flowing into the tube. From the conditionpv g h2 2 /= ρ ∆ we
 get v g h= = 2 ∆ 1.0 m/s.
@@ -1316,7 +1299,6 @@ Fig.□12
 Telegram @unacademyplusdiscounts
 
 --- PDF Page 289 (Book p.283) ---
-
 355. x c= − −( ) / ,1 1 2β β where β = v c/ .
 356. It□should□be□shown□first□that□if ∆t t t= − >2 1 0,then ∆t t t′ = ′ − ′ >2 1 0.
 357. (a) 13□ns; (b) 4.0□m. Instruction. Employ□the□invariance□of□the□interval.
@@ -1435,7 +1417,6 @@ Answers | 285
 Telegram @unacademyplusdiscounts
 
 --- PDF Page 290 (Book p.284) ---
-
 379. F m c a= 0
 2 / .
 380. (a) In two cases: F v| | and F v;⊥ (b) F w⊥ = −m0
@@ -1495,46 +1476,3 @@ u c= −
 /
 / Use the momentum conservation law (as solving problem
 178)□and□the□relativistic□formula□for□velocity□transformation.
-Thermodynamics□and□Molecular□Physics
-1. m V p p= =ρ ∆ / 0 30 g where p0 is□the□standard□atomspheric□pressure.
-2. p p T T p= − =1 2 1 2 1/ ( / ) ∆ 0.10 atm.
-3. m m a M a M1 2 2 1 1 1/ ( / )/( / )= − − = 0.50, where a mRT pV= / .
-4. ρ = +
-+
-=p m m
-RT m M m M
-0 1 2
-1 1 2 2
-( )
-( / / )
-1.5g /l.
-5. (a) p RT V= + + =( ) /ν ν ν1 2 3 2.0 atm;
-(b) M M M M= + + + + =( )/( )ν ν ν ν ν ν1 1 2 2 3 3 1 2 3 36.7 g /mol.
-6. T T= ′ − ′ − =0
-2 2 1 1η η η η( )/ ( ) 0.42 K.
-7. n
-V V
-=
-+
-ln
-ln ( / )
-.η
-1 ∆
-8. p p e Ct V= −
-0
-/ .
-9. t V C= ⇒ =( / ) ln η 1.0 min.
-10. ∆ ∆T mg p S l R= + =( ) / 0 0.9 K.
-11. (a) T p R pmax / ( / ) / ;= 2 3 3 0 0 α (b) T p e Rmax / .= 0 β
-12. p R Tmin .= 2 0α
-13. dT dh Mg R/ / = − = − 33 mK/m.
-14. dT dh Mg n nR/ ( )/ .= − − 1
-15. 0.5□and□2□atm.
-16. (a) h RT Mg= = / 8.0 km; (b) h RT Mg≈ =η / 0.08 km.
-17. m e p S g Mgh RT= − −( ) / . /1 0
-18. hc h dh dh RT Mg= =
-∞ ∞
-∫ ∫0 0
-ρ ρ / .
-286 | Answers
-Telegram @unacademyplusdiscounts
